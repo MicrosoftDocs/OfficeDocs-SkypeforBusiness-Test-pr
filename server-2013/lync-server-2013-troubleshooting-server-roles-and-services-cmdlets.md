@@ -47,7 +47,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
 **Troubleshooting Server Roles and Services**
 
   - <span></span>  
-    [Get-CsAudioTestServiceApplication](get-csaudiotestserviceapplication.md)
+    [Get-CsAudioTestServiceApplication](https://technet.microsoft.com/en-us/library/Gg412984(v=OCS.15))
 
   - <span></span>  
     [Set-CsAudioTestServiceApplication](set-csaudiotestserviceapplication.md)
@@ -55,7 +55,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsHealthMonitoringConfiguration](get-cshealthmonitoringconfiguration.md)
+    [Get-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398667(v=OCS.15))
 
   - <span></span>  
     [New-CsHealthMonitoringConfiguration](new-cshealthmonitoringconfiguration.md)
@@ -69,7 +69,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDiagnosticConfiguration](get-csdiagnosticconfiguration.md)
+    [Get-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg413034(v=OCS.15))
 
   - <span></span>  
     [New-CsDiagnosticConfiguration](new-csdiagnosticconfiguration.md)
@@ -88,7 +88,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDiagnosticHeaderConfiguration](get-csdiagnosticheaderconfiguration.md)
+    [Get-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg412774(v=OCS.15))
 
   - <span></span>  
     [New-CsDiagnosticHeaderConfiguration](new-csdiagnosticheaderconfiguration.md)

@@ -95,7 +95,7 @@ The configure IM and presence, use the following cmdlets:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsFileTransferFilterConfiguration](get-csfiletransferfilterconfiguration.md)
+    [Get-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398527(v=OCS.15))
 
   - <span></span>  
     [New-CsFileTransferFilterConfiguration](new-csfiletransferfilterconfiguration.md)
@@ -109,7 +109,7 @@ The configure IM and presence, use the following cmdlets:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsImFilterConfiguration](get-csimfilterconfiguration.md)
+    [Get-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398980(v=OCS.15))
 
   - <span></span>  
     [New-CsImFilterConfiguration](new-csimfilterconfiguration.md)

@@ -37,7 +37,7 @@ Many management tasks that apply to security settings can be performed from the 
 **[Certificate and authentication cmdlets in Lync Server 2013](lync-server-2013-certificate-and-authentication-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsCertificate](get-cscertificate.md)
+    [Get-CsCertificate](https://technet.microsoft.com/en-us/library/Gg398227(v=OCS.15))
 
   - <span></span>  
     [Import-CsCertificate](import-cscertificate.md)
@@ -59,7 +59,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientCertificate](get-csclientcertificate.md)
+    [Get-CsClientCertificate](https://technet.microsoft.com/en-us/library/Gg398143(v=OCS.15))
 
   - <span></span>  
     [Revoke-CsClientCertificate](revoke-csclientcertificate.md)
@@ -78,7 +78,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientPinInfo](get-csclientpininfo.md)
+    [Get-CsClientPinInfo](https://technet.microsoft.com/en-us/library/Gg425947(v=OCS.15))
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsKerberosAccountAssignment](get-cskerberosaccountassignment.md)
+    [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
     [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)
@@ -198,13 +198,13 @@ Many management tasks that apply to security settings can be performed from the 
 
 **[Interoperability cmdlets in Lync Server 2013](lync-server-2013-interoperability-cmdlets.md)**
 
-  - [Get-CsOAuthConfiguration](get-csoauthconfiguration.md)
+  - [Get-CsOAuthConfiguration](https://technet.microsoft.com/en-us/library/JJ205155(v=OCS.15))
 
   - [Set-CsOAuthConfiguration](set-csoauthconfiguration.md)
 
 <!-- end list -->
 
-  - [Get-CsOAuthServer](get-csoauthserver.md)
+  - [Get-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205238(v=OCS.15))
 
   - [New-CsOAuthServer](new-csoauthserver.md)
 
@@ -214,7 +214,7 @@ Many management tasks that apply to security settings can be performed from the 
 
 <!-- end list -->
 
-  - [Get-CsPartnerApplication](get-cspartnerapplication.md)
+  - [Get-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ205128(v=OCS.15))
 
   - [New-CsPartnerApplication](new-cspartnerapplication.md)
 

@@ -77,7 +77,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsManagementStoreReplicationStatus](get-csmanagementstorereplicationstatus.md)
+    [Get-CsManagementStoreReplicationStatus](https://technet.microsoft.com/en-us/library/Gg399052(v=OCS.15))
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Enable-CsComputer](https://technet.microsoft.com/en-us/library/Gg412815(v=OCS.15))
 
   - <span></span>  
-    [Get-CsComputer](get-cscomputer.md)
+    [Get-CsComputer](https://technet.microsoft.com/en-us/library/Gg425959(v=OCS.15))
 
   - <span></span>  
     [Test-CsComputer](test-cscomputer.md)
@@ -158,11 +158,11 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkInterface](get-csnetworkinterface.md)
+    [Get-CsNetworkInterface](https://technet.microsoft.com/en-us/library/Gg398121(v=OCS.15))
 
 **[Backup and high availability cmdlets in Lync Server 2013](lync-server-2013-backup-and-high-availability-cmdlets.md)**
 
-  - [Get-CsBackupServiceConfiguration](get-csbackupserviceconfiguration.md)
+  - [Get-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ205087(v=OCS.15))
 
   - [Remove-CsBackupServiceConfiguration](remove-csbackupserviceconfiguration.md)
 
@@ -170,7 +170,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 
 <!-- end list -->
 
-  - [Get-CsBackupServiceStatus](get-csbackupservicestatus.md)
+  - [Get-CsBackupServiceStatus](https://technet.microsoft.com/en-us/library/JJ205032(v=OCS.15))
 
 <!-- end list -->
 

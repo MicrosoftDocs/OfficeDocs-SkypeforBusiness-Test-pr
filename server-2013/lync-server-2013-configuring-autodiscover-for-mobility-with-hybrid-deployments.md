@@ -59,7 +59,7 @@ To enable mobile clients to discover the deployment where the user home server i
 ## See Also
 
 
-[Get-CsHostingProvider](get-cshostingprovider.md)  
+[Get-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg413078(v=OCS.15))  
 [Set-CsHostingProvider](set-cshostingprovider.md)  
   
 

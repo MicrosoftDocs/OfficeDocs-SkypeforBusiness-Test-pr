@@ -95,7 +95,7 @@ The following is a list of cmdlets that relate directly to managing Web Servers 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsKerberosAccountAssignment](get-cskerberosaccountassignment.md)
+    [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
     [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)

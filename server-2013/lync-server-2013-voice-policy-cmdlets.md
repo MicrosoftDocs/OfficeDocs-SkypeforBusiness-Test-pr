@@ -37,7 +37,7 @@ The following cmdlets can be used to manage voice policies and dial plans for En
 **Voice Policy**
 
   - <span></span>  
-    [Get-CsDialPlan](get-csdialplan.md)
+    [Get-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg413043(v=OCS.15))
 
   - <span></span>  
     [Grant-CsDialPlan](grant-csdialplan.md)

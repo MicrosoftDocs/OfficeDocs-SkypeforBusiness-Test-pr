@@ -62,7 +62,7 @@ Deployment and configuration of XMPP is covered in [Deploying external user acce
 
 
 [Manage XMPP federated partners in Lync Server 2013](lync-server-2013-manage-xmpp-federated-partners-for-your-organization.md)  
-[Get-CsExternalAccessPolicy](get-csexternalaccesspolicy.md)  
+[Get-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425805(v=OCS.15))  
 [Get-CsXmppAllowedPartner](get-csxmppallowedpartner.md)  
 [Get-CsXmppGatewayConfiguration](get-csxmppgatewayconfiguration.md)  
   

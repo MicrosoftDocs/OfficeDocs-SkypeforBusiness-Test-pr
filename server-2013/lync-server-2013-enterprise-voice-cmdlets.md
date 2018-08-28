@@ -112,7 +112,7 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 **[Voice policy cmdlets in Lync Server 2013](lync-server-2013-voice-policy-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsDialPlan](get-csdialplan.md)
+    [Get-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg413043(v=OCS.15))
 
   - <span></span>  
     [Grant-CsDialPlan](grant-csdialplan.md)

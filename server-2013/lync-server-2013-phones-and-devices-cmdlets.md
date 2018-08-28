@@ -52,7 +52,7 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCommonAreaPhone](get-cscommonareaphone.md)
+    [Get-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg412934(v=OCS.15))
 
   - <span></span>  
     [Move-CsCommonAreaPhone](move-cscommonareaphone.md)
@@ -88,7 +88,7 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDeviceUpdateConfiguration](get-csdeviceupdateconfiguration.md)
+    [Get-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg399030(v=OCS.15))
 
   - <span></span>  
     [New-CsDeviceUpdateConfiguration](new-csdeviceupdateconfiguration.md)
@@ -113,7 +113,7 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [Approve-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398949(v=OCS.15))
 
   - <span></span>  
-    [Get-CsDeviceUpdateRule](get-csdeviceupdaterule.md)
+    [Get-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398215(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDeviceUpdateRule](remove-csdeviceupdaterule.md)

@@ -37,7 +37,7 @@ Use the following cmdlets for media configuration.
 **Media Configuration**
 
   - <span></span>  
-    [Get-CsMediaConfiguration](get-csmediaconfiguration.md)
+    [Get-CsMediaConfiguration](https://technet.microsoft.com/en-us/library/Gg398128(v=OCS.15))
 
   - <span></span>  
     [New-CsMediaConfiguration](new-csmediaconfiguration.md)

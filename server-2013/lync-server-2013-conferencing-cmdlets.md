@@ -37,7 +37,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 **[Dial-in conferencing cmdlets in Lync Server 2013](lync-server-2013-dial-in-conferencing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsConferenceDirectory](get-csconferencedirectory.md)
+    [Get-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg425771(v=OCS.15))
 
   - <span></span>  
     [Move-CsConferenceDirectory](move-csconferencedirectory.md)
@@ -56,7 +56,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingAccessNumber](get-csdialinconferencingaccessnumber.md)
+    [Get-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg413015(v=OCS.15))
 
   - <span></span>  
     [New-CsDialInConferencingAccessNumber](new-csdialinconferencingaccessnumber.md)
@@ -70,7 +70,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingConfiguration](get-csdialinconferencingconfiguration.md)
+    [Get-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398575(v=OCS.15))
 
   - <span></span>  
     [New-CsDialInConferencingConfiguration](new-csdialinconferencingconfiguration.md)
@@ -84,7 +84,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingDtmfConfiguration](get-csdialinconferencingdtmfconfiguration.md)
+    [Get-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg398578(v=OCS.15))
 
   - <span></span>  
     [New-CsDialInConferencingDtmfConfiguration](new-csdialinconferencingdtmfconfiguration.md)
@@ -98,12 +98,12 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingLanguageList](get-csdialinconferencinglanguagelist.md)
+    [Get-CsDialInConferencingLanguageList](https://technet.microsoft.com/en-us/library/Gg425869(v=OCS.15))
 
 **[Web conferencing cmdlets in Lync Server 2013](lync-server-2013-web-conferencing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsConferenceDisclaimer](get-csconferencedisclaimer.md)
+    [Get-CsConferenceDisclaimer](https://technet.microsoft.com/en-us/library/Gg425714(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConferenceDisclaimer](remove-csconferencedisclaimer.md)
@@ -119,7 +119,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsConferencingConfiguration](get-csconferencingconfiguration.md)
+    [Get-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398965(v=OCS.15))
 
   - <span></span>  
     [New-CsConferencingConfiguration](new-csconferencingconfiguration.md)
@@ -133,7 +133,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsConferencingPolicy](get-csconferencingpolicy.md)
+    [Get-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg398293(v=OCS.15))
 
   - <span></span>  
     [Grant-CsConferencingPolicy](grant-csconferencingpolicy.md)
@@ -150,7 +150,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsMeetingConfiguration](get-csmeetingconfiguration.md)
+    [Get-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg425875(v=OCS.15))
 
   - <span></span>  
     [New-CsMeetingConfiguration](new-csmeetingconfiguration.md)
@@ -167,7 +167,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 
   - [Enable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205062(v=OCS.15))
 
-  - [Get-CsMeetingRoom](get-csmeetingroom.md)
+  - [Get-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205277(v=OCS.15))
 
   - [Move-CsMeetingRoom](move-csmeetingroom.md)
 

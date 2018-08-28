@@ -37,7 +37,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
 **Web Conferencing**
 
   - <span></span>  
-    [Get-CsConferenceDisclaimer](get-csconferencedisclaimer.md)
+    [Get-CsConferenceDisclaimer](https://technet.microsoft.com/en-us/library/Gg425714(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConferenceDisclaimer](remove-csconferencedisclaimer.md)
@@ -53,7 +53,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsConferencingConfiguration](get-csconferencingconfiguration.md)
+    [Get-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398965(v=OCS.15))
 
   - <span></span>  
     [New-CsConferencingConfiguration](new-csconferencingconfiguration.md)
@@ -67,7 +67,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsConferencingPolicy](get-csconferencingpolicy.md)
+    [Get-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg398293(v=OCS.15))
 
   - <span></span>  
     [Grant-CsConferencingPolicy](grant-csconferencingpolicy.md)
@@ -84,7 +84,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsMeetingConfiguration](get-csmeetingconfiguration.md)
+    [Get-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg425875(v=OCS.15))
 
   - <span></span>  
     [New-CsMeetingConfiguration](new-csmeetingconfiguration.md)
@@ -101,7 +101,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
 
   - [Enable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205062(v=OCS.15))
 
-  - [Get-CsMeetingRoom](get-csmeetingroom.md)
+  - [Get-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205277(v=OCS.15))
 
   - [Move-CsMeetingRoom](move-csmeetingroom.md)
 

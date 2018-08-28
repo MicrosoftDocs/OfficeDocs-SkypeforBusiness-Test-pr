@@ -36,7 +36,7 @@ The following is a list of cmdlets that relate directly to backing up and config
 
 **Backup and High Availability Cmdlets**
 
-  - [Get-CsBackupServiceConfiguration](get-csbackupserviceconfiguration.md)
+  - [Get-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ205087(v=OCS.15))
 
   - [Remove-CsBackupServiceConfiguration](remove-csbackupserviceconfiguration.md)
 
@@ -44,7 +44,7 @@ The following is a list of cmdlets that relate directly to backing up and config
 
 <!-- end list -->
 
-  - [Get-CsBackupServiceStatus](get-csbackupservicestatus.md)
+  - [Get-CsBackupServiceStatus](https://technet.microsoft.com/en-us/library/JJ205032(v=OCS.15))
 
 <!-- end list -->
 

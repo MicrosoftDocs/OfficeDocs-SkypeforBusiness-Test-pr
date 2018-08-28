@@ -83,7 +83,7 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
     [Enable-CsComputer](https://technet.microsoft.com/en-us/library/Gg412815(v=OCS.15))
 
   - <span></span>  
-    [Get-CsComputer](get-cscomputer.md)
+    [Get-CsComputer](https://technet.microsoft.com/en-us/library/Gg425959(v=OCS.15))
 
   - <span></span>  
     [Test-CsComputer](test-cscomputer.md)
@@ -91,7 +91,7 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkInterface](get-csnetworkinterface.md)
+    [Get-CsNetworkInterface](https://technet.microsoft.com/en-us/library/Gg398121(v=OCS.15))
 
 </div>
 

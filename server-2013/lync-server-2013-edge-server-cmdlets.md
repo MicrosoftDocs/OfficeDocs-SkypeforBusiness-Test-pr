@@ -61,7 +61,7 @@ The following is a list of cmdlets that relate directly to managing Edge Servers
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAVEdgeConfiguration](get-csavedgeconfiguration.md)
+    [Get-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413008(v=OCS.15))
 
   - <span></span>  
     [New-CsAVEdgeConfiguration](new-csavedgeconfiguration.md)

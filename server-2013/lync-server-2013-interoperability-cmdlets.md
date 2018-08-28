@@ -36,13 +36,13 @@ The following is a list of cmdlets that relate directly to configuring and manag
 
 **Interoperability Cmdlets**
 
-  - [Get-CsOAuthConfiguration](get-csoauthconfiguration.md)
+  - [Get-CsOAuthConfiguration](https://technet.microsoft.com/en-us/library/JJ205155(v=OCS.15))
 
   - [Set-CsOAuthConfiguration](set-csoauthconfiguration.md)
 
 <!-- end list -->
 
-  - [Get-CsOAuthServer](get-csoauthserver.md)
+  - [Get-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205238(v=OCS.15))
 
   - [New-CsOAuthServer](new-csoauthserver.md)
 
@@ -52,7 +52,7 @@ The following is a list of cmdlets that relate directly to configuring and manag
 
 <!-- end list -->
 
-  - [Get-CsPartnerApplication](get-cspartnerapplication.md)
+  - [Get-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ205128(v=OCS.15))
 
   - [New-CsPartnerApplication](new-cspartnerapplication.md)
 

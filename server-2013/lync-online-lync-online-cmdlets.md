@@ -34,9 +34,9 @@ This page lists all the Windows PowerShell cmdlets available to administrators o
 
 The following cmdlets can be used only with Lync Online:
 
-  - [Get-CsAudioConferencingProvider](get-csaudioconferencingprovider.md)
+  - [Get-CsAudioConferencingProvider](https://technet.microsoft.com/en-us/library/JJ994030(v=OCS.15))
 
-  - [Get-CsOnlineUser](get-csonlineuser.md)
+  - [Get-CsOnlineUser](https://technet.microsoft.com/en-us/library/JJ994026(v=OCS.15))
 
   - [Get-CsTenant](get-cstenant.md)
 
@@ -76,21 +76,21 @@ These cmdlets can be used either with Lync Online or with the on-premises versio
 
   - [Enable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205062(v=OCS.15))
 
-  - [Get-CsClientPolicy](get-csclientpolicy.md)
+  - [Get-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg398830(v=OCS.15))
 
-  - [Get-CsConferencingPolicy](get-csconferencingpolicy.md)
+  - [Get-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg398293(v=OCS.15))
 
-  - [Get-CsExternalAccessPolicy](get-csexternalaccesspolicy.md)
+  - [Get-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425805(v=OCS.15))
 
-  - [Get-CsExUmContact](get-csexumcontact.md)
+  - [Get-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412725(v=OCS.15))
 
-  - [Get-CsHostedVoicemailPolicy](get-cshostedvoicemailpolicy.md)
+  - [Get-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398348(v=OCS.15))
 
-  - [Get-CsImFilterConfiguration](get-csimfilterconfiguration.md)
+  - [Get-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398980(v=OCS.15))
 
-  - [Get-CsMeetingConfiguration](get-csmeetingconfiguration.md)
+  - [Get-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg425875(v=OCS.15))
 
-  - [Get-CsMeetingRoom](get-csmeetingroom.md)
+  - [Get-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205277(v=OCS.15))
 
   - [Get-CsPresencePolicy](get-cspresencepolicy.md)
 

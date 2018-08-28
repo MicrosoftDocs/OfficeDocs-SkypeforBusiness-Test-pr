@@ -95,7 +95,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsArchivingPolicy](get-csarchivingpolicy.md)
+    [Get-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425731(v=OCS.15))
 
   - <span></span>  
     [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
@@ -117,7 +117,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCdrConfiguration](get-cscdrconfiguration.md)
+    [Get-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398298(v=OCS.15))
 
   - <span></span>  
     [New-CsCdrConfiguration](new-cscdrconfiguration.md)
@@ -207,7 +207,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Database and Management Server cmdlets in Lync Server 2013](lync-server-2013-database-and-management-server-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsConfigurationStoreLocation](get-csconfigurationstorelocation.md)
+    [Get-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg412814(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConfigurationStoreLocation](remove-csconfigurationstorelocation.md)
@@ -232,7 +232,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 
 <!-- end list -->
 
-  - [Get-CsDatabaseMirrorState](get-csdatabasemirrorstate.md)
+  - [Get-CsDatabaseMirrorState](https://technet.microsoft.com/en-us/library/JJ204845(v=OCS.15))
 
 <!-- end list -->
 
@@ -276,7 +276,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAVEdgeConfiguration](get-csavedgeconfiguration.md)
+    [Get-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413008(v=OCS.15))
 
   - <span></span>  
     [New-CsAVEdgeConfiguration](new-csavedgeconfiguration.md)
@@ -360,7 +360,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Troubleshooting server roles and services cmdlets in Lync Server 2013](lync-server-2013-troubleshooting-server-roles-and-services-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAudioTestServiceApplication](get-csaudiotestserviceapplication.md)
+    [Get-CsAudioTestServiceApplication](https://technet.microsoft.com/en-us/library/Gg412984(v=OCS.15))
 
   - <span></span>  
     [Set-CsAudioTestServiceApplication](set-csaudiotestserviceapplication.md)
@@ -368,7 +368,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsHealthMonitoringConfiguration](get-cshealthmonitoringconfiguration.md)
+    [Get-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398667(v=OCS.15))
 
   - <span></span>  
     [New-CsHealthMonitoringConfiguration](new-cshealthmonitoringconfiguration.md)
@@ -382,7 +382,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDiagnosticConfiguration](get-csdiagnosticconfiguration.md)
+    [Get-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg413034(v=OCS.15))
 
   - <span></span>  
     [New-CsDiagnosticConfiguration](new-csdiagnosticconfiguration.md)
@@ -401,7 +401,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDiagnosticHeaderConfiguration](get-csdiagnosticheaderconfiguration.md)
+    [Get-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg412774(v=OCS.15))
 
   - <span></span>  
     [New-CsDiagnosticHeaderConfiguration](new-csdiagnosticheaderconfiguration.md)
@@ -468,7 +468,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsKerberosAccountAssignment](get-cskerberosaccountassignment.md)
+    [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
     [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)

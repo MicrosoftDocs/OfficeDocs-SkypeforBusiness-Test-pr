@@ -37,7 +37,7 @@ The following is a list of cmdlets that relate directly to managing certificates
 **Certificates and Authentication**
 
   - <span></span>  
-    [Get-CsCertificate](get-cscertificate.md)
+    [Get-CsCertificate](https://technet.microsoft.com/en-us/library/Gg398227(v=OCS.15))
 
   - <span></span>  
     [Import-CsCertificate](import-cscertificate.md)
@@ -59,7 +59,7 @@ The following is a list of cmdlets that relate directly to managing certificates
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientCertificate](get-csclientcertificate.md)
+    [Get-CsClientCertificate](https://technet.microsoft.com/en-us/library/Gg398143(v=OCS.15))
 
   - <span></span>  
     [Revoke-CsClientCertificate](revoke-csclientcertificate.md)
@@ -78,7 +78,7 @@ The following is a list of cmdlets that relate directly to managing certificates
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientPinInfo](get-csclientpininfo.md)
+    [Get-CsClientPinInfo](https://technet.microsoft.com/en-us/library/Gg425947(v=OCS.15))
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@ The following is a list of cmdlets that relate directly to managing certificates
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsKerberosAccountAssignment](get-cskerberosaccountassignment.md)
+    [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
     [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)

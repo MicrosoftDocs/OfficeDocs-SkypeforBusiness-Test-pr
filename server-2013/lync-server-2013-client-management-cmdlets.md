@@ -45,7 +45,7 @@ Client management consists primarily of determining which client applications (s
 Most management tasks that apply to client management can be performed from the Lync Server 2013 Control Panel. These same tasks can be performed using cmdlets from the Lync Server Management Shell or from within a script. By using a script, you can automate certain tasks. The following is a list of cmdlets that relate directly to client management:
 
   - <span></span>  
-    [Get-CsClientPolicy](get-csclientpolicy.md)
+    [Get-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg398830(v=OCS.15))
 
   - <span></span>  
     [Grant-CsClientPolicy](grant-csclientpolicy.md)
@@ -67,7 +67,7 @@ Most management tasks that apply to client management can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientVersionConfiguration](get-csclientversionconfiguration.md)
+    [Get-CsClientVersionConfiguration](https://technet.microsoft.com/en-us/library/Gg399072(v=OCS.15))
 
   - <span></span>  
     [New-CsClientVersionConfiguration](new-csclientversionconfiguration.md)
@@ -81,7 +81,7 @@ Most management tasks that apply to client management can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientVersionPolicy](get-csclientversionpolicy.md)
+    [Get-CsClientVersionPolicy](https://technet.microsoft.com/en-us/library/Gg398957(v=OCS.15))
 
   - <span></span>  
     [Grant-CsClientVersionPolicy](grant-csclientversionpolicy.md)
@@ -98,7 +98,7 @@ Most management tasks that apply to client management can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsClientVersionPolicyRule](get-csclientversionpolicyrule.md)
+    [Get-CsClientVersionPolicyRule](https://technet.microsoft.com/en-us/library/Gg413048(v=OCS.15))
 
   - <span></span>  
     [New-CsClientVersionPolicyRule](new-csclientversionpolicyrule.md)

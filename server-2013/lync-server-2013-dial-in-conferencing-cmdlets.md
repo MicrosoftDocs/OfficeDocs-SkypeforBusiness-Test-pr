@@ -37,7 +37,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
 **Dial-In Conferencing**
 
   - <span></span>  
-    [Get-CsConferenceDirectory](get-csconferencedirectory.md)
+    [Get-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg425771(v=OCS.15))
 
   - <span></span>  
     [Move-CsConferenceDirectory](move-csconferencedirectory.md)
@@ -56,7 +56,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingAccessNumber](get-csdialinconferencingaccessnumber.md)
+    [Get-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg413015(v=OCS.15))
 
   - <span></span>  
     [New-CsDialInConferencingAccessNumber](new-csdialinconferencingaccessnumber.md)
@@ -70,7 +70,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingConfiguration](get-csdialinconferencingconfiguration.md)
+    [Get-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398575(v=OCS.15))
 
   - <span></span>  
     [New-CsDialInConferencingConfiguration](new-csdialinconferencingconfiguration.md)
@@ -84,7 +84,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingDtmfConfiguration](get-csdialinconferencingdtmfconfiguration.md)
+    [Get-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg398578(v=OCS.15))
 
   - <span></span>  
     [New-CsDialInConferencingDtmfConfiguration](new-csdialinconferencingdtmfconfiguration.md)
@@ -98,7 +98,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingLanguageList](get-csdialinconferencinglanguagelist.md)
+    [Get-CsDialInConferencingLanguageList](https://technet.microsoft.com/en-us/library/Gg425869(v=OCS.15))
 
 </div>
 

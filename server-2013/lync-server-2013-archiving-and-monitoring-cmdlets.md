@@ -67,7 +67,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsArchivingPolicy](get-csarchivingpolicy.md)
+    [Get-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425731(v=OCS.15))
 
   - <span></span>  
     [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
@@ -89,7 +89,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCdrConfiguration](get-cscdrconfiguration.md)
+    [Get-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398298(v=OCS.15))
 
   - <span></span>  
     [New-CsCdrConfiguration](new-cscdrconfiguration.md)

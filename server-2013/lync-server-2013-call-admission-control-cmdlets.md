@@ -37,7 +37,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 **Call Admission Control**
 
   - <span></span>  
-    [Get-CsBandwidthPolicyServiceConfiguration](get-csbandwidthpolicyserviceconfiguration.md)
+    [Get-CsBandwidthPolicyServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg412727(v=OCS.15))
 
   - <span></span>  
     [New-CsBandwidthPolicyServiceConfiguration](new-csbandwidthpolicyserviceconfiguration.md)
@@ -51,7 +51,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkBandwidthPolicyProfile](get-csnetworkbandwidthpolicyprofile.md)
+    [Get-CsNetworkBandwidthPolicyProfile](https://technet.microsoft.com/en-us/library/Gg425815(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkBandwidthPolicyProfile](new-csnetworkbandwidthpolicyprofile.md)
@@ -75,7 +75,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkConfiguration](get-csnetworkconfiguration.md)
+    [Get-CsNetworkConfiguration](https://technet.microsoft.com/en-us/library/Gg398140(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkConfiguration](remove-csnetworkconfiguration.md)
@@ -86,7 +86,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkInterRegionRoute](get-csnetworkinterregionroute.md)
+    [Get-CsNetworkInterRegionRoute](https://technet.microsoft.com/en-us/library/Gg425817(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkInterRegionRoute](new-csnetworkinterregionroute.md)
@@ -100,7 +100,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkInterSitePolicy](get-csnetworkintersitepolicy.md)
+    [Get-CsNetworkInterSitePolicy](https://technet.microsoft.com/en-us/library/Gg412769(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkInterSitePolicy](new-csnetworkintersitepolicy.md)
@@ -114,7 +114,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkRegion](get-csnetworkregion.md)
+    [Get-CsNetworkRegion](https://technet.microsoft.com/en-us/library/Gg398406(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkRegion](new-csnetworkregion.md)
@@ -128,7 +128,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkRegionLink](get-csnetworkregionlink.md)
+    [Get-CsNetworkRegionLink](https://technet.microsoft.com/en-us/library/Gg398972(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkRegionLink](new-csnetworkregionlink.md)
@@ -142,7 +142,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkSite](get-csnetworksite.md)
+    [Get-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398766(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkSite](new-csnetworksite.md)
@@ -156,7 +156,7 @@ Use the following cmdlets to manage CAC from the Lync Server Management Shell.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkSubnet](get-csnetworksubnet.md)
+    [Get-CsNetworkSubnet](https://technet.microsoft.com/en-us/library/Gg412825(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkSubnet](new-csnetworksubnet.md)

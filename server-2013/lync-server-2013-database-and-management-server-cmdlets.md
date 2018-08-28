@@ -37,7 +37,7 @@ The following is a list of cmdlets that relate directly to managing databases an
 **Databases and Management Server**
 
   - <span></span>  
-    [Get-CsConfigurationStoreLocation](get-csconfigurationstorelocation.md)
+    [Get-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg412814(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConfigurationStoreLocation](remove-csconfigurationstorelocation.md)
@@ -62,7 +62,7 @@ The following is a list of cmdlets that relate directly to managing databases an
 
 <!-- end list -->
 
-  - [Get-CsDatabaseMirrorState](get-csdatabasemirrorstate.md)
+  - [Get-CsDatabaseMirrorState](https://technet.microsoft.com/en-us/library/JJ204845(v=OCS.15))
 
 <!-- end list -->
 

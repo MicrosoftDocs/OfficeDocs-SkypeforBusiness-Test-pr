@@ -36,7 +36,7 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
 **Centralized Logging Cmdlets**
 
-  - [Get-CsClsConfiguration](get-csclsconfiguration.md)
+  - [Get-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619179(v=OCS.15))
 
   - [New-CsClsConfiguration](new-csclsconfiguration.md)
 
@@ -64,7 +64,7 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
 <!-- end list -->
 
-  - [Get-CsClsRegion](get-csclsregion.md)
+  - [Get-CsClsRegion](https://technet.microsoft.com/en-us/library/JJ204879(v=OCS.15))
 
   - [New-CsClsRegion](new-csclsregion.md)
 
@@ -74,7 +74,7 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
 <!-- end list -->
 
-  - [Get-CsClsScenario](get-csclsscenario.md)
+  - [Get-CsClsScenario](https://technet.microsoft.com/en-us/library/JJ205091(v=OCS.15))
 
   - [New-CsClsScenario](new-csclsscenario.md)
 
@@ -84,13 +84,13 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
 <!-- end list -->
 
-  - [Get-CsClsSearchTerm](get-csclssearchterm.md)
+  - [Get-CsClsSearchTerm](https://technet.microsoft.com/en-us/library/JJ205061(v=OCS.15))
 
   - [Set-CsClsSearchTerm](set-csclssearchterm.md)
 
 <!-- end list -->
 
-  - [Get-CsClsSecurityGroup](get-csclssecuritygroup.md)
+  - [Get-CsClsSecurityGroup](https://technet.microsoft.com/en-us/library/JJ205285(v=OCS.15))
 
   - [New-CsClsSecurityGroup](new-csclssecuritygroup.md)
 

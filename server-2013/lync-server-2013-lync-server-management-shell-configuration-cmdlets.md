@@ -43,7 +43,7 @@ Use these cmdlets to set certain custom properties of the Lync Server Management
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsManagementConnection](get-csmanagementconnection.md)
+    [Get-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg412849(v=OCS.15))
 
   - <span></span>  
     [Remove-CsManagementConnection](remove-csmanagementconnection.md)

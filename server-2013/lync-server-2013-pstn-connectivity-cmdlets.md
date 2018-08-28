@@ -133,7 +133,7 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 
 <!-- end list -->
 
-  - [Get-CsOutboundCallingNumberTranslationRule](get-csoutboundcallingnumbertranslationrule.md)
+  - [Get-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204962(v=OCS.15))
 
   - [New-CsOutboundCallingNumberTranslationRule](new-csoutboundcallingnumbertranslationrule.md)
 
@@ -144,7 +144,7 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsOutboundTranslationRule](get-csoutboundtranslationrule.md)
+    [Get-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398104(v=OCS.15))
 
   - <span></span>  
     [New-CsOutboundTranslationRule](new-csoutboundtranslationrule.md)

@@ -37,7 +37,7 @@ The following is a list of cmdlets that deal with voice applications:
 **[Call Park application cmdlets in Lync Server 2013](lync-server-2013-call-park-application-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsCallParkOrbit](get-cscallparkorbit.md)
+    [Get-CsCallParkOrbit](https://technet.microsoft.com/en-us/library/Gg398554(v=OCS.15))
 
   - <span></span>  
     [New-CsCallParkOrbit](new-cscallparkorbit.md)
@@ -56,7 +56,7 @@ The following is a list of cmdlets that deal with voice applications:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCpsConfiguration](get-cscpsconfiguration.md)
+    [Get-CsCpsConfiguration](https://technet.microsoft.com/en-us/library/Gg398948(v=OCS.15))
 
   - <span></span>  
     [New-CsCpsConfiguration](new-cscpsconfiguration.md)
@@ -70,7 +70,7 @@ The following is a list of cmdlets that deal with voice applications:
 **[Exchange UM cmdlets in Lync Server 2013](lync-server-2013-exchange-um-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsExUmContact](get-csexumcontact.md)
+    [Get-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412725(v=OCS.15))
 
   - <span></span>  
     [Move-CsExUmContact](move-csexumcontact.md)
@@ -103,7 +103,7 @@ The following is a list of cmdlets that deal with voice applications:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsHostedVoicemailPolicy](get-cshostedvoicemailpolicy.md)
+    [Get-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398348(v=OCS.15))
 
   - <span></span>  
     [Grant-CsHostedVoicemailPolicy](grant-cshostedvoicemailpolicy.md)

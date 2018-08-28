@@ -47,7 +47,7 @@ The following is a list of cmdlets that relate directly to managing replication:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsManagementStoreReplicationStatus](get-csmanagementstorereplicationstatus.md)
+    [Get-CsManagementStoreReplicationStatus](https://technet.microsoft.com/en-us/library/Gg399052(v=OCS.15))
 
 <!-- end list -->
 

@@ -35,7 +35,7 @@ Mobility cmdlets were introduced to manage the mobility feature added in cumulat
 The cmdlets that configure mobility features allow you to run commands from the Lync Server Management Shell or to write scripts to configure and test various mobility settings.
 
   - <span></span>  
-    [Get-CsAutodiscoverConfiguration](get-csautodiscoverconfiguration.md)
+    [Get-CsAutodiscoverConfiguration](https://technet.microsoft.com/en-us/library/Hh690014(v=OCS.15))
 
   - <span></span>  
     [New-CsAutodiscoverConfiguration](new-csautodiscoverconfiguration.md)
@@ -52,7 +52,7 @@ The cmdlets that configure mobility features allow you to run commands from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsMcxConfiguration](get-csmcxconfiguration.md)
+    [Get-CsMcxConfiguration](https://technet.microsoft.com/en-us/library/Hh690031(v=OCS.15))
 
   - <span></span>  
     [New-CsMcxConfiguration](new-csmcxconfiguration.md)
@@ -66,7 +66,7 @@ The cmdlets that configure mobility features allow you to run commands from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsMobilityPolicy](get-csmobilitypolicy.md)
+    [Get-CsMobilityPolicy](https://technet.microsoft.com/en-us/library/Hh690017(v=OCS.15))
 
   - <span></span>  
     [Grant-CsMobilityPolicy](grant-csmobilitypolicy.md)

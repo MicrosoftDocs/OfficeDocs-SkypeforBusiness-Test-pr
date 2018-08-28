@@ -179,7 +179,7 @@ The command tells the CLSAgent on each computer and pool in the site Redmond to 
     
 
     > [!NOTE]
-    > New-CsClsConfiguration provides access to a large number of optional configuration settings. For details about the configuration options, see <A href="get-csclsconfiguration.md">Get-CsClsConfiguration</A> and <A href="lync-server-2013-understanding-centralized-logging-service-configuration-settings.md">Understanding Centralized Logging Service configuration settings in Lync Server 2013</A>.
+    > New-CsClsConfiguration provides access to a large number of optional configuration settings. For details about the configuration options, see <A href="https://technet.microsoft.com/en-us/library/JJ619179(v=OCS.15)">Get-CsClsConfiguration</A> and <A href="lync-server-2013-understanding-centralized-logging-service-configuration-settings.md">Understanding Centralized Logging Service configuration settings in Lync Server 2013</A>.
 
     
     </div>
@@ -229,7 +229,7 @@ If you choose to remove a site-level configuration, the site will use the global
 
 [Managing the Centralized Logging Service configuration settings in Lync Server 2013](lync-server-2013-managing-the-centralized-logging-service-configuration-settings.md)  
 [Set-CsClsConfiguration](set-csclsconfiguration.md)  
-[Get-CsClsConfiguration](get-csclsconfiguration.md)  
+[Get-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619179(v=OCS.15))  
 [New-CsClsConfiguration](new-csclsconfiguration.md)  
 [Remove-CsClsConfiguration](remove-csclsconfiguration.md)  
   

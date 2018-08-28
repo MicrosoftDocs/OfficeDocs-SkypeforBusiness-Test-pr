@@ -37,7 +37,7 @@ The following cmdlets can be used to manage Call Park application.
 **Call Park Application**
 
   - <span></span>  
-    [Get-CsCallParkOrbit](get-cscallparkorbit.md)
+    [Get-CsCallParkOrbit](https://technet.microsoft.com/en-us/library/Gg398554(v=OCS.15))
 
   - <span></span>  
     [New-CsCallParkOrbit](new-cscallparkorbit.md)
@@ -56,7 +56,7 @@ The following cmdlets can be used to manage Call Park application.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCpsConfiguration](get-cscpsconfiguration.md)
+    [Get-CsCpsConfiguration](https://technet.microsoft.com/en-us/library/Gg398948(v=OCS.15))
 
   - <span></span>  
     [New-CsCpsConfiguration](new-cscpsconfiguration.md)

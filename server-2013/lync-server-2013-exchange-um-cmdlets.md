@@ -37,7 +37,7 @@ The following cmdlets can be used to manage Exchange UM
 **Exchange UM**
 
   - <span></span>  
-    [Get-CsExUmContact](get-csexumcontact.md)
+    [Get-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412725(v=OCS.15))
 
   - <span></span>  
     [Move-CsExUmContact](move-csexumcontact.md)
@@ -70,7 +70,7 @@ The following cmdlets can be used to manage Exchange UM
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsHostedVoicemailPolicy](get-cshostedvoicemailpolicy.md)
+    [Get-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398348(v=OCS.15))
 
   - <span></span>  
     [Grant-CsHostedVoicemailPolicy](grant-cshostedvoicemailpolicy.md)

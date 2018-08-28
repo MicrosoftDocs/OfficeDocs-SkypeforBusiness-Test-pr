@@ -37,7 +37,7 @@ Use the following cmdlets to configure E9-1-1.
 **Enhanced 9-1-1**
 
   - <span></span>  
-    [Get-CsEnhancedEmergencyServiceDisclaimer](get-csenhancedemergencyservicedisclaimer.md)
+    [Get-CsEnhancedEmergencyServiceDisclaimer](https://technet.microsoft.com/en-us/library/Gg412877(v=OCS.15))
 
   - <span></span>  
     [Remove-CsEnhancedEmergencyServiceDisclaimer](remove-csenhancedemergencyservicedisclaimer.md)
@@ -48,7 +48,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisCivicAddress](get-csliscivicaddress.md)
+    [Get-CsLisCivicAddress](https://technet.microsoft.com/en-us/library/Gg398459(v=OCS.15))
 
   - <span></span>  
     [Test-CsLisCivicAddress](test-csliscivicaddress.md)
@@ -76,7 +76,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisLocation](get-cslislocation.md)
+    [Get-CsLisLocation](https://technet.microsoft.com/en-us/library/Gg412834(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLisLocation](remove-cslislocation.md)
@@ -87,7 +87,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisPort](get-cslisport.md)
+    [Get-CsLisPort](https://technet.microsoft.com/en-us/library/Gg398820(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLisPort](remove-cslisport.md)
@@ -98,7 +98,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisServiceProvider](get-cslisserviceprovider.md)
+    [Get-CsLisServiceProvider](https://technet.microsoft.com/en-us/library/Gg398116(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLisServiceProvider](remove-cslisserviceprovider.md)
@@ -109,7 +109,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisSubnet](get-cslissubnet.md)
+    [Get-CsLisSubnet](https://technet.microsoft.com/en-us/library/Gg398473(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLisSubnet](remove-cslissubnet.md)
@@ -120,7 +120,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisSwitch](get-cslisswitch.md)
+    [Get-CsLisSwitch](https://technet.microsoft.com/en-us/library/Gg425769(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLisSwitch](remove-cslisswitch.md)
@@ -131,7 +131,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLisWirelessAccessPoint](get-csliswirelessaccesspoint.md)
+    [Get-CsLisWirelessAccessPoint](https://technet.microsoft.com/en-us/library/Gg398117(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLisWirelessAccessPoint](remove-csliswirelessaccesspoint.md)
@@ -142,7 +142,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsLocationPolicy](get-cslocationpolicy.md)
+    [Get-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg398911(v=OCS.15))
 
   - <span></span>  
     [Grant-CsLocationPolicy](grant-cslocationpolicy.md)
@@ -162,7 +162,7 @@ Use the following cmdlets to configure E9-1-1.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkSite](get-csnetworksite.md)
+    [Get-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398766(v=OCS.15))
 
   - <span></span>  
     [New-CsNetworkSite](new-csnetworksite.md)
