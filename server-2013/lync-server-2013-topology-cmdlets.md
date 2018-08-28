@@ -77,7 +77,7 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsComputer](disable-cscomputer.md)
+    [Disable-CsComputer](https://technet.microsoft.com/en-us/library/Gg399023(v=OCS.15))
 
   - <span></span>  
     [Enable-CsComputer](enable-cscomputer.md)

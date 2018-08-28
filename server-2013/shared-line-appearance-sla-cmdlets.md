@@ -48,7 +48,7 @@ Use the following cmdlets for SLA.
 **Configuring SLA delegates**
 
   - <span></span>  
-    [Add-CsSlaDelegates](add-cssladelegates.md)
+    [Add-CsSlaDelegates](https://technet.microsoft.com/en-us/library/Mt703199(v=OCS.15))
 
   - <span></span>  
     [Remove-CsSlaDelegates](remove-cssladelegates.md)

@@ -37,7 +37,7 @@ The following is a list of cmdlets that relate directly to managing replication:
 **Replication**
 
   - <span></span>  
-    [Debug-CsInterPoolReplication](debug-csinterpoolreplication.md)
+    [Debug-CsInterPoolReplication](https://technet.microsoft.com/en-us/library/JJ619185(v=OCS.15))
 
 <!-- end list -->
 

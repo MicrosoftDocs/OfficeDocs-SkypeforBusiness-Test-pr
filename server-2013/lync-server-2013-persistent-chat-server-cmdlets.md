@@ -120,7 +120,7 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
 <!-- end list -->
 
-  - [Clear-CsPersistentChatRoom](clear-cspersistentchatroom.md)
+  - [Clear-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ204976(v=OCS.15))
 
   - [Get-CsPersistentChatRoom](get-cspersistentchatroom.md)
 

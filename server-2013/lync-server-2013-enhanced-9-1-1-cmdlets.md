@@ -62,7 +62,7 @@ Use the following cmdlets to configure E9-1-1.
     [Import-CsLisConfiguration](import-cslisconfiguration.md)
 
   - <span></span>  
-    [Debug-CsLisConfiguration](debug-cslisconfiguration.md)
+    [Debug-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398710(v=OCS.15))
 
   - <span></span>  
     [Test-CsLisConfiguration](test-cslisconfiguration.md)

@@ -72,7 +72,7 @@ The module returned for the **Get-CsTenant** cmdlet will be the module containin
 ## See Also
 
 
-[An introduction to Windows PowerShell and Skype for Business Online](an-introduction-to-windows-powershell-and-skype-for-business-online.md)  
+[An introduction to Windows PowerShell and Skype for Business Online](https://technet.microsoft.com/en-us/library/Dn362785(v=OCS.15))  
   
 
 </div>

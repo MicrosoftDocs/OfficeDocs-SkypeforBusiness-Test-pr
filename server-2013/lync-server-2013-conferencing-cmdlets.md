@@ -163,7 +163,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 
 <!-- end list -->
 
-  - [Disable-CsMeetingRoom](disable-csmeetingroom.md)
+  - [Disable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204723(v=OCS.15))
 
   - [Enable-CsMeetingRoom](enable-csmeetingroom.md)
 

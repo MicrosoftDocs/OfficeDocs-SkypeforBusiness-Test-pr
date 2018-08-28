@@ -195,7 +195,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Import-CsLisConfiguration](import-cslisconfiguration.md)
 
   - <span></span>  
-    [Debug-CsLisConfiguration](debug-cslisconfiguration.md)
+    [Debug-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398710(v=OCS.15))
 
   - <span></span>  
     [Test-CsLisConfiguration](test-cslisconfiguration.md)
@@ -320,7 +320,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
 <!-- end list -->
 
   - <span></span>  
-    [Add-CsSlaDelegates](add-cssladelegates.md)
+    [Add-CsSlaDelegates](https://technet.microsoft.com/en-us/library/Mt703199(v=OCS.15))
 
   - <span></span>  
     [Remove-CsSlaDelegates](remove-cssladelegates.md)

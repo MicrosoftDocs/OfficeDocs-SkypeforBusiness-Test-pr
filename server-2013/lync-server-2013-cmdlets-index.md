@@ -44,35 +44,35 @@ For details about using the Lync Server Management Shell, see the Lync Server Wi
 
 Following is a list of the cmdlets that ship with Lync Server 2013:
 
-  - [Add-CsSlaDelegates](add-cssladelegates.md)
+  - [Add-CsSlaDelegates](https://technet.microsoft.com/en-us/library/Mt703199(v=OCS.15))
 
-  - [Approve-CsDeviceUpdateRule](approve-csdeviceupdaterule.md)
+  - [Approve-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398949(v=OCS.15))
 
-  - [Backup-CsPool](backup-cspool.md)
+  - [Backup-CsPool](https://technet.microsoft.com/en-us/library/JJ204955(v=OCS.15))
 
-  - [Clear-CsDeviceUpdateFile](clear-csdeviceupdatefile.md)
+  - [Clear-CsDeviceUpdateFile](https://technet.microsoft.com/en-us/library/Gg425835(v=OCS.15))
 
-  - [Clear-CsDeviceUpdateLog](clear-csdeviceupdatelog.md)
+  - [Clear-CsDeviceUpdateLog](https://technet.microsoft.com/en-us/library/Gg412738(v=OCS.15))
 
-  - [Clear-CsPersistentChatRoom](clear-cspersistentchatroom.md)
+  - [Clear-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ204976(v=OCS.15))
 
-  - [Convert-CsUserData](convert-csuserdata.md)
+  - [Convert-CsUserData](https://technet.microsoft.com/en-us/library/JJ205337(v=OCS.15))
 
-  - [Debug-CsAddressBookReplication](debug-csaddressbookreplication.md)
+  - [Debug-CsAddressBookReplication](https://technet.microsoft.com/en-us/library/JJ205232(v=OCS.15))
 
-  - [Debug-CsIntraPoolReplication](debug-csintrapoolreplication.md)
+  - [Debug-CsIntraPoolReplication](https://technet.microsoft.com/en-us/library/JJ205103(v=OCS.15))
 
-  - [Debug-CsLisConfiguration](debug-cslisconfiguration.md)
+  - [Debug-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398710(v=OCS.15))
 
-  - [Disable-CsAdDomain](disable-csaddomain.md)
+  - [Disable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398785(v=OCS.15))
 
-  - [Disable-CsAdForest](disable-csadforest.md)
+  - [Disable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg398122(v=OCS.15))
 
-  - [Disable-CsComputer](disable-cscomputer.md)
+  - [Disable-CsComputer](https://technet.microsoft.com/en-us/library/Gg399023(v=OCS.15))
 
-  - [Disable-CsHostingProvider](disable-cshostingprovider.md)
+  - [Disable-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398481(v=OCS.15))
 
-  - [Disable-CsMeetingRoom](disable-csmeetingroom.md)
+  - [Disable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204723(v=OCS.15))
 
   - [Disable-CsPublicProvider](disable-cspublicprovider.md)
 

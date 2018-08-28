@@ -52,11 +52,11 @@ The following is a list of cmdlets that relate directly to backing up and config
 
 <!-- end list -->
 
-  - [Debug-CsIntraPoolReplication](debug-csintrapoolreplication.md)
+  - [Debug-CsIntraPoolReplication](https://technet.microsoft.com/en-us/library/JJ205103(v=OCS.15))
 
 <!-- end list -->
 
-  - [Backup-CsPool](backup-cspool.md)
+  - [Backup-CsPool](https://technet.microsoft.com/en-us/library/JJ204955(v=OCS.15))
 
 <!-- end list -->
 

@@ -37,7 +37,7 @@ The following is a list of cmdlets that relate directly to managing Lync Server 
 **Active Directory**
 
   - <span></span>  
-    [Disable-CsAdDomain](disable-csaddomain.md)
+    [Disable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398785(v=OCS.15))
 
   - <span></span>  
     [Enable-CsAdDomain](enable-csaddomain.md)
@@ -48,7 +48,7 @@ The following is a list of cmdlets that relate directly to managing Lync Server 
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsAdForest](disable-csadforest.md)
+    [Disable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg398122(v=OCS.15))
 
   - <span></span>  
     [Enable-CsAdForest](enable-csadforest.md)

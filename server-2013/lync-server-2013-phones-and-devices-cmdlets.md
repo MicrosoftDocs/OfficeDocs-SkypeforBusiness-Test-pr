@@ -102,15 +102,15 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
 <!-- end list -->
 
   - <span></span>  
-    [Clear-CsDeviceUpdateFile](clear-csdeviceupdatefile.md)
+    [Clear-CsDeviceUpdateFile](https://technet.microsoft.com/en-us/library/Gg425835(v=OCS.15))
 
   - <span></span>  
-    [Clear-CsDeviceUpdateLog](clear-csdeviceupdatelog.md)
+    [Clear-CsDeviceUpdateLog](https://technet.microsoft.com/en-us/library/Gg412738(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Approve-CsDeviceUpdateRule](approve-csdeviceupdaterule.md)
+    [Approve-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398949(v=OCS.15))
 
   - <span></span>  
     [Get-CsDeviceUpdateRule](get-csdeviceupdaterule.md)

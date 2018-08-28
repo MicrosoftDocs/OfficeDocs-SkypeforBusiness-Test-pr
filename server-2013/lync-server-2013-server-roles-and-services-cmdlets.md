@@ -56,7 +56,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Debug-CsAddressBookReplication](debug-csaddressbookreplication.md)
+    [Debug-CsAddressBookReplication](https://technet.microsoft.com/en-us/library/JJ205232(v=OCS.15))
 
 <!-- end list -->
 

@@ -37,7 +37,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 **[Active Directory cmdlets in Lync Server 2013](lync-server-2013-active-directory-cmdlets.md)**
 
   - <span></span>  
-    [Disable-CsAdDomain](disable-csaddomain.md)
+    [Disable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398785(v=OCS.15))
 
   - <span></span>  
     [Enable-CsAdDomain](enable-csaddomain.md)
@@ -48,7 +48,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsAdForest](disable-csadforest.md)
+    [Disable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg398122(v=OCS.15))
 
   - <span></span>  
     [Enable-CsAdForest](enable-csadforest.md)
@@ -67,7 +67,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 **[Replication cmdlets in Lync Server 2013](lync-server-2013-replication-cmdlets.md)**
 
   - <span></span>  
-    [Debug-CsInterPoolReplication](debug-csinterpoolreplication.md)
+    [Debug-CsInterPoolReplication](https://technet.microsoft.com/en-us/library/JJ619185(v=OCS.15))
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsComputer](disable-cscomputer.md)
+    [Disable-CsComputer](https://technet.microsoft.com/en-us/library/Gg399023(v=OCS.15))
 
   - <span></span>  
     [Enable-CsComputer](enable-cscomputer.md)
@@ -178,11 +178,11 @@ Administrators will rarely need to directly call many of the infrastructure and 
 
 <!-- end list -->
 
-  - [Debug-CsIntraPoolReplication](debug-csintrapoolreplication.md)
+  - [Debug-CsIntraPoolReplication](https://technet.microsoft.com/en-us/library/JJ205103(v=OCS.15))
 
 <!-- end list -->
 
-  - [Backup-CsPool](backup-cspool.md)
+  - [Backup-CsPool](https://technet.microsoft.com/en-us/library/JJ204955(v=OCS.15))
 
 <!-- end list -->
 

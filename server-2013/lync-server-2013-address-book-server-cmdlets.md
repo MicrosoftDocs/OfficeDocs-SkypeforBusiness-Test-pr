@@ -56,7 +56,7 @@ You cannot configure the Address Book Server settings in Lync Server Control Pan
 <!-- end list -->
 
   - <span></span>  
-    [Debug-CsAddressBookReplication](debug-csaddressbookreplication.md)
+    [Debug-CsAddressBookReplication](https://technet.microsoft.com/en-us/library/JJ205232(v=OCS.15))
 
 <!-- end list -->
 

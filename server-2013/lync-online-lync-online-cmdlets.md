@@ -72,7 +72,7 @@ For information on how to configure your computer to use Windows PowerShell to m
 
 These cmdlets can be used either with Lync Online or with the on-premises version of Lync Server 2013:
 
-  - [Disable-CsMeetingRoom](disable-csmeetingroom.md)
+  - [Disable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204723(v=OCS.15))
 
   - [Enable-CsMeetingRoom](enable-csmeetingroom.md)
 
