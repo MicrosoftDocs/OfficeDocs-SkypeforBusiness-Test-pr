@@ -35,7 +35,7 @@ Federation and external access provide two important capabilities: federation en
 Most management tasks that apply to federation and external access can be performed from the Lync Server Control Panel. These same tasks can be performed using cmdlets from the Lync Server Management Shell or from within a script; using a script enables you to automate certain tasks. The following is a list of cmdlets that relate directly to managing federation and external access:
 
   - <span></span>  
-    [Get-CsAllowedDomain](get-csalloweddomain.md)
+    [Get-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398164(v=OCS.15))
 
   - <span></span>  
     [New-CsAllowedDomain](new-csalloweddomain.md)

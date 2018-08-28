@@ -37,7 +37,7 @@ Use the following cmdlets to manage application endpoints.
 **Application Endpoints**
 
   - <span></span>  
-    [Get-CsApplicationEndpoint](get-csapplicationendpoint.md)
+    [Get-CsApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398655(v=OCS.15))
 
   - <span></span>  
     [Move-CsApplicationEndpoint](move-csapplicationendpoint.md)

@@ -36,7 +36,7 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
 **Persistent Chat Cmdlets**
 
-  - [Get-CsAdPrincipal](get-csadprincipal.md)
+  - [Get-CsAdPrincipal](https://technet.microsoft.com/en-us/library/JJ205326(v=OCS.15))
 
 <!-- end list -->
 

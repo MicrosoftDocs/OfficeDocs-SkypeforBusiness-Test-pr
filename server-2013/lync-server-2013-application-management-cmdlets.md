@@ -37,7 +37,7 @@ Use the cmdlets in these categories to manage applications.
 **[Application endpoints cmdlets in Lync Server 2013](lync-server-2013-application-endpoints-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsApplicationEndpoint](get-csapplicationendpoint.md)
+    [Get-CsApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398655(v=OCS.15))
 
   - <span></span>  
     [Move-CsApplicationEndpoint](move-csapplicationendpoint.md)

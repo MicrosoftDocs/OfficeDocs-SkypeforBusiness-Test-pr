@@ -172,7 +172,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAdminRoleAssignment](get-csadminroleassignment.md)
+    [Get-CsAdminRoleAssignment](https://technet.microsoft.com/en-us/library/Gg398434(v=OCS.15))
 
 <!-- end list -->
 

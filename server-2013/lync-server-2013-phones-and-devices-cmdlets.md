@@ -35,7 +35,7 @@ Microsoft Lync Server 2013 provides a number of cmdlets that enable you to manag
 The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service, a Lync Server component that enables administrators to distribute firmware updates to telephones and other devices running Lync Phone Edition.
 
   - <span></span>  
-    [Get-CsAnalogDevice](get-csanalogdevice.md)
+    [Get-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg398748(v=OCS.15))
 
   - <span></span>  
     [Move-CsAnalogDevice](move-csanalogdevice.md)

@@ -120,23 +120,23 @@ Following is a list of the cmdlets that ship with Lync Server 2013:
 
   - [Get-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399050(v=OCS.15))
 
-  - [Get-CsAdminRoleAssignment](get-csadminroleassignment.md)
+  - [Get-CsAdminRoleAssignment](https://technet.microsoft.com/en-us/library/Gg398434(v=OCS.15))
 
-  - [Get-CsAdPrincipal](get-csadprincipal.md)
+  - [Get-CsAdPrincipal](https://technet.microsoft.com/en-us/library/JJ205326(v=OCS.15))
 
-  - [Get-CsAdServerSchema](get-csadserverschema.md)
+  - [Get-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg413070(v=OCS.15))
 
-  - [Get-CsAdUser](get-csaduser.md)
+  - [Get-CsAdUser](https://technet.microsoft.com/en-us/library/Gg398592(v=OCS.15))
 
-  - [Get-CsAllowedDomain](get-csalloweddomain.md)
+  - [Get-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398164(v=OCS.15))
 
-  - [Get-CsAnalogDevice](get-csanalogdevice.md)
+  - [Get-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg398748(v=OCS.15))
 
-  - [Get-CsAnnouncement](get-csannouncement.md)
+  - [Get-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398937(v=OCS.15))
 
-  - [Get-CsApplicationEndpoint](get-csapplicationendpoint.md)
+  - [Get-CsApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398655(v=OCS.15))
 
-  - [Get-CsArchivingConfiguration](get-csarchivingconfiguration.md)
+  - [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - [Get-CsArchivingPolicy](get-csarchivingpolicy.md)
 

@@ -59,7 +59,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAdServerSchema](get-csadserverschema.md)
+    [Get-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg413070(v=OCS.15))
 
   - <span></span>  
     [Install-CsAdServerSchema](install-csadserverschema.md)

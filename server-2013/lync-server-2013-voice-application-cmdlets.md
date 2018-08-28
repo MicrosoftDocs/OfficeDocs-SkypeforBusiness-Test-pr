@@ -256,7 +256,7 @@ The following is a list of cmdlets that deal with voice applications:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAnnouncement](get-csannouncement.md)
+    [Get-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398937(v=OCS.15))
 
   - <span></span>  
     [New-CsAnnouncement](new-csannouncement.md)

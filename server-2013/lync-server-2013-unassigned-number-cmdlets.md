@@ -51,7 +51,7 @@ The following cmdlets can be used to manage unassigned numbers.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAnnouncement](get-csannouncement.md)
+    [Get-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398937(v=OCS.15))
 
   - <span></span>  
     [New-CsAnnouncement](new-csannouncement.md)

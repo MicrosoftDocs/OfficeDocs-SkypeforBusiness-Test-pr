@@ -43,7 +43,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 **Archiving and Monitoring**
 
   - <span></span>  
-    [Get-CsArchivingConfiguration](get-csarchivingconfiguration.md)
+    [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - <span></span>  
     [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)

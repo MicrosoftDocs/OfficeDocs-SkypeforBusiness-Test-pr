@@ -71,7 +71,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Archiving and Monitoring cmdlets in Lync Server 2013](lync-server-2013-archiving-and-monitoring-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsArchivingConfiguration](get-csarchivingconfiguration.md)
+    [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - <span></span>  
     [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)
