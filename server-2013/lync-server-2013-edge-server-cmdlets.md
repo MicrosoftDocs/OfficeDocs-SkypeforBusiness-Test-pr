@@ -53,7 +53,7 @@ The following is a list of cmdlets that relate directly to managing Edge Servers
 **Edge Server**
 
   - <span></span>  
-    [Get-CsAccessEdgeConfiguration](get-csaccessedgeconfiguration.md)
+    [Get-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398574(v=OCS.15))
 
   - <span></span>  
     [Set-CsAccessEdgeConfiguration](set-csaccessedgeconfiguration.md)

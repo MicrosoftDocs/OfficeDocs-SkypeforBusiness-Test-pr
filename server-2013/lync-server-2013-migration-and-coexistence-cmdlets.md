@@ -55,7 +55,7 @@ The [Move-CsLegacyUser](move-cslegacyuser.md) cmdlet provides a way for you to m
 
   - [Convert-CsUserData](https://technet.microsoft.com/en-us/library/JJ205337(v=OCS.15))
 
-  - [Export-CsUserData](export-csuserdata.md)
+  - [Export-CsUserData](https://technet.microsoft.com/en-us/library/JJ204897(v=OCS.15))
 
   - [Import-CsUserData](import-csuserdata.md)
 

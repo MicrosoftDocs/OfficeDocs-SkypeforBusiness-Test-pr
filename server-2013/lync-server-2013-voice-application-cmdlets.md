@@ -149,7 +149,7 @@ The following is a list of cmdlets that deal with voice applications:
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsRgsConfiguration](export-csrgsconfiguration.md)
+    [Export-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/JJ205011(v=OCS.15))
 
   - <span></span>  
     [Get-CsRgsConfiguration](get-csrgsconfiguration.md)

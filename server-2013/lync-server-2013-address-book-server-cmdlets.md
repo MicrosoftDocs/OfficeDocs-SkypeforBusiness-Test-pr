@@ -37,7 +37,7 @@ You cannot configure the Address Book Server settings in Lync Server Control Pan
 **Address Book Server**
 
   - <span></span>  
-    [Get-CsAddressBookConfiguration](get-csaddressbookconfiguration.md)
+    [Get-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398132(v=OCS.15))
 
   - <span></span>  
     [New-CsAddressBookConfiguration](new-csaddressbookconfiguration.md)

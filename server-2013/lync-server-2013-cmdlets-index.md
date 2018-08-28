@@ -74,51 +74,51 @@ Following is a list of the cmdlets that ship with Lync Server 2013:
 
   - [Disable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204723(v=OCS.15))
 
-  - [Disable-CsPublicProvider](disable-cspublicprovider.md)
+  - [Disable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398984(v=OCS.15))
 
-  - [Disable-CsUser](disable-csuser.md)
+  - [Disable-CsUser](https://technet.microsoft.com/en-us/library/Gg398747(v=OCS.15))
 
-  - [Enable-CsAdDomain](enable-csaddomain.md)
+  - [Enable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg412764(v=OCS.15))
 
-  - [Enable-CsAdForest](enable-csadforest.md)
+  - [Enable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg425713(v=OCS.15))
 
-  - [Enable-CsComputer](enable-cscomputer.md)
+  - [Enable-CsComputer](https://technet.microsoft.com/en-us/library/Gg412815(v=OCS.15))
 
-  - [Enable-CsHostingProvider](enable-cshostingprovider.md)
+  - [Enable-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398166(v=OCS.15))
 
-  - [Enable-CsMeetingRoom](enable-csmeetingroom.md)
+  - [Enable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205062(v=OCS.15))
 
-  - [Enable-CsPublicProvider](enable-cspublicprovider.md)
+  - [Enable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398780(v=OCS.15))
 
-  - [Enable-CsReplica](enable-csreplica.md)
+  - [Enable-CsReplica](https://technet.microsoft.com/en-us/library/Gg425965(v=OCS.15))
 
-  - [Enable-CsTopology](enable-cstopology.md)
+  - [Enable-CsTopology](https://technet.microsoft.com/en-us/library/Gg398398(v=OCS.15))
 
-  - [Enable-CsUser](enable-csuser.md)
+  - [Enable-CsUser](https://technet.microsoft.com/en-us/library/Gg398711(v=OCS.15))
 
-  - [Export-CsArchivingData](export-csarchivingdata.md)
+  - [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
-  - [Export-CsConfiguration](export-csconfiguration.md)
+  - [Export-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398627(v=OCS.15))
 
-  - [Export-CsLisConfiguration](export-cslisconfiguration.md)
+  - [Export-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398539(v=OCS.15))
 
-  - [Export-CsPersistentChatData](export-cspersistentchatdata.md)
+  - [Export-CsPersistentChatData](https://technet.microsoft.com/en-us/library/JJ205378(v=OCS.15))
 
-  - [Export-CsRgsConfiguration](export-csrgsconfiguration.md)
+  - [Export-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/JJ205011(v=OCS.15))
 
-  - [Export-CsUserData](export-csuserdata.md)
+  - [Export-CsUserData](https://technet.microsoft.com/en-us/library/JJ204897(v=OCS.15))
 
-  - [Get-CsAccessEdgeConfiguration](get-csaccessedgeconfiguration.md)
+  - [Get-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398574(v=OCS.15))
 
-  - [Get-CsAdContact](get-csadcontact.md)
+  - [Get-CsAdContact](https://technet.microsoft.com/en-us/library/Gg412776(v=OCS.15))
 
-  - [Get-CsAdDomain](get-csaddomain.md)
+  - [Get-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398453(v=OCS.15))
 
-  - [Get-CsAddressBookConfiguration](get-csaddressbookconfiguration.md)
+  - [Get-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398132(v=OCS.15))
 
-  - [Get-CsAdForest](get-csadforest.md)
+  - [Get-CsAdForest](https://technet.microsoft.com/en-us/library/Gg412995(v=OCS.15))
 
-  - [Get-CsAdminRole](get-csadminrole.md)
+  - [Get-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399050(v=OCS.15))
 
   - [Get-CsAdminRoleAssignment](get-csadminroleassignment.md)
 

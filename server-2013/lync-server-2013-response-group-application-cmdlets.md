@@ -66,7 +66,7 @@ The following cmdlets can be used to manage Response Group application.
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsRgsConfiguration](export-csrgsconfiguration.md)
+    [Export-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/JJ205011(v=OCS.15))
 
   - <span></span>  
     [Get-CsRgsConfiguration](get-csrgsconfiguration.md)

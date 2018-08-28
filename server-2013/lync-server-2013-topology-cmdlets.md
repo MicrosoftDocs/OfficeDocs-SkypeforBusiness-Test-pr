@@ -26,7 +26,7 @@ mtps_version: v=OCS.15
 
 _**Topic Last Modified:** 2012-06-20_
 
-Many of the topology cmdlets included in Microsoft Lync Server 2013 are designed for use with Setup and Topology Builder; because of that, there are a number of topology cmdlets that administrators will rarely call directly. However, there will be times when administrators will be required to use these cmdlets; for example, after creating new Kerberos accounts you must run the [Enable-CsTopology](enable-cstopology.md) cmdlet to cause the changes to take effect. In addition, administrators will likely run cmdlets such as [Test-CsTopology](test-cstopology.md) and [Test-CsComputer](test-cscomputer.md) to help ensure that Lync Server 2013 has been correctly installed and is working as expected.
+Many of the topology cmdlets included in Microsoft Lync Server 2013 are designed for use with Setup and Topology Builder; because of that, there are a number of topology cmdlets that administrators will rarely call directly. However, there will be times when administrators will be required to use these cmdlets; for example, after creating new Kerberos accounts you must run the [Enable-CsTopology](https://technet.microsoft.com/en-us/library/Gg398398(v=OCS.15)) cmdlet to cause the changes to take effect. In addition, administrators will likely run cmdlets such as [Test-CsTopology](test-cstopology.md) and [Test-CsComputer](test-cscomputer.md) to help ensure that Lync Server 2013 has been correctly installed and is working as expected.
 
 <div>
 
@@ -50,7 +50,7 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
 <!-- end list -->
 
   - <span></span>  
-    [Enable-CsTopology](enable-cstopology.md)
+    [Enable-CsTopology](https://technet.microsoft.com/en-us/library/Gg398398(v=OCS.15))
 
   - <span></span>  
     [Get-CsTopology](get-cstopology.md)
@@ -64,7 +64,7 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsConfiguration](export-csconfiguration.md)
+    [Export-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398627(v=OCS.15))
 
   - <span></span>  
     [Import-CsConfiguration](import-csconfiguration.md)
@@ -80,7 +80,7 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
     [Disable-CsComputer](https://technet.microsoft.com/en-us/library/Gg399023(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsComputer](enable-cscomputer.md)
+    [Enable-CsComputer](https://technet.microsoft.com/en-us/library/Gg412815(v=OCS.15))
 
   - <span></span>  
     [Get-CsComputer](get-cscomputer.md)

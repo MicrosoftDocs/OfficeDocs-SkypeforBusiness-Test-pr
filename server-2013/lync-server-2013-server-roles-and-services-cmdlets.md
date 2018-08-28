@@ -37,7 +37,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Address Book Server cmdlets in Lync Server 2013](lync-server-2013-address-book-server-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAddressBookConfiguration](get-csaddressbookconfiguration.md)
+    [Get-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398132(v=OCS.15))
 
   - <span></span>  
     [New-CsAddressBookConfiguration](new-csaddressbookconfiguration.md)
@@ -85,7 +85,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 [Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
@@ -268,7 +268,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Edge Server cmdlets in Lync Server 2013](lync-server-2013-edge-server-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAccessEdgeConfiguration](get-csaccessedgeconfiguration.md)
+    [Get-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398574(v=OCS.15))
 
   - <span></span>  
     [Set-CsAccessEdgeConfiguration](set-csaccessedgeconfiguration.md)

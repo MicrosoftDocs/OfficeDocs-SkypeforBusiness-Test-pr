@@ -155,7 +155,7 @@ Many management tasks that apply to security settings can be performed from the 
 **[User rights and permissions cmdlets in Lync Server 2013](lync-server-2013-user-rights-and-permissions-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAdminRole](get-csadminrole.md)
+    [Get-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399050(v=OCS.15))
 
   - <span></span>  
     [New-CsAdminRole](new-csadminrole.md)

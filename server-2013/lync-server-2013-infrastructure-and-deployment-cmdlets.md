@@ -40,10 +40,10 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Disable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398785(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsAdDomain](enable-csaddomain.md)
+    [Enable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg412764(v=OCS.15))
 
   - <span></span>  
-    [Get-CsAdDomain](get-csaddomain.md)
+    [Get-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398453(v=OCS.15))
 
 <!-- end list -->
 
@@ -51,10 +51,10 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Disable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg398122(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsAdForest](enable-csadforest.md)
+    [Enable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg425713(v=OCS.15))
 
   - <span></span>  
-    [Get-CsAdForest](get-csadforest.md)
+    [Get-CsAdForest](https://technet.microsoft.com/en-us/library/Gg412995(v=OCS.15))
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Enable-CsReplica](enable-csreplica.md)
+    [Enable-CsReplica](https://technet.microsoft.com/en-us/library/Gg425965(v=OCS.15))
 
   - <span></span>  
     [Test-CsReplica](test-csreplica.md)
@@ -117,7 +117,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Enable-CsTopology](enable-cstopology.md)
+    [Enable-CsTopology](https://technet.microsoft.com/en-us/library/Gg398398(v=OCS.15))
 
   - <span></span>  
     [Get-CsTopology](get-cstopology.md)
@@ -131,7 +131,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsConfiguration](export-csconfiguration.md)
+    [Export-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398627(v=OCS.15))
 
   - <span></span>  
     [Import-CsConfiguration](import-csconfiguration.md)
@@ -147,7 +147,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Disable-CsComputer](https://technet.microsoft.com/en-us/library/Gg399023(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsComputer](enable-cscomputer.md)
+    [Enable-CsComputer](https://technet.microsoft.com/en-us/library/Gg412815(v=OCS.15))
 
   - <span></span>  
     [Get-CsComputer](get-cscomputer.md)

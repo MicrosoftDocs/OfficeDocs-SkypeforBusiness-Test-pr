@@ -84,7 +84,7 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
 <!-- end list -->
 
-  - [Export-CsPersistentChatData](export-cspersistentchatdata.md)
+  - [Export-CsPersistentChatData](https://technet.microsoft.com/en-us/library/JJ205378(v=OCS.15))
 
   - [Import-CsPersistentChatData](import-cspersistentchatdata.md)
 

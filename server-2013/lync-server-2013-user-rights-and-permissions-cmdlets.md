@@ -37,7 +37,7 @@ The following is a list of cmdlets that relate directly to managing user permiss
 **User Permissions**
 
   - <span></span>  
-    [Get-CsAdminRole](get-csadminrole.md)
+    [Get-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399050(v=OCS.15))
 
   - <span></span>  
     [New-CsAdminRole](new-csadminrole.md)

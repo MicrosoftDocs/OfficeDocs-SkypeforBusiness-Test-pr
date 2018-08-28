@@ -57,7 +57,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 [Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 

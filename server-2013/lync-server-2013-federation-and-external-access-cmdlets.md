@@ -93,7 +93,7 @@ Most management tasks that apply to federation and external access can be perfor
     [Disable-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398481(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsHostingProvider](enable-cshostingprovider.md)
+    [Enable-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398166(v=OCS.15))
 
   - <span></span>  
     [Get-CsHostingProvider](get-cshostingprovider.md)
@@ -110,10 +110,10 @@ Most management tasks that apply to federation and external access can be perfor
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsPublicProvider](disable-cspublicprovider.md)
+    [Disable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398984(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsPublicProvider](enable-cspublicprovider.md)
+    [Enable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398780(v=OCS.15))
 
   - <span></span>  
     [Get-CsPublicProvider](get-cspublicprovider.md)

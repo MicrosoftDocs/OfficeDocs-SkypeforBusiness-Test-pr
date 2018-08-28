@@ -52,7 +52,7 @@ The following is a list of cmdlets that relate directly to managing replication:
 <!-- end list -->
 
   - <span></span>  
-    [Enable-CsReplica](enable-csreplica.md)
+    [Enable-CsReplica](https://technet.microsoft.com/en-us/library/Gg425965(v=OCS.15))
 
   - <span></span>  
     [Test-CsReplica](test-csreplica.md)

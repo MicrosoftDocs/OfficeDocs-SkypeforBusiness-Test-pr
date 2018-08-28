@@ -74,7 +74,7 @@ These cmdlets can be used either with Lync Online or with the on-premises versio
 
   - [Disable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204723(v=OCS.15))
 
-  - [Enable-CsMeetingRoom](enable-csmeetingroom.md)
+  - [Enable-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205062(v=OCS.15))
 
   - [Get-CsClientPolicy](get-csclientpolicy.md)
 

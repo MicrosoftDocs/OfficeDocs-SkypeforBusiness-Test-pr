@@ -189,7 +189,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsLisConfiguration](export-cslisconfiguration.md)
+    [Export-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398539(v=OCS.15))
 
   - <span></span>  
     [Import-CsLisConfiguration](import-cslisconfiguration.md)
