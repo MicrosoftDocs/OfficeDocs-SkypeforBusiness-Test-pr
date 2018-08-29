@@ -40,13 +40,13 @@ The following cmdlets can be used to manage Exchange UM
     [Get-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412725(v=OCS.15))
 
   - <span></span>  
-    [Move-CsExUmContact](move-csexumcontact.md)
+    [Move-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - <span></span>  
-    [New-CsExUmContact](new-csexumcontact.md)
+    [New-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg398139(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsExUmContact](remove-csexumcontact.md)
+    [Remove-CsExUmContact](rehttps://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - <span></span>  
     [Set-CsExUmContact](set-csexumcontact.md)
@@ -73,10 +73,10 @@ The following cmdlets can be used to manage Exchange UM
     [Get-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398348(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsHostedVoicemailPolicy](grant-cshostedvoicemailpolicy.md)
+    [Grant-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg412829(v=OCS.15))
 
   - <span></span>  
-    [New-CsHostedVoicemailPolicy](new-cshostedvoicemailpolicy.md)
+    [New-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398653(v=OCS.15))
 
   - <span></span>  
     [Remove-CsHostedVoicemailPolicy](remove-cshostedvoicemailpolicy.md)
@@ -87,10 +87,10 @@ The following cmdlets can be used to manage Exchange UM
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoicemailReroutingConfiguration](get-csvoicemailreroutingconfiguration.md)
+    [Get-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425732(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoicemailReroutingConfiguration](new-csvoicemailreroutingconfiguration.md)
+    [New-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425849(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoicemailReroutingConfiguration](remove-csvoicemailreroutingconfiguration.md)

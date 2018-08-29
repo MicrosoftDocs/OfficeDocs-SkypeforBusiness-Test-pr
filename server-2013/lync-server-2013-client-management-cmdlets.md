@@ -48,10 +48,10 @@ Most management tasks that apply to client management can be performed from the 
     [Get-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg398830(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsClientPolicy](grant-csclientpolicy.md)
+    [Grant-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg412942(v=OCS.15))
 
   - <span></span>  
-    [New-CsClientPolicy](new-csclientpolicy.md)
+    [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=OCS.15))
 
   - <span></span>  
     [Remove-CsClientPolicy](remove-csclientpolicy.md)
@@ -62,7 +62,7 @@ Most management tasks that apply to client management can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsClientPolicyEntry](new-csclientpolicyentry.md)
+    [New-CsClientPolicyEntry](https://technet.microsoft.com/en-us/library/Gg399046(v=OCS.15))
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@ Most management tasks that apply to client management can be performed from the 
     [Get-CsClientVersionConfiguration](https://technet.microsoft.com/en-us/library/Gg399072(v=OCS.15))
 
   - <span></span>  
-    [New-CsClientVersionConfiguration](new-csclientversionconfiguration.md)
+    [New-CsClientVersionConfiguration](https://technet.microsoft.com/en-us/library/Gg399029(v=OCS.15))
 
   - <span></span>  
     [Remove-CsClientVersionConfiguration](remove-csclientversionconfiguration.md)
@@ -84,10 +84,10 @@ Most management tasks that apply to client management can be performed from the 
     [Get-CsClientVersionPolicy](https://technet.microsoft.com/en-us/library/Gg398957(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsClientVersionPolicy](grant-csclientversionpolicy.md)
+    [Grant-CsClientVersionPolicy](https://technet.microsoft.com/en-us/library/Gg412903(v=OCS.15))
 
   - <span></span>  
-    [New-CsClientVersionPolicy](new-csclientversionpolicy.md)
+    [New-CsClientVersionPolicy](https://technet.microsoft.com/en-us/library/Gg398709(v=OCS.15))
 
   - <span></span>  
     [Remove-CsClientVersionPolicy](remove-csclientversionpolicy.md)
@@ -101,7 +101,7 @@ Most management tasks that apply to client management can be performed from the 
     [Get-CsClientVersionPolicyRule](https://technet.microsoft.com/en-us/library/Gg413048(v=OCS.15))
 
   - <span></span>  
-    [New-CsClientVersionPolicyRule](new-csclientversionpolicyrule.md)
+    [New-CsClientVersionPolicyRule](https://technet.microsoft.com/en-us/library/Gg398905(v=OCS.15))
 
   - <span></span>  
     [Remove-CsClientVersionPolicyRule](remove-csclientversionpolicyrule.md)

@@ -62,7 +62,7 @@ The following is a list of cmdlets that relate directly to managing Lync Server 
     [Get-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg413070(v=OCS.15))
 
   - <span></span>  
-    [Install-CsAdServerSchema](install-csadserverschema.md)
+    [Install-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg398681(v=OCS.15))
 
 </div>
 

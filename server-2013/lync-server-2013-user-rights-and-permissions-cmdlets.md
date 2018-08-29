@@ -40,10 +40,10 @@ The following is a list of cmdlets that relate directly to managing user permiss
     [Get-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399050(v=OCS.15))
 
   - <span></span>  
-    [New-CsAdminRole](new-csadminrole.md)
+    [New-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg398271(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAdminRole](remove-csadminrole.md)
+    [Remove-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg413036(v=OCS.15))
 
   - <span></span>  
     [Set-CsAdminRole](set-csadminrole.md)
@@ -59,7 +59,7 @@ The following is a list of cmdlets that relate directly to managing user permiss
 <!-- end list -->
 
   - <span></span>  
-    [Grant-CsOUPermission](grant-csoupermission.md)
+    [Grant-CsOUPermission](https://technet.microsoft.com/en-us/library/Gg425739(v=OCS.15))
 
   - <span></span>  
     [Revoke-CsOUPermission](revoke-csoupermission.md)
@@ -70,7 +70,7 @@ The following is a list of cmdlets that relate directly to managing user permiss
 <!-- end list -->
 
   - <span></span>  
-    [Grant-CsSetupPermission](grant-cssetuppermission.md)
+    [Grant-CsSetupPermission](https://technet.microsoft.com/en-us/library/Gg398569(v=OCS.15))
 
   - <span></span>  
     [Revoke-CsSetupPermission](revoke-cssetuppermission.md)

@@ -26,30 +26,30 @@ mtps_version: v=OCS.15
 
 _**Topic Last Modified:** 2012-06-26_
 
-The [Move-CsLegacyUser](move-cslegacyuser.md) cmdlet provides a way for you to move user accounts from Office Communications Server 2007 or Microsoft Lync Server 2010 to Microsoft Lync Server 2013. If you need to move a user account "backward" (for example, from Microsoft Lync Server 2013 to Microsoft Lync Server 2010) use the [Move-CsUser](move-csuser.md) cmdlet.
+The [Move-CsLegacyUser](https://technet.microsoft.com/en-us/library/Gg413025(v=OCS.15)) cmdlet provides a way for you to move user accounts from Office Communications Server 2007 or Microsoft Lync Server 2010 to Microsoft Lync Server 2013. If you need to move a user account "backward" (for example, from Microsoft Lync Server 2013 to Microsoft Lync Server 2010) use the [Move-CsUser](https://technet.microsoft.com/en-us/library/Gg398528(v=OCS.15)) cmdlet.
 
   - <span></span>  
-    [Import-CsLegacyConferenceDirectory](import-cslegacyconferencedirectory.md)
+    [Import-CsLegacyConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg398418(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Import-CsLegacyConfiguration](import-cslegacyconfiguration.md)
+    [Import-CsLegacyConfiguration](https://technet.microsoft.com/en-us/library/Gg412923(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Merge-CsLegacyTopology](merge-cslegacytopology.md)
+    [Merge-CsLegacyTopology](https://technet.microsoft.com/en-us/library/Gg425870(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Move-CsApplicationEndpoint](move-csapplicationendpoint.md)
+    [Move-CsApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398188(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Move-CsLegacyUser](move-cslegacyuser.md)
+    [Move-CsLegacyUser](https://technet.microsoft.com/en-us/library/Gg413025(v=OCS.15))
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@ The [Move-CsLegacyUser](move-cslegacyuser.md) cmdlet provides a way for you to m
 
   - [Export-CsUserData](https://technet.microsoft.com/en-us/library/JJ204897(v=OCS.15))
 
-  - [Import-CsUserData](import-csuserdata.md)
+  - [Import-CsUserData](https://technet.microsoft.com/en-us/library/JJ205373(v=OCS.15))
 
   - [Update-CsUserData](update-csuserdata.md)
 

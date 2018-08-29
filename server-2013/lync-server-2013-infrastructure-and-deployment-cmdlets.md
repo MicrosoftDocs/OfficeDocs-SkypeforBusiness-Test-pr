@@ -62,7 +62,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Get-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg413070(v=OCS.15))
 
   - <span></span>  
-    [Install-CsAdServerSchema](install-csadserverschema.md)
+    [Install-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg398681(v=OCS.15))
 
 **[Replication cmdlets in Lync Server 2013](lync-server-2013-replication-cmdlets.md)**
 
@@ -72,7 +72,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsManagementStoreReplication](invoke-csmanagementstorereplication.md)
+    [Invoke-CsManagementStoreReplication](https://technet.microsoft.com/en-us/library/Gg413060(v=OCS.15))
 
 <!-- end list -->
 
@@ -90,10 +90,10 @@ Administrators will rarely need to directly call many of the infrastructure and 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsUserReplicatorConfiguration](get-csuserreplicatorconfiguration.md)
+    [Get-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg398548(v=OCS.15))
 
   - <span></span>  
-    [New-CsUserReplicatorConfiguration](new-csuserreplicatorconfiguration.md)
+    [New-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg399059(v=OCS.15))
 
   - <span></span>  
     [Remove-CsUserReplicatorConfiguration](remove-csuserreplicatorconfiguration.md)
@@ -104,12 +104,12 @@ Administrators will rarely need to directly call many of the infrastructure and 
 **[Topology cmdlets jn Lync Server 2013](lync-server-2013-topology-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsPool](get-cspool.md)
+    [Get-CsPool](https://technet.microsoft.com/en-us/library/Gg398992(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsSite](get-cssite.md)
+    [Get-CsSite](https://technet.microsoft.com/en-us/library/Gg398185(v=OCS.15))
 
   - <span></span>  
     [Set-CsSite](set-cssite.md)
@@ -120,10 +120,10 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Enable-CsTopology](https://technet.microsoft.com/en-us/library/Gg398398(v=OCS.15))
 
   - <span></span>  
-    [Get-CsTopology](get-cstopology.md)
+    [Get-CsTopology](https://technet.microsoft.com/en-us/library/Gg412824(v=OCS.15))
 
   - <span></span>  
-    [Publish-CsTopology](publish-cstopology.md)
+    [Publish-CsTopology](https://technet.microsoft.com/en-us/library/Gg398953(v=OCS.15))
 
   - <span></span>  
     [Test-CsTopology](test-cstopology.md)
@@ -134,12 +134,12 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Export-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398627(v=OCS.15))
 
   - <span></span>  
-    [Import-CsConfiguration](import-csconfiguration.md)
+    [Import-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398800(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsServerVersion](get-csserverversion.md)
+    [Get-CsServerVersion](https://technet.microsoft.com/en-us/library/Gg398470(v=OCS.15))
 
 <!-- end list -->
 
@@ -174,7 +174,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
 
 <!-- end list -->
 
-  - [Invoke-CsBackupServiceSync](invoke-csbackupservicesync.md)
+  - [Invoke-CsBackupServiceSync](https://technet.microsoft.com/en-us/library/JJ205374(v=OCS.15))
 
 <!-- end list -->
 
@@ -186,27 +186,27 @@ Administrators will rarely need to directly call many of the infrastructure and 
 
 <!-- end list -->
 
-  - [Get-CsPoolBackupRelationship](get-cspoolbackuprelationship.md)
+  - [Get-CsPoolBackupRelationship](https://technet.microsoft.com/en-us/library/JJ204745(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsPoolFabricState](get-cspoolfabricstate.md)
+  - [Get-CsPoolFabricState](https://technet.microsoft.com/en-us/library/JJ619188(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsPoolFailBack](invoke-cspoolfailback.md)
+  - [Invoke-CsPoolFailBack](https://technet.microsoft.com/en-us/library/JJ204873(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsPoolFailOver](invoke-cspoolfailover.md)
+  - [Invoke-CsPoolFailOver](https://technet.microsoft.com/en-us/library/JJ205189(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsPoolUpgradeReadinessState](get-cspoolupgradereadinessstate.md)
+  - [Get-CsPoolUpgradeReadinessState](https://technet.microsoft.com/en-us/library/JJ204689(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsStorageServiceFlush](invoke-csstorageserviceflush.md)
+  - [Invoke-CsStorageServiceFlush](https://technet.microsoft.com/en-us/library/JJ619175(v=OCS.15))
 
 <!-- end list -->
 

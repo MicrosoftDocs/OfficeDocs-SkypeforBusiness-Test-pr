@@ -144,7 +144,7 @@ The Centralized Logging Service is configured to define what the logging service
 
 [Set-CsClsConfiguration](set-csclsconfiguration.md)  
 [Remove-CsClsConfiguration](remove-csclsconfiguration.md)  
-[New-CsClsConfiguration](new-csclsconfiguration.md)  
+[New-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619177(v=OCS.15))  
 [Get-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619179(v=OCS.15))  
   
 

@@ -58,7 +58,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [Get-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398667(v=OCS.15))
 
   - <span></span>  
-    [New-CsHealthMonitoringConfiguration](new-cshealthmonitoringconfiguration.md)
+    [New-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398718(v=OCS.15))
 
   - <span></span>  
     [Remove-CsHealthMonitoringConfiguration](remove-cshealthmonitoringconfiguration.md)
@@ -72,7 +72,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [Get-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg413034(v=OCS.15))
 
   - <span></span>  
-    [New-CsDiagnosticConfiguration](new-csdiagnosticconfiguration.md)
+    [New-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg398733(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDiagnosticConfiguration](remove-csdiagnosticconfiguration.md)
@@ -83,7 +83,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
 <!-- end list -->
 
   - <span></span>  
-    [New-CsDiagnosticsFilter](new-csdiagnosticsfilter.md)
+    [New-CsDiagnosticsFilter](https://technet.microsoft.com/en-us/library/Gg413009(v=OCS.15))
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [Get-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg412774(v=OCS.15))
 
   - <span></span>  
-    [New-CsDiagnosticHeaderConfiguration](new-csdiagnosticheaderconfiguration.md)
+    [New-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398350(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDiagnosticHeaderConfiguration](remove-csdiagnosticheaderconfiguration.md)

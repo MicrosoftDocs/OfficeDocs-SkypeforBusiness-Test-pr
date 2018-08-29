@@ -38,7 +38,7 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
   - [Get-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619179(v=OCS.15))
 
-  - [New-CsClsConfiguration](new-csclsconfiguration.md)
+  - [New-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619177(v=OCS.15))
 
   - [Remove-CsClsConfiguration](remove-csclsconfiguration.md)
 
@@ -60,13 +60,13 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
 <!-- end list -->
 
-  - [New-CsClsProvider](new-csclsprovider.md)
+  - [New-CsClsProvider](https://technet.microsoft.com/en-us/library/JJ619187(v=OCS.15))
 
 <!-- end list -->
 
   - [Get-CsClsRegion](https://technet.microsoft.com/en-us/library/JJ204879(v=OCS.15))
 
-  - [New-CsClsRegion](new-csclsregion.md)
+  - [New-CsClsRegion](https://technet.microsoft.com/en-us/library/JJ204658(v=OCS.15))
 
   - [Remove-CsClsRegion](remove-csclsregion.md)
 
@@ -76,7 +76,7 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
   - [Get-CsClsScenario](https://technet.microsoft.com/en-us/library/JJ205091(v=OCS.15))
 
-  - [New-CsClsScenario](new-csclsscenario.md)
+  - [New-CsClsScenario](https://technet.microsoft.com/en-us/library/JJ205022(v=OCS.15))
 
   - [Remove-CsClsScenario](remove-csclsscenario.md)
 
@@ -92,7 +92,7 @@ The centralized logging cmdlets enable you to manage the centralized logging ser
 
   - [Get-CsClsSecurityGroup](https://technet.microsoft.com/en-us/library/JJ205285(v=OCS.15))
 
-  - [New-CsClsSecurityGroup](new-csclssecuritygroup.md)
+  - [New-CsClsSecurityGroup](https://technet.microsoft.com/en-us/library/JJ205359(v=OCS.15))
 
   - [Remove-CsClsSecurityGroup](remove-csclssecuritygroup.md)
 

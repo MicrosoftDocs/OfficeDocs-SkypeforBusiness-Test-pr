@@ -40,13 +40,13 @@ If you do not want to allow dial-in conferencing you can disable this capability
     [Get-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg425771(v=OCS.15))
 
   - <span></span>  
-    [Move-CsConferenceDirectory](move-csconferencedirectory.md)
+    [Move-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferenceDirectory](new-csconferencedirectory.md)
+    [New-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg413080(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConferenceDirectory](remove-csconferencedirectory.md)
+    [Remove-CsConferenceDirectory](rehttps://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
     [Get-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg413015(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingAccessNumber](new-csdialinconferencingaccessnumber.md)
+    [New-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg398818(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialInConferencingAccessNumber](remove-csdialinconferencingaccessnumber.md)
@@ -73,7 +73,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
     [Get-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398575(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingConfiguration](new-csdialinconferencingconfiguration.md)
+    [New-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412816(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialInConferencingConfiguration](remove-csdialinconferencingconfiguration.md)
@@ -87,7 +87,7 @@ If you do not want to allow dial-in conferencing you can disable this capability
     [Get-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg398578(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingDtmfConfiguration](new-csdialinconferencingdtmfconfiguration.md)
+    [New-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg425792(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialInConferencingDtmfConfiguration](remove-csdialinconferencingdtmfconfiguration.md)

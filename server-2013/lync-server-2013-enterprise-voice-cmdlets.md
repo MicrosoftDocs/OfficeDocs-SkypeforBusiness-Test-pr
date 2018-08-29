@@ -37,7 +37,7 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 **[Troubleshooting Enterprise Voice cmdlets in Lync Server 2013](lync-server-2013-troubleshooting-enterprise-voice-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsVoiceConfiguration](get-csvoiceconfiguration.md)
+    [Get-CsVoiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398815(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceConfiguration](remove-csvoiceconfiguration.md)
@@ -48,10 +48,10 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceTestConfiguration](get-csvoicetestconfiguration.md)
+    [Get-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg412957(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceTestConfiguration](new-csvoicetestconfiguration.md)
+    [New-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg398961(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceTestConfiguration](remove-csvoicetestconfiguration.md)
@@ -90,10 +90,10 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 **[Voice normalization rules cmdlets in Lync Server 2013](lync-server-2013-voice-normalization-rules-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsVoiceNormalizationRule](get-csvoicenormalizationrule.md)
+    [Get-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398393(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceNormalizationRule](new-csvoicenormalizationrule.md)
+    [New-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398240(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceNormalizationRule](remove-csvoicenormalizationrule.md)
@@ -107,7 +107,7 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 <!-- end list -->
 
   - <span></span>  
-    [New-CsVoiceRegex](new-csvoiceregex.md)
+    [New-CsVoiceRegex](https://technet.microsoft.com/en-us/library/Gg412751(v=OCS.15))
 
 **[Voice policy cmdlets in Lync Server 2013](lync-server-2013-voice-policy-cmdlets.md)**
 
@@ -115,10 +115,10 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
     [Get-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg413043(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsDialPlan](grant-csdialplan.md)
+    [Grant-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg398547(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialPlan](new-csdialplan.md)
+    [New-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg425860(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialPlan](remove-csdialplan.md)
@@ -132,7 +132,7 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsPstnUsage](get-cspstnusage.md)
+    [Get-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg412734(v=OCS.15))
 
   - <span></span>  
     [Set-CsPstnUsage](set-cspstnusage.md)
@@ -140,13 +140,13 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoicePolicy](get-csvoicepolicy.md)
+    [Get-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398101(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsVoicePolicy](grant-csvoicepolicy.md)
+    [Grant-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398828(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoicePolicy](new-csvoicepolicy.md)
+    [New-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg425856(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoicePolicy](remove-csvoicepolicy.md)
@@ -160,10 +160,10 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 **[Voice routing cmdlets in Lync Server 2013](lync-server-2013-voice-routing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsRoutingConfiguration](get-csroutingconfiguration.md)
+    [Get-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425851(v=OCS.15))
 
   - <span></span>  
-    [New-CsRoutingConfiguration](new-csroutingconfiguration.md)
+    [New-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg399056(v=OCS.15))
 
   - <span></span>  
     [Remove-CsRoutingConfiguration](remove-csroutingconfiguration.md)
@@ -174,10 +174,10 @@ Most management tasks that apply to Enterprise Voice can be performed from the L
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceRoute](get-csvoiceroute.md)
+    [Get-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425926(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceRoute](new-csvoiceroute.md)
+    [New-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398197(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceRoute](remove-csvoiceroute.md)

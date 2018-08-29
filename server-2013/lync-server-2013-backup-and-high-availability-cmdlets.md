@@ -48,7 +48,7 @@ The following is a list of cmdlets that relate directly to backing up and config
 
 <!-- end list -->
 
-  - [Invoke-CsBackupServiceSync](invoke-csbackupservicesync.md)
+  - [Invoke-CsBackupServiceSync](https://technet.microsoft.com/en-us/library/JJ205374(v=OCS.15))
 
 <!-- end list -->
 
@@ -60,27 +60,27 @@ The following is a list of cmdlets that relate directly to backing up and config
 
 <!-- end list -->
 
-  - [Get-CsPoolBackupRelationship](get-cspoolbackuprelationship.md)
+  - [Get-CsPoolBackupRelationship](https://technet.microsoft.com/en-us/library/JJ204745(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsPoolFabricState](get-cspoolfabricstate.md)
+  - [Get-CsPoolFabricState](https://technet.microsoft.com/en-us/library/JJ619188(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsPoolFailBack](invoke-cspoolfailback.md)
+  - [Invoke-CsPoolFailBack](https://technet.microsoft.com/en-us/library/JJ204873(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsPoolFailOver](invoke-cspoolfailover.md)
+  - [Invoke-CsPoolFailOver](https://technet.microsoft.com/en-us/library/JJ205189(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsPoolUpgradeReadinessState](get-cspoolupgradereadinessstate.md)
+  - [Get-CsPoolUpgradeReadinessState](https://technet.microsoft.com/en-us/library/JJ204689(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsStorageServiceFlush](invoke-csstorageserviceflush.md)
+  - [Invoke-CsStorageServiceFlush](https://technet.microsoft.com/en-us/library/JJ619175(v=OCS.15))
 
 <!-- end list -->
 

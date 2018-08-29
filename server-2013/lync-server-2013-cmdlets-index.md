@@ -298,527 +298,527 @@ Following is a list of the cmdlets that ship with Lync Server 2013:
 
   - [Get-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ205128(v=OCS.15))
 
-  - [Get-CsPersistentChatAddin](get-cspersistentchataddin.md)
+  - [Get-CsPersistentChatAddin](https://technet.microsoft.com/en-us/library/JJ204670(v=OCS.15))
 
-  - [Get-CsPersistentChatCategory](get-cspersistentchatcategory.md)
+  - [Get-CsPersistentChatCategory](https://technet.microsoft.com/en-us/library/JJ204771(v=OCS.15))
 
-  - [Get-CsPersistentChatComplianceConfiguration](get-cspersistentchatcomplianceconfiguration.md)
+  - [Get-CsPersistentChatComplianceConfiguration](https://technet.microsoft.com/en-us/library/JJ204625(v=OCS.15))
 
-  - [Get-CsPersistentChatConfiguration](get-cspersistentchatconfiguration.md)
+  - [Get-CsPersistentChatConfiguration](https://technet.microsoft.com/en-us/library/JJ205140(v=OCS.15))
 
-  - [Get-CsPersistentChatEligiblePrincipal](get-cspersistentchateligibleprincipal.md)
+  - [Get-CsPersistentChatEligiblePrincipal](https://technet.microsoft.com/en-us/library/JJ204891(v=OCS.15))
 
-  - [Get-CsPersistentChatEndpoint](get-cspersistentchatendpoint.md)
+  - [Get-CsPersistentChatEndpoint](https://technet.microsoft.com/en-us/library/JJ204764(v=OCS.15))
 
-  - [Get-CsPersistentChatPolicy](get-cspersistentchatpolicy.md)
+  - [Get-CsPersistentChatPolicy](https://technet.microsoft.com/en-us/library/JJ204673(v=OCS.15))
 
-  - [Get-CsPersistentChatRoom](get-cspersistentchatroom.md)
+  - [Get-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ205123(v=OCS.15))
 
-  - [Get-CsPersistentChatState](get-cspersistentchatstate.md)
+  - [Get-CsPersistentChatState](https://technet.microsoft.com/en-us/library/JJ204915(v=OCS.15))
 
-  - [Get-CsPinPolicy](get-cspinpolicy.md)
+  - [Get-CsPinPolicy](https://technet.microsoft.com/en-us/library/Gg398262(v=OCS.15))
 
-  - [Get-CsPool](get-cspool.md)
+  - [Get-CsPool](https://technet.microsoft.com/en-us/library/Gg398992(v=OCS.15))
 
-  - [Get-CsPoolBackupRelationship](get-cspoolbackuprelationship.md)
+  - [Get-CsPoolBackupRelationship](https://technet.microsoft.com/en-us/library/JJ204745(v=OCS.15))
 
-  - [Get-CsPoolUpgradeReadinessState](get-cspoolupgradereadinessstate.md)
+  - [Get-CsPoolUpgradeReadinessState](https://technet.microsoft.com/en-us/library/JJ204689(v=OCS.15))
 
-  - [Get-CsPresencePolicy](get-cspresencepolicy.md)
+  - [Get-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg398463(v=OCS.15))
 
-  - [Get-CsPresenceProvider](get-cspresenceprovider.md)
+  - [Get-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ204705(v=OCS.15))
 
-  - [Get-CsPrivacyConfiguration](get-csprivacyconfiguration.md)
+  - [Get-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg413002(v=OCS.15))
 
-  - [Get-CsProxyConfiguration](get-csproxyconfiguration.md)
+  - [Get-CsProxyConfiguration](https://technet.microsoft.com/en-us/library/Gg399011(v=OCS.15))
 
-  - [Get-CsPstnUsage](get-cspstnusage.md)
+  - [Get-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg412734(v=OCS.15))
 
-  - [Get-CsPublicProvider](get-cspublicprovider.md)
+  - [Get-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg412945(v=OCS.15))
 
-  - [Get-CsPushNotificationConfiguration](get-cspushnotificationconfiguration.md)
+  - [Get-CsPushNotificationConfiguration](https://technet.microsoft.com/en-us/library/Hh690049(v=OCS.15))
 
-  - [Get-CsQoEConfiguration](get-csqoeconfiguration.md)
+  - [Get-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg399004(v=OCS.15))
 
-  - [Get-CsRegistrarConfiguration](get-csregistrarconfiguration.md)
+  - [Get-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398483(v=OCS.15))
 
-  - [Get-CsReportingConfiguration](get-csreportingconfiguration.md)
+  - [Get-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205356(v=OCS.15))
 
-  - [Get-CsRgsAgentGroup](get-csrgsagentgroup.md)
+  - [Get-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg425793(v=OCS.15))
 
-  - [Get-CsRgsConfiguration](get-csrgsconfiguration.md)
+  - [Get-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg412762(v=OCS.15))
 
-  - [Get-CsRgsHolidaySet](get-csrgsholidayset.md)
+  - [Get-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg412983(v=OCS.15))
 
-  - [Get-CsRgsHoursOfBusiness](get-csrgshoursofbusiness.md)
+  - [Get-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398284(v=OCS.15))
 
-  - [Get-CsRgsQueue](get-csrgsqueue.md)
+  - [Get-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg412759(v=OCS.15))
 
-  - [Get-CsRgsWorkflow](get-csrgsworkflow.md)
+  - [Get-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg425766(v=OCS.15))
 
-  - [Get-CsRoutingConfiguration](get-csroutingconfiguration.md)
+  - [Get-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425851(v=OCS.15))
 
-  - [Get-CsServerApplication](get-csserverapplication.md)
+  - [Get-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg425948(v=OCS.15))
 
-  - [Get-CsServerVersion](get-csserverversion.md)
+  - [Get-CsServerVersion](https://technet.microsoft.com/en-us/library/Gg398470(v=OCS.15))
 
-  - [Get-CsService](get-csservice.md)
+  - [Get-CsService](https://technet.microsoft.com/en-us/library/Gg413038(v=OCS.15))
 
-  - [Get-CsSimpleUrlConfiguration](get-cssimpleurlconfiguration.md)
+  - [Get-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg398392(v=OCS.15))
 
-  - [Get-CsSipDomain](get-cssipdomain.md)
+  - [Get-CsSipDomain](https://technet.microsoft.com/en-us/library/Gg398701(v=OCS.15))
 
-  - [Get-CsSipResponseCodeTranslationRule](get-cssipresponsecodetranslationrule.md)
+  - [Get-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg398130(v=OCS.15))
 
-  - [Get-CsSlaConfiguration](get-csslaconfiguration.md)
+  - [Get-CsSlaConfiguration](https://technet.microsoft.com/en-us/library/Mt703200(v=OCS.15))
 
-  - [Get-CsSite](get-cssite.md)
+  - [Get-CsSite](https://technet.microsoft.com/en-us/library/Gg398185(v=OCS.15))
 
-  - [Get-CsStaticRoutingConfiguration](get-csstaticroutingconfiguration.md)
+  - [Get-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398754(v=OCS.15))
 
-  - [Get-CsTestDevice](get-cstestdevice.md)
+  - [Get-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg398304(v=OCS.15))
 
-  - [Get-CsTestUserCredential](get-cstestusercredential.md)
+  - [Get-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204759(v=OCS.15))
 
-  - [Get-CsTopology](get-cstopology.md)
+  - [Get-CsTopology](https://technet.microsoft.com/en-us/library/Gg412824(v=OCS.15))
 
-  - [Get-CsTrunk](get-cstrunk.md)
+  - [Get-CsTrunk](https://technet.microsoft.com/en-us/library/JJ205244(v=OCS.15))
 
-  - [Get-CsTrunkConfiguration](get-cstrunkconfiguration.md)
+  - [Get-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398224(v=OCS.15))
 
-  - [Get-CsTrustedApplication](get-cstrustedapplication.md)
+  - [Get-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg399025(v=OCS.15))
 
-  - [Get-CsTrustedApplicationComputer](get-cstrustedapplicationcomputer.md)
+  - [Get-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg425843(v=OCS.15))
 
-  - [Get-CsTrustedApplicationEndpoint](get-cstrustedapplicationendpoint.md)
+  - [Get-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg413035(v=OCS.15))
 
-  - [Get-CsTrustedApplicationPool](get-cstrustedapplicationpool.md)
+  - [Get-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg413055(v=OCS.15))
 
-  - [Get-CsUCPhoneConfiguration](get-csucphoneconfiguration.md)
+  - [Get-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398070(v=OCS.15))
 
-  - [Get-CsUICulture](get-csuiculture.md)
+  - [Get-CsUICulture](https://technet.microsoft.com/en-us/library/Gg412900(v=OCS.15))
 
-  - [Get-CsUnassignedNumber](get-csunassignednumber.md)
+  - [Get-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg412792(v=OCS.15))
 
-  - [Get-CsUser](get-csuser.md)
+  - [Get-CsUser](https://technet.microsoft.com/en-us/library/Gg398125(v=OCS.15))
 
-  - [Get-CsUserAcp](get-csuseracp.md)
+  - [Get-CsUserAcp](https://technet.microsoft.com/en-us/library/Gg398978(v=OCS.15))
 
-  - [Get-CsUserDatabaseState](get-csuserdatabasestate.md)
+  - [Get-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg398831(v=OCS.15))
 
-  - [Get-CsUserPoolInfo](get-csuserpoolinfo.md)
+  - [Get-CsUserPoolInfo](https://technet.microsoft.com/en-us/library/Gg398615(v=OCS.15))
 
-  - [Get-CsUserReplicatorConfiguration](get-csuserreplicatorconfiguration.md)
+  - [Get-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg398548(v=OCS.15))
 
-  - [Get-CsUserServicesConfiguration](get-csuserservicesconfiguration.md)
+  - [Get-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg398133(v=OCS.15))
 
-  - [Get-CsUserServicesPolicy](get-csuserservicespolicy.md)
+  - [Get-CsUserServicesPolicy](https://technet.microsoft.com/en-us/library/JJ204838(v=OCS.15))
 
-  - [Get-CsVoiceConfiguration](get-csvoiceconfiguration.md)
+  - [Get-CsVoiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398815(v=OCS.15))
 
-  - [Get-CsVoicemailReroutingConfiguration](get-csvoicemailreroutingconfiguration.md)
+  - [Get-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425732(v=OCS.15))
 
-  - [Get-CsVoiceNormalizationRule](get-csvoicenormalizationrule.md)
+  - [Get-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398393(v=OCS.15))
 
-  - [Get-CsVoicePolicy](get-csvoicepolicy.md)
+  - [Get-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398101(v=OCS.15))
 
-  - [Get-CsVoiceRoute](get-csvoiceroute.md)
+  - [Get-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425926(v=OCS.15))
 
-  - [Get-CsVoiceRoutingPolicy](get-csvoiceroutingpolicy.md)
+  - [Get-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ204940(v=OCS.15))
 
-  - [Get-CsVoiceTestConfiguration](get-csvoicetestconfiguration.md)
+  - [Get-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg412957(v=OCS.15))
 
-  - [Get-CsWatcherNodeConfiguration](get-cswatchernodeconfiguration.md)
+  - [Get-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204739(v=OCS.15))
 
-  - [Get-CsWebServiceConfiguration](get-cswebserviceconfiguration.md)
+  - [Get-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg425751(v=OCS.15))
 
-  - [Get-CsWindowsService](get-cswindowsservice.md)
+  - [Get-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398803(v=OCS.15))
 
-  - [Get-CsXmppAllowedPartner](get-csxmppallowedpartner.md)
+  - [Get-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204981(v=OCS.15))
 
-  - [Get-CsXmppGatewayConfiguration](get-csxmppgatewayconfiguration.md)
+  - [Get-CsXmppGatewayConfiguration](https://technet.microsoft.com/en-us/library/JJ204869(v=OCS.15))
 
-  - [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
+  - [Grant-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398475(v=OCS.15))
 
-  - [Grant-CsClientPolicy](grant-csclientpolicy.md)
+  - [Grant-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg412942(v=OCS.15))
 
-  - [Grant-CsClientVersionPolicy](grant-csclientversionpolicy.md)
+  - [Grant-CsClientVersionPolicy](https://technet.microsoft.com/en-us/library/Gg412903(v=OCS.15))
 
-  - [Grant-CsConferencingPolicy](grant-csconferencingpolicy.md)
+  - [Grant-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg425937(v=OCS.15))
 
-  - [Grant-CsDialPlan](grant-csdialplan.md)
+  - [Grant-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg398547(v=OCS.15))
 
-  - [Grant-CsExternalAccessPolicy](grant-csexternalaccesspolicy.md)
+  - [Grant-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425942(v=OCS.15))
 
-  - [Grant-CsHostedVoicemailPolicy](grant-cshostedvoicemailpolicy.md)
+  - [Grant-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg412829(v=OCS.15))
 
-  - [Grant-CsLocationPolicy](grant-cslocationpolicy.md)
+  - [Grant-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg413049(v=OCS.15))
 
-  - [Grant-CsMobilityPolicy](grant-csmobilitypolicy.md)
+  - [Grant-CsMobilityPolicy](https://technet.microsoft.com/en-us/library/Hh690038(v=OCS.15))
 
-  - [Grant-CsOUPermission](grant-csoupermission.md)
+  - [Grant-CsOUPermission](https://technet.microsoft.com/en-us/library/Gg425739(v=OCS.15))
 
-  - [Grant-CsPersistentChatPolicy](grant-cspersistentchatpolicy.md)
+  - [Grant-CsPersistentChatPolicy](https://technet.microsoft.com/en-us/library/JJ204907(v=OCS.15))
 
-  - [Grant-CsPinPolicy](grant-cspinpolicy.md)
+  - [Grant-CsPinPolicy](https://technet.microsoft.com/en-us/library/Gg398871(v=OCS.15))
 
-  - [Grant-CsPresencePolicy](grant-cspresencepolicy.md)
+  - [Grant-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg398571(v=OCS.15))
 
-  - [Grant-CsSetupPermission](grant-cssetuppermission.md)
+  - [Grant-CsSetupPermission](https://technet.microsoft.com/en-us/library/Gg398569(v=OCS.15))
 
-  - [Grant-CsUserServicesPolicy](grant-csuserservicespolicy.md)
+  - [Grant-CsUserServicesPolicy](https://technet.microsoft.com/en-us/library/JJ205388(v=OCS.15))
 
-  - [Grant-CsVoicePolicy](grant-csvoicepolicy.md)
+  - [Grant-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398828(v=OCS.15))
 
-  - [Grant-CsVoiceRoutingPolicy](grant-csvoiceroutingpolicy.md)
+  - [Grant-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ205141(v=OCS.15))
 
-  - [Import-CsAnnouncementFile](import-csannouncementfile.md)
+  - [Import-CsAnnouncementFile](https://technet.microsoft.com/en-us/library/Gg398472(v=OCS.15))
 
-  - [Import-CsCertificate](import-cscertificate.md)
+  - [Import-CsCertificate](https://technet.microsoft.com/en-us/library/Gg398688(v=OCS.15))
 
-  - [Import-CsConfiguration](import-csconfiguration.md)
+  - [Import-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398800(v=OCS.15))
 
-  - [Import-CsDeviceUpdate](import-csdeviceupdate.md)
+  - [Import-CsDeviceUpdate](https://technet.microsoft.com/en-us/library/Gg398861(v=OCS.15))
 
-  - [Import-CsLegacyConferenceDirectory](import-cslegacyconferencedirectory.md)
+  - [Import-CsLegacyConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg398418(v=OCS.15))
 
-  - [Import-CsLegacyConfiguration](import-cslegacyconfiguration.md)
+  - [Import-CsLegacyConfiguration](https://technet.microsoft.com/en-us/library/Gg412923(v=OCS.15))
 
-  - [Import-CsLisConfiguration](import-cslisconfiguration.md)
+  - [Import-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398380(v=OCS.15))
 
-  - [Import-CsPersistentChatData](import-cspersistentchatdata.md)
+  - [Import-CsPersistentChatData](https://technet.microsoft.com/en-us/library/JJ204709(v=OCS.15))
 
-  - [Import-CsRgsAudioFile](import-csrgsaudiofile.md)
+  - [Import-CsRgsAudioFile](https://technet.microsoft.com/en-us/library/Gg412830(v=OCS.15))
 
-  - [Import-CsRgsConfiguration](import-csrgsconfiguration.md)
+  - [Import-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/JJ205245(v=OCS.15))
 
-  - [Import-CsUserData](import-csuserdata.md)
+  - [Import-CsUserData](https://technet.microsoft.com/en-us/library/JJ205373(v=OCS.15))
 
-  - [Install-CsAdServerSchema](install-csadserverschema.md)
+  - [Install-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg398681(v=OCS.15))
 
-  - [Install-CsDatabase](install-csdatabase.md)
+  - [Install-CsDatabase](https://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
-  - [Install-CsMirrorDatabase](install-csmirrordatabase.md)
+  - [Install-CsMirrorDatabase](https://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
-  - [Invoke-CsArchivingDatabasePurge](invoke-csarchivingdatabasepurge.md)
+  - [Invoke-CsArchivingDatabasePurge](https://technet.microsoft.com/en-us/library/JJ204627(v=OCS.15))
 
-  - [Invoke-CsBackupServiceSync](invoke-csbackupservicesync.md)
+  - [Invoke-CsBackupServiceSync](https://technet.microsoft.com/en-us/library/JJ205374(v=OCS.15))
 
-  - [Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
+  - [Invoke-CsCdrDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205113(v=OCS.15))
 
-  - [Invoke-CsDatabaseFailover](invoke-csdatabasefailover.md)
+  - [Invoke-CsDatabaseFailover](https://technet.microsoft.com/en-us/library/JJ204744(v=OCS.15))
 
-  - [Invoke-CsManagementServerFailover](invoke-csmanagementserverfailover.md)
+  - [Invoke-CsManagementServerFailover](https://technet.microsoft.com/en-us/library/JJ204647(v=OCS.15))
 
-  - [Invoke-CsManagementStoreReplication](invoke-csmanagementstorereplication.md)
+  - [Invoke-CsManagementStoreReplication](https://technet.microsoft.com/en-us/library/Gg413060(v=OCS.15))
 
-  - [Invoke-CsPoolFailBack](invoke-cspoolfailback.md)
+  - [Invoke-CsPoolFailBack](https://technet.microsoft.com/en-us/library/JJ204873(v=OCS.15))
 
-  - [Invoke-CsPoolFailOver](invoke-cspoolfailover.md)
+  - [Invoke-CsPoolFailOver](https://technet.microsoft.com/en-us/library/JJ205189(v=OCS.15))
 
-  - [Invoke-CsQoEDatabasePurge](invoke-csqoedatabasepurge.md)
+  - [Invoke-CsQoEDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205247(v=OCS.15))
 
-  - [Invoke-CsUcsRollback](invoke-csucsrollback.md)
+  - [Invoke-CsUcsRollback](https://technet.microsoft.com/en-us/library/JJ204661(v=OCS.15))
 
-  - [Lock-CsClientPin](lock-csclientpin.md)
+  - [Lock-CsClientPin](https://technet.microsoft.com/en-us/library/Gg398650(v=OCS.15))
 
-  - [Merge-CsLegacyTopology](merge-cslegacytopology.md)
+  - [Merge-CsLegacyTopology](https://technet.microsoft.com/en-us/library/Gg425870(v=OCS.15))
 
-  - [Move-CsAnalogDevice](move-csanalogdevice.md)
+  - [Move-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg398816(v=OCS.15))
 
-  - [Move-CsApplicationEndpoint](move-csapplicationendpoint.md)
+  - [Move-CsApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398188(v=OCS.15))
 
-  - [Move-CsCommonAreaPhone](move-cscommonareaphone.md)
+  - [Move-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg412837(v=OCS.15))
 
-  - [Move-CsConferenceDirectory](move-csconferencedirectory.md)
+  - [Move-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
-  - [Move-CsExUmContact](move-csexumcontact.md)
+  - [Move-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
-  - [Move-CsLegacyUser](move-cslegacyuser.md)
+  - [Move-CsLegacyUser](https://technet.microsoft.com/en-us/library/Gg413025(v=OCS.15))
 
-  - [Move-CsManagementServer](move-csmanagementserver.md)
+  - [Move-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg412921(v=OCS.15))
 
-  - [Move-CsMeetingRoom](move-csmeetingroom.md)
+  - [Move-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204889(v=OCS.15))
 
-  - [Move-CsRgsConfiguration](move-csrgsconfiguration.md)
+  - [Move-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg398782(v=OCS.15))
 
-  - [Move-CsUser](move-csuser.md)
+  - [Move-CsUser](https://technet.microsoft.com/en-us/library/Gg398528(v=OCS.15))
 
-  - [New-CsAddressBookConfiguration](new-csaddressbookconfiguration.md)
+  - [New-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398395(v=OCS.15))
 
-  - [New-CsAdminRole](new-csadminrole.md)
+  - [New-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg398271(v=OCS.15))
 
-  - [New-CsAllowedDomain](new-csalloweddomain.md)
+  - [New-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398628(v=OCS.15))
 
-  - [New-CsAnalogDevice](new-csanalogdevice.md)
+  - [New-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg412937(v=OCS.15))
 
-  - [New-CsAnnouncement](new-csannouncement.md)
+  - [New-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398522(v=OCS.15))
 
-  - [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)
+  - [New-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398471(v=OCS.15))
 
-  - [New-CsArchivingPolicy](new-csarchivingpolicy.md)
+  - [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15))
 
-  - [New-CsAutodiscoverConfiguration](new-csautodiscoverconfiguration.md)
+  - [New-CsAutodiscoverConfiguration](https://technet.microsoft.com/en-us/library/Hh690022(v=OCS.15))
 
-  - [New-CsAVEdgeConfiguration](new-csavedgeconfiguration.md)
+  - [New-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg412884(v=OCS.15))
 
-  - [New-CsBandwidthPolicyServiceConfiguration](new-csbandwidthpolicyserviceconfiguration.md)
+  - [New-CsBandwidthPolicyServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398175(v=OCS.15))
 
-  - [New-CsBlockedDomain](new-csblockeddomain.md)
+  - [New-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398822(v=OCS.15))
 
-  - [New-CsCallParkOrbit](new-cscallparkorbit.md)
+  - [New-CsCallParkOrbit](https://technet.microsoft.com/en-us/library/Gg398936(v=OCS.15))
 
-  - [New-CsCdrConfiguration](new-cscdrconfiguration.md)
+  - [New-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg399018(v=OCS.15))
 
-  - [New-CsClientPolicy](new-csclientpolicy.md)
+  - [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=OCS.15))
 
-  - [New-CsClientPolicyEntry](new-csclientpolicyentry.md)
+  - [New-CsClientPolicyEntry](https://technet.microsoft.com/en-us/library/Gg399046(v=OCS.15))
 
-  - [New-CsClientVersionConfiguration](new-csclientversionconfiguration.md)
+  - [New-CsClientVersionConfiguration](https://technet.microsoft.com/en-us/library/Gg399029(v=OCS.15))
 
-  - [New-CsClientVersionPolicy](new-csclientversionpolicy.md)
+  - [New-CsClientVersionPolicy](https://technet.microsoft.com/en-us/library/Gg398709(v=OCS.15))
 
-  - [New-CsClientVersionPolicyRule](new-csclientversionpolicyrule.md)
+  - [New-CsClientVersionPolicyRule](https://technet.microsoft.com/en-us/library/Gg398905(v=OCS.15))
 
-  - [New-CsClsRegion](new-csclsregion.md)
+  - [New-CsClsRegion](https://technet.microsoft.com/en-us/library/JJ204658(v=OCS.15))
 
-  - [New-CsClsScenario](new-csclsscenario.md)
+  - [New-CsClsScenario](https://technet.microsoft.com/en-us/library/JJ205022(v=OCS.15))
 
-  - [New-CsClsSecurityGroup](new-csclssecuritygroup.md)
+  - [New-CsClsSecurityGroup](https://technet.microsoft.com/en-us/library/JJ205359(v=OCS.15))
 
-  - [New-CsCommonAreaPhone](new-cscommonareaphone.md)
+  - [New-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg398430(v=OCS.15))
 
-  - [New-CsConferenceDirectory](new-csconferencedirectory.md)
+  - [New-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg413080(v=OCS.15))
 
-  - [New-CsConferencingConfiguration](new-csconferencingconfiguration.md)
+  - [New-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412967(v=OCS.15))
 
-  - [New-CsConferencingPolicy](new-csconferencingpolicy.md)
+  - [New-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg413019(v=OCS.15))
 
-  - [New-CsCpsConfiguration](new-cscpsconfiguration.md)
+  - [New-CsCpsConfiguration](https://technet.microsoft.com/en-us/library/Gg412919(v=OCS.15))
 
-  - [New-CsDeviceUpdateConfiguration](new-csdeviceupdateconfiguration.md)
+  - [New-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg425761(v=OCS.15))
 
-  - [New-CsDiagnosticConfiguration](new-csdiagnosticconfiguration.md)
+  - [New-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg398733(v=OCS.15))
 
-  - [New-CsDiagnosticHeaderConfiguration](new-csdiagnosticheaderconfiguration.md)
+  - [New-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398350(v=OCS.15))
 
-  - [New-CsDiagnosticsFilter](new-csdiagnosticsfilter.md)
+  - [New-CsDiagnosticsFilter](https://technet.microsoft.com/en-us/library/Gg413009(v=OCS.15))
 
-  - [New-CsDialInConferencingAccessNumber](new-csdialinconferencingaccessnumber.md)
+  - [New-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg398818(v=OCS.15))
 
-  - [New-CsDialInConferencingConfiguration](new-csdialinconferencingconfiguration.md)
+  - [New-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412816(v=OCS.15))
 
-  - [New-CsDialInConferencingDtmfConfiguration](new-csdialinconferencingdtmfconfiguration.md)
+  - [New-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg425792(v=OCS.15))
 
-  - [New-CsDialPlan](new-csdialplan.md)
+  - [New-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg425860(v=OCS.15))
 
-  - [New-CsExtendedTest](new-csextendedtest.md)
+  - [New-CsExtendedTest](https://technet.microsoft.com/en-us/library/JJ205275(v=OCS.15))
 
-  - [New-CsExternalAccessPolicy](new-csexternalaccesspolicy.md)
+  - [New-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg398441(v=OCS.15))
 
-  - [New-CsExUmContact](new-csexumcontact.md)
+  - [New-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg398139(v=OCS.15))
 
-  - [New-CsFileTransferFilterConfiguration](new-csfiletransferfilterconfiguration.md)
+  - [New-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg425897(v=OCS.15))
 
-  - [New-CsFIPSConfiguration](new-csfipsconfiguration.md)
+  - [New-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205114(v=OCS.15))
 
-  - [New-CsHealthMonitoringConfiguration](new-cshealthmonitoringconfiguration.md)
+  - [New-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398718(v=OCS.15))
 
-  - [New-CsHostedVoicemailPolicy](new-cshostedvoicemailpolicy.md)
+  - [New-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398653(v=OCS.15))
 
-  - [New-CsHostingProvider](new-cshostingprovider.md)
+  - [New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))
 
-  - [New-CsImFilterConfiguration](new-csimfilterconfiguration.md)
+  - [New-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398244(v=OCS.15))
 
-  - [New-CsIssuedCertId](new-csissuedcertid.md)
+  - [New-CsIssuedCertId](https://technet.microsoft.com/en-us/library/Gg425814(v=OCS.15))
 
-  - [New-CsKerberosAccount](new-cskerberosaccount.md)
+  - [New-CsKerberosAccount](https://technet.microsoft.com/en-us/library/Gg398485(v=OCS.15))
 
-  - [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)
+  - [New-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398074(v=OCS.15))
 
-  - [New-CsLocationPolicy](new-cslocationpolicy.md)
+  - [New-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg398231(v=OCS.15))
 
-  - [New-CsMcxConfiguration](new-csmcxconfiguration.md)
+  - [New-CsMcxConfiguration](https://technet.microsoft.com/en-us/library/Hh690035(v=OCS.15))
 
-  - [New-CsMediaConfiguration](new-csmediaconfiguration.md)
+  - [New-CsMediaConfiguration](https://technet.microsoft.com/en-us/library/Gg425881(v=OCS.15))
 
-  - [New-CsMeetingConfiguration](new-csmeetingconfiguration.md)
+  - [New-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg398065(v=OCS.15))
 
-  - [New-CsMobilityPolicy](new-csmobilitypolicy.md)
+  - [New-CsMobilityPolicy](https://technet.microsoft.com/en-us/library/Hh689987(v=OCS.15))
 
-  - [New-CsNetworkBandwidthPolicyProfile](new-csnetworkbandwidthpolicyprofile.md)
+  - [New-CsNetworkBandwidthPolicyProfile](https://technet.microsoft.com/en-us/library/Gg398675(v=OCS.15))
 
-  - [New-CsNetworkBWAlternatePath](new-csnetworkbwalternatepath.md)
+  - [New-CsNetworkBWAlternatePath](https://technet.microsoft.com/en-us/library/Gg398732(v=OCS.15))
 
-  - [New-CsNetworkBWPolicy](new-csnetworkbwpolicy.md)
+  - [New-CsNetworkBWPolicy](https://technet.microsoft.com/en-us/library/Gg412916(v=OCS.15))
 
-  - [New-CsNetworkInterRegionRoute](new-csnetworkinterregionroute.md)
+  - [New-CsNetworkInterRegionRoute](https://technet.microsoft.com/en-us/library/Gg398779(v=OCS.15))
 
-  - [New-CsNetworkInterSitePolicy](new-csnetworkintersitepolicy.md)
+  - [New-CsNetworkInterSitePolicy](https://technet.microsoft.com/en-us/library/Gg398994(v=OCS.15))
 
-  - [New-CsNetworkMediaBypassConfiguration](new-csnetworkmediabypassconfiguration.md)
+  - [New-CsNetworkMediaBypassConfiguration](https://technet.microsoft.com/en-us/library/Gg425718(v=OCS.15))
 
-  - [New-CsNetworkRegion](new-csnetworkregion.md)
+  - [New-CsNetworkRegion](https://technet.microsoft.com/en-us/library/Gg425829(v=OCS.15))
 
-  - [New-CsNetworkRegionLink](new-csnetworkregionlink.md)
+  - [New-CsNetworkRegionLink](https://technet.microsoft.com/en-us/library/Gg398437(v=OCS.15))
 
-  - [New-CsNetworkSite](new-csnetworksite.md)
+  - [New-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398365(v=OCS.15))
 
-  - [New-CsNetworkSubnet](new-csnetworksubnet.md)
+  - [New-CsNetworkSubnet](https://technet.microsoft.com/en-us/library/Gg398226(v=OCS.15))
 
-  - [New-CsOAuthServer](new-csoauthserver.md)
+  - [New-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205206(v=OCS.15))
 
-  - [New-CsOutboundCallingNumberTranslationRule](new-csoutboundcallingnumbertranslationrule.md)
+  - [New-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205097(v=OCS.15))
 
-  - [New-CsOutboundTranslationRule](new-csoutboundtranslationrule.md)
+  - [New-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg412803(v=OCS.15))
 
-  - [New-CsPartnerApplication](new-cspartnerapplication.md)
+  - [New-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204628(v=OCS.15))
 
-  - [New-CsPersistentChatAddin](new-cspersistentchataddin.md)
+  - [New-CsPersistentChatAddin](https://technet.microsoft.com/en-us/library/JJ204641(v=OCS.15))
 
-  - [New-CsPersistentChatCategory](new-cspersistentchatcategory.md)
+  - [New-CsPersistentChatCategory](https://technet.microsoft.com/en-us/library/JJ204803(v=OCS.15))
 
-  - [New-CsPersistentChatComplianceConfiguration](new-cspersistentchatcomplianceconfiguration.md)
+  - [New-CsPersistentChatComplianceConfiguration](https://technet.microsoft.com/en-us/library/JJ205163(v=OCS.15))
 
-  - [New-CsPersistentChatConfiguration](new-cspersistentchatconfiguration.md)
+  - [New-CsPersistentChatConfiguration](https://technet.microsoft.com/en-us/library/JJ205330(v=OCS.15))
 
-  - [New-CsPersistentChatEndpoint](new-cspersistentchatendpoint.md)
+  - [New-CsPersistentChatEndpoint](https://technet.microsoft.com/en-us/library/JJ204811(v=OCS.15))
 
-  - [New-CsPersistentChatPolicy](new-cspersistentchatpolicy.md)
+  - [New-CsPersistentChatPolicy](https://technet.microsoft.com/en-us/library/JJ205396(v=OCS.15))
 
-  - [New-CsPersistentChatRoom](new-cspersistentchatroom.md)
+  - [New-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ205166(v=OCS.15))
 
-  - [New-CsPinPolicy](new-cspinpolicy.md)
+  - [New-CsPinPolicy](https://technet.microsoft.com/en-us/library/Gg398935(v=OCS.15))
 
-  - [New-CsPresencePolicy](new-cspresencepolicy.md)
+  - [New-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg412747(v=OCS.15))
 
-  - [New-CsPresenceProvider](new-cspresenceprovider.md)
+  - [New-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ204895(v=OCS.15))
 
-  - [New-CsPrivacyConfiguration](new-csprivacyconfiguration.md)
+  - [New-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg398807(v=OCS.15))
 
-  - [New-CsProxyConfiguration](new-csproxyconfiguration.md)
+  - [New-CsProxyConfiguration](https://technet.microsoft.com/en-us/library/Gg398335(v=OCS.15))
 
-  - [New-CsPublicProvider](new-cspublicprovider.md)
+  - [New-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398161(v=OCS.15))
 
-  - [New-CsPushNotificationConfiguration](new-cspushnotificationconfiguration.md)
+  - [New-CsPushNotificationConfiguration](https://technet.microsoft.com/en-us/library/Hh690027(v=OCS.15))
 
-  - [New-CsQoEConfiguration](new-csqoeconfiguration.md)
+  - [New-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398325(v=OCS.15))
 
-  - [New-CsRegistrarConfiguration](new-csregistrarconfiguration.md)
+  - [New-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg425893(v=OCS.15))
 
-  - [New-CsReportingConfiguration](new-csreportingconfiguration.md)
+  - [New-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204787(v=OCS.15))
 
-  - [New-CsRgsAgentGroup](new-csrgsagentgroup.md)
+  - [New-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg413065(v=OCS.15))
 
-  - [New-CsRgsAnswer](new-csrgsanswer.md)
+  - [New-CsRgsAnswer](https://technet.microsoft.com/en-us/library/Gg412812(v=OCS.15))
 
-  - [New-CsRgsCallAction](new-csrgscallaction.md)
+  - [New-CsRgsCallAction](https://technet.microsoft.com/en-us/library/Gg398136(v=OCS.15))
 
-  - [New-CsRgsHoliday](new-csrgsholiday.md)
+  - [New-CsRgsHoliday](https://technet.microsoft.com/en-us/library/Gg398075(v=OCS.15))
 
-  - [New-CsRgsHolidaySet](new-csrgsholidayset.md)
+  - [New-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398403(v=OCS.15))
 
-  - [New-CsRgsHoursOfBusiness](new-csrgshoursofbusiness.md)
+  - [New-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398291(v=OCS.15))
 
-  - [New-CsRgsPrompt](new-csrgsprompt.md)
+  - [New-CsRgsPrompt](https://technet.microsoft.com/en-us/library/Gg398486(v=OCS.15))
 
-  - [New-CsRgsQuestion](new-csrgsquestion.md)
+  - [New-CsRgsQuestion](https://technet.microsoft.com/en-us/library/Gg398186(v=OCS.15))
 
-  - [New-CsRgsQueue](new-csrgsqueue.md)
+  - [New-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398989(v=OCS.15))
 
-  - [New-CsRgsTimeRange](new-csrgstimerange.md)
+  - [New-CsRgsTimeRange](https://technet.microsoft.com/en-us/library/Gg399040(v=OCS.15))
 
-  - [New-CsRgsWorkflow](new-csrgsworkflow.md)
+  - [New-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398246(v=OCS.15))
 
-  - [New-CsRoutingConfiguration](new-csroutingconfiguration.md)
+  - [New-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg399056(v=OCS.15))
 
-  - [New-CsServerApplication](new-csserverapplication.md)
+  - [New-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg398096(v=OCS.15))
 
-  - [New-CsSimpleUrl](new-cssimpleurl.md)
+  - [New-CsSimpleUrl](https://technet.microsoft.com/en-us/library/Gg398180(v=OCS.15))
 
-  - [New-CsSimpleUrlConfiguration](new-cssimpleurlconfiguration.md)
+  - [New-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg425813(v=OCS.15))
 
-  - [New-CsSimpleUrlEntry](new-cssimpleurlentry.md)
+  - [New-CsSimpleUrlEntry](https://technet.microsoft.com/en-us/library/Gg425902(v=OCS.15))
 
-  - [New-CsSipDomain](new-cssipdomain.md)
+  - [New-CsSipDomain](https://technet.microsoft.com/en-us/library/Gg425857(v=OCS.15))
 
-  - [New-CsSipProxyCustom](new-cssipproxycustom.md)
+  - [New-CsSipProxyCustom](https://technet.microsoft.com/en-us/library/Gg425904(v=OCS.15))
 
-  - [New-CsSipProxyRealm](new-cssipproxyrealm.md)
+  - [New-CsSipProxyRealm](https://technet.microsoft.com/en-us/library/Gg413084(v=OCS.15))
 
-  - [New-CsSipProxyTCP](new-cssipproxytcp.md)
+  - [New-CsSipProxyTCP](https://technet.microsoft.com/en-us/library/Gg425745(v=OCS.15))
 
-  - [New-CsSipProxyTLS](new-cssipproxytls.md)
+  - [New-CsSipProxyTLS](https://technet.microsoft.com/en-us/library/Gg398629(v=OCS.15))
 
-  - [New-CsSipProxyTransport](new-cssipproxytransport.md)
+  - [New-CsSipProxyTransport](https://technet.microsoft.com/en-us/library/Gg398489(v=OCS.15))
 
-  - [New-CsSipProxyUseDefault](new-cssipproxyusedefault.md)
+  - [New-CsSipProxyUseDefault](https://technet.microsoft.com/en-us/library/Gg398274(v=OCS.15))
 
-  - [New-CsSipProxyUseDefaultCert](new-cssipproxyusedefaultcert.md)
+  - [New-CsSipProxyUseDefaultCert](https://technet.microsoft.com/en-us/library/Gg425858(v=OCS.15))
 
-  - [New-CsSipResponseCodeTranslationRule](new-cssipresponsecodetranslationrule.md)
+  - [New-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg413041(v=OCS.15))
 
-  - [New-CsStaticRoute](new-csstaticroute.md)
+  - [New-CsStaticRoute](https://technet.microsoft.com/en-us/library/Gg398265(v=OCS.15))
 
-  - [New-CsStaticRoutingConfiguration](new-csstaticroutingconfiguration.md)
+  - [New-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425811(v=OCS.15))
 
-  - [New-CsTestDevice](new-cstestdevice.md)
+  - [New-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg425899(v=OCS.15))
 
-  - [New-CsTrunkConfiguration](new-cstrunkconfiguration.md)
+  - [New-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg413021(v=OCS.15))
 
-  - [New-CsTrustedApplication](new-cstrustedapplication.md)
+  - [New-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg398259(v=OCS.15))
 
-  - [New-CsTrustedApplicationComputer](new-cstrustedapplicationcomputer.md)
+  - [New-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg398405(v=OCS.15))
 
-  - [New-CsTrustedApplicationEndpoint](new-cstrustedapplicationendpoint.md)
+  - [New-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398594(v=OCS.15))
 
-  - [New-CsTrustedApplicationPool](new-cstrustedapplicationpool.md)
+  - [New-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg425804(v=OCS.15))
 
-  - [New-CsUCPhoneConfiguration](new-csucphoneconfiguration.md)
+  - [New-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398445(v=OCS.15))
 
-  - [New-CsUnassignedNumber](new-csunassignednumber.md)
+  - [New-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398651(v=OCS.15))
 
-  - [New-CsUserReplicatorConfiguration](new-csuserreplicatorconfiguration.md)
+  - [New-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg399059(v=OCS.15))
 
-  - [New-CsUserServicesConfiguration](new-csuserservicesconfiguration.md)
+  - [New-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg412926(v=OCS.15))
 
-  - [New-CsUserServicesPolicy](new-csuserservicespolicy.md)
+  - [New-CsUserServicesPolicy](https://technet.microsoft.com/en-us/library/JJ205072(v=OCS.15))
 
-  - [New-CsVoicemailReroutingConfiguration](new-csvoicemailreroutingconfiguration.md)
+  - [New-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425849(v=OCS.15))
 
-  - [New-CsVoiceNormalizationRule](new-csvoicenormalizationrule.md)
+  - [New-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398240(v=OCS.15))
 
-  - [New-CsVoicePolicy](new-csvoicepolicy.md)
+  - [New-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg425856(v=OCS.15))
 
-  - [New-CsVoiceRegex](new-csvoiceregex.md)
+  - [New-CsVoiceRegex](https://technet.microsoft.com/en-us/library/Gg412751(v=OCS.15))
 
-  - [New-CsVoiceRoute](new-csvoiceroute.md)
+  - [New-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398197(v=OCS.15))
 
-  - [New-CsVoiceRoutingPolicy](new-csvoiceroutingpolicy.md)
+  - [New-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ205135(v=OCS.15))
 
-  - [New-CsVoiceTestConfiguration](new-csvoicetestconfiguration.md)
+  - [New-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg398961(v=OCS.15))
 
-  - [New-CsWatcherNodeConfiguration](new-cswatchernodeconfiguration.md)
+  - [New-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ205254(v=OCS.15))
 
-  - [New-CsWebLink](new-csweblink.md)
+  - [New-CsWebLink](https://technet.microsoft.com/en-us/library/Hh690053(v=OCS.15))
 
-  - [New-CsWebServiceConfiguration](new-cswebserviceconfiguration.md)
+  - [New-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398440(v=OCS.15))
 
-  - [New-CsWebTrustedCACertificate](new-cswebtrustedcacertificate.md)
+  - [New-CsWebTrustedCACertificate](https://technet.microsoft.com/en-us/library/Gg412746(v=OCS.15))
 
-  - [New-CsXmppAllowedPartner](new-csxmppallowedpartner.md)
+  - [New-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204631(v=OCS.15))
 
-  - [Publish-CsLisConfiguration](publish-cslisconfiguration.md)
+  - [Publish-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398364(v=OCS.15))
 
-  - [Publish-CsTopology](publish-cstopology.md)
+  - [Publish-CsTopology](https://technet.microsoft.com/en-us/library/Gg398953(v=OCS.15))
 
-  - [Remove-CsAddressBookConfiguration](remove-csaddressbookconfiguration.md)
+  - [Remove-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398934(v=OCS.15))
 
-  - [Remove-CsAdminRole](remove-csadminrole.md)
+  - [Remove-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg413036(v=OCS.15))
 
-  - [Remove-CsAllowedDomain](remove-csalloweddomain.md)
+  - [Remove-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398913(v=OCS.15))
 
-  - [Remove-CsAnalogDevice](remove-csanalogdevice.md)
+  - [Remove-CsAnalogDevice](rehttps://technet.microsoft.com/en-us/library/Gg398816(v=OCS.15))
 
   - [Remove-CsAnnouncement](remove-csannouncement.md)
 
@@ -856,9 +856,9 @@ Following is a list of the cmdlets that ship with Lync Server 2013:
 
   - [Remove-CsClsSecurityGroup](remove-csclssecuritygroup.md)
 
-  - [Remove-CsCommonAreaPhone](remove-cscommonareaphone.md)
+  - [Remove-CsCommonAreaPhone](rehttps://technet.microsoft.com/en-us/library/Gg412837(v=OCS.15))
 
-  - [Remove-CsConferenceDirectory](remove-csconferencedirectory.md)
+  - [Remove-CsConferenceDirectory](rehttps://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
   - [Remove-CsConferenceDisclaimer](remove-csconferencedisclaimer.md)
 
@@ -890,7 +890,7 @@ Following is a list of the cmdlets that ship with Lync Server 2013:
 
   - [Remove-CsExternalAccessPolicy](remove-csexternalaccesspolicy.md)
 
-  - [Remove-CsExUmContact](remove-csexumcontact.md)
+  - [Remove-CsExUmContact](rehttps://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - [Remove-CsFileTransferFilterConfiguration](remove-csfiletransferfilterconfiguration.md)
 
@@ -1478,13 +1478,13 @@ Following is a list of the cmdlets that ship with Lync Server 2013:
 
   - [Test-CsXmppIM](test-csxmppim.md)
 
-  - [Uninstall-CsDatabase](uninstall-csdatabase.md)
+  - [Uninstall-CsDatabase](unhttps://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
-  - [Uninstall-CsMirrorDatabase](uninstall-csmirrordatabase.md)
+  - [Uninstall-CsMirrorDatabase](unhttps://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
-  - [Unlock-CsClientPin](unlock-csclientpin.md)
+  - [Unlock-CsClientPin](unhttps://technet.microsoft.com/en-us/library/Gg398650(v=OCS.15))
 
-  - [Unpublish-CsLisConfiguration](unpublish-cslisconfiguration.md)
+  - [Unpublish-CsLisConfiguration](unhttps://technet.microsoft.com/en-us/library/Gg398364(v=OCS.15))
 
   - [Update-CsAddressBook](update-csaddressbook.md)
 

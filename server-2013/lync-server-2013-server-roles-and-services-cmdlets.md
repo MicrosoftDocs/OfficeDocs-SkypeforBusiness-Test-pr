@@ -40,10 +40,10 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398132(v=OCS.15))
 
   - <span></span>  
-    [New-CsAddressBookConfiguration](new-csaddressbookconfiguration.md)
+    [New-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398395(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAddressBookConfiguration](remove-csaddressbookconfiguration.md)
+    [Remove-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398934(v=OCS.15))
 
   - <span></span>  
     [Set-CsAddressBookConfiguration](set-csaddressbookconfiguration.md)
@@ -74,7 +74,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)
+    [New-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398471(v=OCS.15))
 
   - <span></span>  
     [Remove-CsArchivingConfiguration](remove-csarchivingconfiguration.md)
@@ -90,7 +90,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsArchivingDatabasePurge](invoke-csarchivingdatabasepurge.md)
+    [Invoke-CsArchivingDatabasePurge](https://technet.microsoft.com/en-us/library/JJ204627(v=OCS.15))
 
 <!-- end list -->
 
@@ -98,10 +98,10 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425731(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
+    [Grant-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398475(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingPolicy](new-csarchivingpolicy.md)
+    [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15))
 
   - <span></span>  
     [Remove-CsArchivingPolicy](remove-csarchivingpolicy.md)
@@ -120,7 +120,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398298(v=OCS.15))
 
   - <span></span>  
-    [New-CsCdrConfiguration](new-cscdrconfiguration.md)
+    [New-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg399018(v=OCS.15))
 
   - <span></span>  
     [Remove-CsCdrConfiguration](remove-cscdrconfiguration.md)
@@ -136,10 +136,10 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsQoEConfiguration](get-csqoeconfiguration.md)
+    [Get-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg399004(v=OCS.15))
 
   - <span></span>  
-    [New-CsQoEConfiguration](new-csqoeconfiguration.md)
+    [New-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398325(v=OCS.15))
 
   - <span></span>  
     [Remove-CsQoEConfiguration](remove-csqoeconfiguration.md)
@@ -147,7 +147,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
   - <span></span>  
     [Set-CsQoEConfiguration](set-csqoeconfiguration.md)
 
-[Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
+[Invoke-CsCdrDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205113(v=OCS.15))
 
   - <span></span>  
     [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
@@ -155,15 +155,15 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsQoEDatabasePurge](invoke-csqoedatabasepurge.md)
+    [Invoke-CsQoEDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205247(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsReportingConfiguration](get-csreportingconfiguration.md)
+    [Get-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205356(v=OCS.15))
 
   - <span></span>  
-    [New-CsReportingConfiguration](new-csreportingconfiguration.md)
+    [New-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204787(v=OCS.15))
 
   - <span></span>  
     [Remove-CsReportingConfiguration](remove-csreportingconfiguration.md)
@@ -174,7 +174,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTestUserCredential](get-cstestusercredential.md)
+    [Get-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204759(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTestUserCredential](remove-cstestusercredential.md)
@@ -185,10 +185,10 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWatcherNodeConfiguration](get-cswatchernodeconfiguration.md)
+    [Get-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204739(v=OCS.15))
 
   - <span></span>  
-    [New-CsWatcherNodeConfiguration](new-cswatchernodeconfiguration.md)
+    [New-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ205254(v=OCS.15))
 
   - <span></span>  
     [Remove-CsWatcherNodeConfiguration](remove-cswatchernodeconfiguration.md)
@@ -202,7 +202,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [New-CsExtendedTest](new-csextendedtest.md)
+    [New-CsExtendedTest](https://technet.microsoft.com/en-us/library/JJ205275(v=OCS.15))
 
 **[Database and Management Server cmdlets in Lync Server 2013](lync-server-2013-database-and-management-server-cmdlets.md)**
 
@@ -218,17 +218,17 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Install-CsDatabase](install-csdatabase.md)
+    [Install-CsDatabase](https://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
   - <span></span>  
     [Test-CsDatabase](test-csdatabase.md)
 
   - <span></span>  
-    [Uninstall-CsDatabase](uninstall-csdatabase.md)
+    [Uninstall-CsDatabase](unhttps://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsDatabaseFailover](invoke-csdatabasefailover.md)
+  - [Invoke-CsDatabaseFailover](https://technet.microsoft.com/en-us/library/JJ204744(v=OCS.15))
 
 <!-- end list -->
 
@@ -236,14 +236,14 @@ Many (but not all) of the management tasks that apply to servers and service rol
 
 <!-- end list -->
 
-  - [Install-CsMirrorDatabase](install-csmirrordatabase.md)
+  - [Install-CsMirrorDatabase](https://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
-  - [Uninstall-CsMirrorDatabase](uninstall-csmirrordatabase.md)
+  - [Uninstall-CsMirrorDatabase](unhttps://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsUserDatabaseState](get-csuserdatabasestate.md)
+    [Get-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg398831(v=OCS.15))
 
   - <span></span>  
     [Set-CsUserDatabaseState](set-csuserdatabasestate.md)
@@ -256,14 +256,14 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Move-CsManagementServer](move-csmanagementserver.md)
+    [Move-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg412921(v=OCS.15))
 
   - <span></span>  
     [Set-CsManagementServer](set-csmanagementserver.md)
 
 <!-- end list -->
 
-  - [Invoke-CsManagementServerFailover](invoke-csmanagementserverfailover.md)
+  - [Invoke-CsManagementServerFailover](https://technet.microsoft.com/en-us/library/JJ204647(v=OCS.15))
 
 **[Edge Server cmdlets in Lync Server 2013](lync-server-2013-edge-server-cmdlets.md)**
 
@@ -279,7 +279,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413008(v=OCS.15))
 
   - <span></span>  
-    [New-CsAVEdgeConfiguration](new-csavedgeconfiguration.md)
+    [New-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg412884(v=OCS.15))
 
   - <span></span>  
     [Remove-CsAVEdgeConfiguration](remove-csavedgeconfiguration.md)
@@ -325,10 +325,10 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRegistrarConfiguration](get-csregistrarconfiguration.md)
+    [Get-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398483(v=OCS.15))
 
   - <span></span>  
-    [New-CsRegistrarConfiguration](new-csregistrarconfiguration.md)
+    [New-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg425893(v=OCS.15))
 
   - <span></span>  
     [Remove-CsRegistrarConfiguration](remove-csregistrarconfiguration.md)
@@ -344,12 +344,12 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Services cmdlets in Lync Server 2013](lync-server-2013-services-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsService](get-csservice.md)
+    [Get-CsService](https://technet.microsoft.com/en-us/library/Gg413038(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWindowsService](get-cswindowsservice.md)
+    [Get-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398803(v=OCS.15))
 
   - <span></span>  
     [Start-CsWindowsService](start-cswindowsservice.md)
@@ -371,7 +371,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398667(v=OCS.15))
 
   - <span></span>  
-    [New-CsHealthMonitoringConfiguration](new-cshealthmonitoringconfiguration.md)
+    [New-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398718(v=OCS.15))
 
   - <span></span>  
     [Remove-CsHealthMonitoringConfiguration](remove-cshealthmonitoringconfiguration.md)
@@ -385,7 +385,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg413034(v=OCS.15))
 
   - <span></span>  
-    [New-CsDiagnosticConfiguration](new-csdiagnosticconfiguration.md)
+    [New-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg398733(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDiagnosticConfiguration](remove-csdiagnosticconfiguration.md)
@@ -396,7 +396,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [New-CsDiagnosticsFilter](new-csdiagnosticsfilter.md)
+    [New-CsDiagnosticsFilter](https://technet.microsoft.com/en-us/library/Gg413009(v=OCS.15))
 
 <!-- end list -->
 
@@ -404,7 +404,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg412774(v=OCS.15))
 
   - <span></span>  
-    [New-CsDiagnosticHeaderConfiguration](new-csdiagnosticheaderconfiguration.md)
+    [New-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398350(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDiagnosticHeaderConfiguration](remove-csdiagnosticheaderconfiguration.md)
@@ -415,15 +415,15 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Web server and services cmdlets in Lync Server 2013](lync-server-2013-web-server-and-services-cmdlets.md)**
 
   - <span></span>  
-    [New-CsSimpleUrl](new-cssimpleurl.md)
+    [New-CsSimpleUrl](https://technet.microsoft.com/en-us/library/Gg398180(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsSimpleUrlConfiguration](get-cssimpleurlconfiguration.md)
+    [Get-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg398392(v=OCS.15))
 
   - <span></span>  
-    [New-CsSimpleUrlConfiguration](new-cssimpleurlconfiguration.md)
+    [New-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg425813(v=OCS.15))
 
   - <span></span>  
     [Remove-CsSimpleUrlConfiguration](remove-cssimpleurlconfiguration.md)
@@ -434,7 +434,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSimpleUrlEntry](new-cssimpleurlentry.md)
+    [New-CsSimpleUrlEntry](https://technet.microsoft.com/en-us/library/Gg425902(v=OCS.15))
 
 <!-- end list -->
 
@@ -444,10 +444,10 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWebServiceConfiguration](get-cswebserviceconfiguration.md)
+    [Get-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg425751(v=OCS.15))
 
   - <span></span>  
-    [New-CsWebServiceConfiguration](new-cswebserviceconfiguration.md)
+    [New-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398440(v=OCS.15))
 
   - <span></span>  
     [Remove-CsWebServiceConfiguration](remove-cswebserviceconfiguration.md)
@@ -458,12 +458,12 @@ Many (but not all) of the management tasks that apply to servers and service rol
 <!-- end list -->
 
   - <span></span>  
-    [New-CsWebTrustedCACertificate](new-cswebtrustedcacertificate.md)
+    [New-CsWebTrustedCACertificate](https://technet.microsoft.com/en-us/library/Gg412746(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsKerberosAccount](new-cskerberosaccount.md)
+    [New-CsKerberosAccount](https://technet.microsoft.com/en-us/library/Gg398485(v=OCS.15))
 
 <!-- end list -->
 
@@ -471,7 +471,7 @@ Many (but not all) of the management tasks that apply to servers and service rol
     [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
-    [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)
+    [New-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398074(v=OCS.15))
 
   - <span></span>  
     [Remove-CsKerberosAccountAssignment](remove-cskerberosaccountassignment.md)

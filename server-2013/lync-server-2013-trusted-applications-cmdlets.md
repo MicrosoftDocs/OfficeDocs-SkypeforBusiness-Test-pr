@@ -37,10 +37,10 @@ Use the following cmdlets to manage trusted applications.
 **Trusted Applications**
 
   - <span></span>  
-    [Get-CsTrustedApplication](get-cstrustedapplication.md)
+    [Get-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg399025(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrustedApplication](new-cstrustedapplication.md)
+    [New-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg398259(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTrustedApplication](remove-cstrustedapplication.md)
@@ -51,10 +51,10 @@ Use the following cmdlets to manage trusted applications.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrustedApplicationComputer](get-cstrustedapplicationcomputer.md)
+    [Get-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg425843(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrustedApplicationComputer](new-cstrustedapplicationcomputer.md)
+    [New-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg398405(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTrustedApplicationComputer](remove-cstrustedapplicationcomputer.md)
@@ -62,10 +62,10 @@ Use the following cmdlets to manage trusted applications.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrustedApplicationEndpoint](get-cstrustedapplicationendpoint.md)
+    [Get-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg413035(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrustedApplicationEndpoint](new-cstrustedapplicationendpoint.md)
+    [New-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398594(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTrustedApplicationEndpoint](remove-cstrustedapplicationendpoint.md)
@@ -76,10 +76,10 @@ Use the following cmdlets to manage trusted applications.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrustedApplicationPool](get-cstrustedapplicationpool.md)
+    [Get-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg413055(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrustedApplicationPool](new-cstrustedapplicationpool.md)
+    [New-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg425804(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTrustedApplicationPool](remove-cstrustedapplicationpool.md)

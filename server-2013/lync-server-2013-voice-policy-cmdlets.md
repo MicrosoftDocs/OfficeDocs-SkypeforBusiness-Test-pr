@@ -40,10 +40,10 @@ The following cmdlets can be used to manage voice policies and dial plans for En
     [Get-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg413043(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsDialPlan](grant-csdialplan.md)
+    [Grant-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg398547(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialPlan](new-csdialplan.md)
+    [New-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg425860(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialPlan](remove-csdialplan.md)
@@ -57,7 +57,7 @@ The following cmdlets can be used to manage voice policies and dial plans for En
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsPstnUsage](get-cspstnusage.md)
+    [Get-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg412734(v=OCS.15))
 
   - <span></span>  
     [Set-CsPstnUsage](set-cspstnusage.md)
@@ -65,13 +65,13 @@ The following cmdlets can be used to manage voice policies and dial plans for En
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoicePolicy](get-csvoicepolicy.md)
+    [Get-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398101(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsVoicePolicy](grant-csvoicepolicy.md)
+    [Grant-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398828(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoicePolicy](new-csvoicepolicy.md)
+    [New-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg425856(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoicePolicy](remove-csvoicepolicy.md)

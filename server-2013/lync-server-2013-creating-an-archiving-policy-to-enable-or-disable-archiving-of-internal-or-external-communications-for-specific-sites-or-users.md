@@ -131,7 +131,7 @@ Archiving policies can be created by using Windows PowerShell and the **Remove-C
 
 </div>
 
-For more information, see the help topic for the [New-CsArchivingPolicy](new-csarchivingpolicy.md) cmdlet.
+For more information, see the help topic for the [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15)) cmdlet.
 
 </div>
 

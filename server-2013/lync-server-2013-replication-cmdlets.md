@@ -42,7 +42,7 @@ The following is a list of cmdlets that relate directly to managing replication:
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsManagementStoreReplication](invoke-csmanagementstorereplication.md)
+    [Invoke-CsManagementStoreReplication](https://technet.microsoft.com/en-us/library/Gg413060(v=OCS.15))
 
 <!-- end list -->
 
@@ -60,10 +60,10 @@ The following is a list of cmdlets that relate directly to managing replication:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsUserReplicatorConfiguration](get-csuserreplicatorconfiguration.md)
+    [Get-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg398548(v=OCS.15))
 
   - <span></span>  
-    [New-CsUserReplicatorConfiguration](new-csuserreplicatorconfiguration.md)
+    [New-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg399059(v=OCS.15))
 
   - <span></span>  
     [Remove-CsUserReplicatorConfiguration](remove-csuserreplicatorconfiguration.md)

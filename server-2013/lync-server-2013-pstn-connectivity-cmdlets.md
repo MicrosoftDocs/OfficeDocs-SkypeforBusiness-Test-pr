@@ -57,10 +57,10 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 **[Static routing cmdlets in Lync Server 2013](lync-server-2013-static-routing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsSipResponseCodeTranslationRule](get-cssipresponsecodetranslationrule.md)
+    [Get-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg398130(v=OCS.15))
 
   - <span></span>  
-    [New-CsSipResponseCodeTranslationRule](new-cssipresponsecodetranslationrule.md)
+    [New-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg413041(v=OCS.15))
 
   - <span></span>  
     [Remove-CsSipResponseCodeTranslationRule](remove-cssipresponsecodetranslationrule.md)
@@ -71,15 +71,15 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 <!-- end list -->
 
   - <span></span>  
-    [New-CsStaticRoute](new-csstaticroute.md)
+    [New-CsStaticRoute](https://technet.microsoft.com/en-us/library/Gg398265(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsStaticRoutingConfiguration](get-csstaticroutingconfiguration.md)
+    [Get-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398754(v=OCS.15))
 
   - <span></span>  
-    [New-CsStaticRoutingConfiguration](new-csstaticroutingconfiguration.md)
+    [New-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425811(v=OCS.15))
 
   - <span></span>  
     [Remove-CsStaticRoutingConfiguration](remove-csstaticroutingconfiguration.md)
@@ -90,42 +90,42 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyCustom](new-cssipproxycustom.md)
+    [New-CsSipProxyCustom](https://technet.microsoft.com/en-us/library/Gg425904(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyRealm](new-cssipproxyrealm.md)
+    [New-CsSipProxyRealm](https://technet.microsoft.com/en-us/library/Gg413084(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyTCP](new-cssipproxytcp.md)
+    [New-CsSipProxyTCP](https://technet.microsoft.com/en-us/library/Gg425745(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyTLS](new-cssipproxytls.md)
+    [New-CsSipProxyTLS](https://technet.microsoft.com/en-us/library/Gg398629(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyTransport](new-cssipproxytransport.md)
+    [New-CsSipProxyTransport](https://technet.microsoft.com/en-us/library/Gg398489(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyUseDefault](new-cssipproxyusedefault.md)
+    [New-CsSipProxyUseDefault](https://technet.microsoft.com/en-us/library/Gg398274(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyUseDefaultCert](new-cssipproxyusedefaultcert.md)
+    [New-CsSipProxyUseDefaultCert](https://technet.microsoft.com/en-us/library/Gg425858(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsIssuedCertId](new-csissuedcertid.md)
+    [New-CsIssuedCertId](https://technet.microsoft.com/en-us/library/Gg425814(v=OCS.15))
 
 **[Trunking configuration cmdlets in Lync Server 2013](lync-server-2013-trunking-configuration-cmdlets.md)**
 
@@ -135,7 +135,7 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 
   - [Get-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204962(v=OCS.15))
 
-  - [New-CsOutboundCallingNumberTranslationRule](new-csoutboundcallingnumbertranslationrule.md)
+  - [New-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205097(v=OCS.15))
 
   - [Remove-CsOutboundCallingNumberTranslationRule](remove-csoutboundcallingnumbertranslationrule.md)
 
@@ -147,7 +147,7 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
     [Get-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398104(v=OCS.15))
 
   - <span></span>  
-    [New-CsOutboundTranslationRule](new-csoutboundtranslationrule.md)
+    [New-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg412803(v=OCS.15))
 
   - <span></span>  
     [Remove-CsOutboundTranslationRule](remove-csoutboundtranslationrule.md)
@@ -157,15 +157,15 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 
 <!-- end list -->
 
-  - [Get-CsTrunk](get-cstrunk.md)
+  - [Get-CsTrunk](https://technet.microsoft.com/en-us/library/JJ205244(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrunkConfiguration](get-cstrunkconfiguration.md)
+    [Get-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398224(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrunkConfiguration](new-cstrunkconfiguration.md)
+    [New-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg413021(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTrunkConfiguration](remove-cstrunkconfiguration.md)
@@ -179,15 +179,15 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 <!-- end list -->
 
   - <span></span>  
-    [New-CsVoiceRegex](new-csvoiceregex.md)
+    [New-CsVoiceRegex](https://technet.microsoft.com/en-us/library/Gg412751(v=OCS.15))
 
 **[Voice routing cmdlets in Lync Server 2013](lync-server-2013-voice-routing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsRoutingConfiguration](get-csroutingconfiguration.md)
+    [Get-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425851(v=OCS.15))
 
   - <span></span>  
-    [New-CsRoutingConfiguration](new-csroutingconfiguration.md)
+    [New-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg399056(v=OCS.15))
 
   - <span></span>  
     [Remove-CsRoutingConfiguration](remove-csroutingconfiguration.md)
@@ -198,10 +198,10 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceRoute](get-csvoiceroute.md)
+    [Get-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425926(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceRoute](new-csvoiceroute.md)
+    [New-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398197(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceRoute](remove-csvoiceroute.md)

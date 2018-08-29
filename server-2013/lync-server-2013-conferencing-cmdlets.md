@@ -40,13 +40,13 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg425771(v=OCS.15))
 
   - <span></span>  
-    [Move-CsConferenceDirectory](move-csconferencedirectory.md)
+    [Move-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferenceDirectory](new-csconferencedirectory.md)
+    [New-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg413080(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConferenceDirectory](remove-csconferencedirectory.md)
+    [Remove-CsConferenceDirectory](rehttps://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg413015(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingAccessNumber](new-csdialinconferencingaccessnumber.md)
+    [New-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg398818(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialInConferencingAccessNumber](remove-csdialinconferencingaccessnumber.md)
@@ -73,7 +73,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398575(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingConfiguration](new-csdialinconferencingconfiguration.md)
+    [New-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412816(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialInConferencingConfiguration](remove-csdialinconferencingconfiguration.md)
@@ -87,7 +87,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg398578(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingDtmfConfiguration](new-csdialinconferencingdtmfconfiguration.md)
+    [New-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg425792(v=OCS.15))
 
   - <span></span>  
     [Remove-CsDialInConferencingDtmfConfiguration](remove-csdialinconferencingdtmfconfiguration.md)
@@ -122,7 +122,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398965(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferencingConfiguration](new-csconferencingconfiguration.md)
+    [New-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412967(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConferencingConfiguration](remove-csconferencingconfiguration.md)
@@ -136,10 +136,10 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg398293(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsConferencingPolicy](grant-csconferencingpolicy.md)
+    [Grant-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg425937(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferencingPolicy](new-csconferencingpolicy.md)
+    [New-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg413019(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConferencingPolicy](remove-csconferencingpolicy.md)
@@ -153,7 +153,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
     [Get-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg425875(v=OCS.15))
 
   - <span></span>  
-    [New-CsMeetingConfiguration](new-csmeetingconfiguration.md)
+    [New-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg398065(v=OCS.15))
 
   - <span></span>  
     [Remove-CsMeetingConfiguration](remove-csmeetingconfiguration.md)
@@ -169,7 +169,7 @@ The **CsDialInConferencing** cmdlets are used to configure dial-in conferencing 
 
   - [Get-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205277(v=OCS.15))
 
-  - [Move-CsMeetingRoom](move-csmeetingroom.md)
+  - [Move-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204889(v=OCS.15))
 
   - [Set-CsMeetingRoom](set-csmeetingroom.md)
 

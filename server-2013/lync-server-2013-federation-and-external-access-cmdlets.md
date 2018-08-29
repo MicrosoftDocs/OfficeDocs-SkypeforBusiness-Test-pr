@@ -38,10 +38,10 @@ Most management tasks that apply to federation and external access can be perfor
     [Get-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398164(v=OCS.15))
 
   - <span></span>  
-    [New-CsAllowedDomain](new-csalloweddomain.md)
+    [New-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398628(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAllowedDomain](remove-csalloweddomain.md)
+    [Remove-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398913(v=OCS.15))
 
   - <span></span>  
     [Set-CsAllowedDomain](set-csalloweddomain.md)
@@ -52,7 +52,7 @@ Most management tasks that apply to federation and external access can be perfor
     [Get-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398424(v=OCS.15))
 
   - <span></span>  
-    [New-CsBlockedDomain](new-csblockeddomain.md)
+    [New-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398822(v=OCS.15))
 
   - <span></span>  
     [Remove-CsBlockedDomain](remove-csblockeddomain.md)
@@ -66,10 +66,10 @@ Most management tasks that apply to federation and external access can be perfor
     [Get-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425805(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsExternalAccessPolicy](grant-csexternalaccesspolicy.md)
+    [Grant-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425942(v=OCS.15))
 
   - <span></span>  
-    [New-CsExternalAccessPolicy](new-csexternalaccesspolicy.md)
+    [New-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg398441(v=OCS.15))
 
   - <span></span>  
     [Remove-CsExternalAccessPolicy](remove-csexternalaccesspolicy.md)
@@ -81,7 +81,7 @@ Most management tasks that apply to federation and external access can be perfor
 
   - [Get-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ204904(v=OCS.15))
 
-  - [New-CsFIPSConfiguration](new-csfipsconfiguration.md)
+  - [New-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205114(v=OCS.15))
 
   - [Remove-CsFIPSConfiguration](remove-csfipsconfiguration.md)
 
@@ -99,7 +99,7 @@ Most management tasks that apply to federation and external access can be perfor
     [Get-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg413078(v=OCS.15))
 
   - <span></span>  
-    [New-CsHostingProvider](new-cshostingprovider.md)
+    [New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))
 
   - <span></span>  
     [Remove-CsHostingProvider](remove-cshostingprovider.md)
@@ -116,10 +116,10 @@ Most management tasks that apply to federation and external access can be perfor
     [Enable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398780(v=OCS.15))
 
   - <span></span>  
-    [Get-CsPublicProvider](get-cspublicprovider.md)
+    [Get-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg412945(v=OCS.15))
 
   - <span></span>  
-    [New-CsPublicProvider](new-cspublicprovider.md)
+    [New-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398161(v=OCS.15))
 
   - <span></span>  
     [Remove-CsPublicProvider](remove-cspublicprovider.md)
@@ -134,9 +134,9 @@ Most management tasks that apply to federation and external access can be perfor
 
 <!-- end list -->
 
-  - [Get-CsXmppAllowedPartner](get-csxmppallowedpartner.md)
+  - [Get-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204981(v=OCS.15))
 
-  - [New-CsXmppAllowedPartner](new-csxmppallowedpartner.md)
+  - [New-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204631(v=OCS.15))
 
   - [Remove-CsXmppAllowedPartner](remove-csxmppallowedpartner.md)
 
@@ -144,7 +144,7 @@ Most management tasks that apply to federation and external access can be perfor
 
 <!-- end list -->
 
-  - [Get-CsXmppGatewayConfiguration](get-csxmppgatewayconfiguration.md)
+  - [Get-CsXmppGatewayConfiguration](https://technet.microsoft.com/en-us/library/JJ204869(v=OCS.15))
 
   - [Set-CsXmppGatewayConfiguration](set-csxmppgatewayconfiguration.md)
 

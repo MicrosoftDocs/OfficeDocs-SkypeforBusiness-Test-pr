@@ -40,7 +40,7 @@ Use the following cmdlets for media configuration.
     [Get-CsMediaConfiguration](https://technet.microsoft.com/en-us/library/Gg398128(v=OCS.15))
 
   - <span></span>  
-    [New-CsMediaConfiguration](new-csmediaconfiguration.md)
+    [New-CsMediaConfiguration](https://technet.microsoft.com/en-us/library/Gg425881(v=OCS.15))
 
   - <span></span>  
     [Remove-CsMediaConfiguration](remove-csmediaconfiguration.md)

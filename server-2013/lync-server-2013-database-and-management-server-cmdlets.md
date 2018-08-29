@@ -48,17 +48,17 @@ The following is a list of cmdlets that relate directly to managing databases an
 <!-- end list -->
 
   - <span></span>  
-    [Install-CsDatabase](install-csdatabase.md)
+    [Install-CsDatabase](https://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
   - <span></span>  
     [Test-CsDatabase](test-csdatabase.md)
 
   - <span></span>  
-    [Uninstall-CsDatabase](uninstall-csdatabase.md)
+    [Uninstall-CsDatabase](unhttps://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsDatabaseFailover](invoke-csdatabasefailover.md)
+  - [Invoke-CsDatabaseFailover](https://technet.microsoft.com/en-us/library/JJ204744(v=OCS.15))
 
 <!-- end list -->
 
@@ -66,14 +66,14 @@ The following is a list of cmdlets that relate directly to managing databases an
 
 <!-- end list -->
 
-  - [Install-CsMirrorDatabase](install-csmirrordatabase.md)
+  - [Install-CsMirrorDatabase](https://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
-  - [Uninstall-CsMirrorDatabase](uninstall-csmirrordatabase.md)
+  - [Uninstall-CsMirrorDatabase](unhttps://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsUserDatabaseState](get-csuserdatabasestate.md)
+    [Get-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg398831(v=OCS.15))
 
   - <span></span>  
     [Set-CsUserDatabaseState](set-csuserdatabasestate.md)
@@ -86,14 +86,14 @@ The following is a list of cmdlets that relate directly to managing databases an
 <!-- end list -->
 
   - <span></span>  
-    [Move-CsManagementServer](move-csmanagementserver.md)
+    [Move-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg412921(v=OCS.15))
 
   - <span></span>  
     [Set-CsManagementServer](set-csmanagementserver.md)
 
 <!-- end list -->
 
-  - [Invoke-CsManagementServerFailover](invoke-csmanagementserverfailover.md)
+  - [Invoke-CsManagementServerFailover](https://technet.microsoft.com/en-us/library/JJ204647(v=OCS.15))
 
 </div>
 

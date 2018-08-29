@@ -40,7 +40,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsBandwidthPolicyServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg412727(v=OCS.15))
 
   - <span></span>  
-    [New-CsBandwidthPolicyServiceConfiguration](new-csbandwidthpolicyserviceconfiguration.md)
+    [New-CsBandwidthPolicyServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398175(v=OCS.15))
 
   - <span></span>  
     [Remove-CsBandwidthPolicyServiceConfiguration](remove-csbandwidthpolicyserviceconfiguration.md)
@@ -54,7 +54,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkBandwidthPolicyProfile](https://technet.microsoft.com/en-us/library/Gg425815(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkBandwidthPolicyProfile](new-csnetworkbandwidthpolicyprofile.md)
+    [New-CsNetworkBandwidthPolicyProfile](https://technet.microsoft.com/en-us/library/Gg398675(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkBandwidthPolicyProfile](remove-csnetworkbandwidthpolicyprofile.md)
@@ -65,12 +65,12 @@ The following lists contain cmdlets that allow you to manage advanced features o
 <!-- end list -->
 
   - <span></span>  
-    [New-CsNetworkBWAlternatePath](new-csnetworkbwalternatepath.md)
+    [New-CsNetworkBWAlternatePath](https://technet.microsoft.com/en-us/library/Gg398732(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsNetworkBWPolicy](new-csnetworkbwpolicy.md)
+    [New-CsNetworkBWPolicy](https://technet.microsoft.com/en-us/library/Gg412916(v=OCS.15))
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkInterRegionRoute](https://technet.microsoft.com/en-us/library/Gg425817(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkInterRegionRoute](new-csnetworkinterregionroute.md)
+    [New-CsNetworkInterRegionRoute](https://technet.microsoft.com/en-us/library/Gg398779(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkInterRegionRoute](remove-csnetworkinterregionroute.md)
@@ -103,7 +103,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkInterSitePolicy](https://technet.microsoft.com/en-us/library/Gg412769(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkInterSitePolicy](new-csnetworkintersitepolicy.md)
+    [New-CsNetworkInterSitePolicy](https://technet.microsoft.com/en-us/library/Gg398994(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkInterSitePolicy](remove-csnetworkintersitepolicy.md)
@@ -117,7 +117,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkRegion](https://technet.microsoft.com/en-us/library/Gg398406(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkRegion](new-csnetworkregion.md)
+    [New-CsNetworkRegion](https://technet.microsoft.com/en-us/library/Gg425829(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkRegion](remove-csnetworkregion.md)
@@ -131,7 +131,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkRegionLink](https://technet.microsoft.com/en-us/library/Gg398972(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkRegionLink](new-csnetworkregionlink.md)
+    [New-CsNetworkRegionLink](https://technet.microsoft.com/en-us/library/Gg398437(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkRegionLink](remove-csnetworkregionlink.md)
@@ -145,7 +145,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398766(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkSite](new-csnetworksite.md)
+    [New-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398365(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkSite](remove-csnetworksite.md)
@@ -159,7 +159,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkSubnet](https://technet.microsoft.com/en-us/library/Gg412825(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkSubnet](new-csnetworksubnet.md)
+    [New-CsNetworkSubnet](https://technet.microsoft.com/en-us/library/Gg398226(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkSubnet](remove-csnetworksubnet.md)
@@ -192,7 +192,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Export-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398539(v=OCS.15))
 
   - <span></span>  
-    [Import-CsLisConfiguration](import-cslisconfiguration.md)
+    [Import-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398380(v=OCS.15))
 
   - <span></span>  
     [Debug-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398710(v=OCS.15))
@@ -201,10 +201,10 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Test-CsLisConfiguration](test-cslisconfiguration.md)
 
   - <span></span>  
-    [Publish-CsLisConfiguration](publish-cslisconfiguration.md)
+    [Publish-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398364(v=OCS.15))
 
   - <span></span>  
-    [Unpublish-CsLisConfiguration](unpublish-cslisconfiguration.md)
+    [Unpublish-CsLisConfiguration](unhttps://technet.microsoft.com/en-us/library/Gg398364(v=OCS.15))
 
 <!-- end list -->
 
@@ -278,10 +278,10 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg398911(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsLocationPolicy](grant-cslocationpolicy.md)
+    [Grant-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg413049(v=OCS.15))
 
   - <span></span>  
-    [New-CsLocationPolicy](new-cslocationpolicy.md)
+    [New-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg398231(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLocationPolicy](remove-cslocationpolicy.md)
@@ -298,7 +298,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398766(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkSite](new-csnetworksite.md)
+    [New-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398365(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkSite](remove-csnetworksite.md)
@@ -309,7 +309,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
 **[Shared Line Appearance (SLA) cmdlets](shared-line-appearance-sla-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsSlaConfiguration](get-csslaconfiguration.md)
+    [Get-CsSlaConfiguration](https://technet.microsoft.com/en-us/library/Mt703200(v=OCS.15))
 
   - <span></span>  
     [Set-CsSlaConfiguration](set-csslaconfiguration.md)
@@ -328,7 +328,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
 **[Media bypass cmdlets in Lync Server 2013](lync-server-2013-media-bypass-cmdlets.md)**
 
   - <span></span>  
-    [New-CsNetworkMediaBypassConfiguration](new-csnetworkmediabypassconfiguration.md)
+    [New-CsNetworkMediaBypassConfiguration](https://technet.microsoft.com/en-us/library/Gg425718(v=OCS.15))
 
 <!-- end list -->
 
@@ -347,7 +347,7 @@ The following lists contain cmdlets that allow you to manage advanced features o
     [Get-CsMediaConfiguration](https://technet.microsoft.com/en-us/library/Gg398128(v=OCS.15))
 
   - <span></span>  
-    [New-CsMediaConfiguration](new-csmediaconfiguration.md)
+    [New-CsMediaConfiguration](https://technet.microsoft.com/en-us/library/Gg425881(v=OCS.15))
 
   - <span></span>  
     [Remove-CsMediaConfiguration](remove-csmediaconfiguration.md)

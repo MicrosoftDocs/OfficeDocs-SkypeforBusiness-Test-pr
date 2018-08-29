@@ -59,7 +59,7 @@ Use the following cmdlets to configure E9-1-1.
     [Export-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398539(v=OCS.15))
 
   - <span></span>  
-    [Import-CsLisConfiguration](import-cslisconfiguration.md)
+    [Import-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398380(v=OCS.15))
 
   - <span></span>  
     [Debug-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398710(v=OCS.15))
@@ -68,10 +68,10 @@ Use the following cmdlets to configure E9-1-1.
     [Test-CsLisConfiguration](test-cslisconfiguration.md)
 
   - <span></span>  
-    [Publish-CsLisConfiguration](publish-cslisconfiguration.md)
+    [Publish-CsLisConfiguration](https://technet.microsoft.com/en-us/library/Gg398364(v=OCS.15))
 
   - <span></span>  
-    [Unpublish-CsLisConfiguration](unpublish-cslisconfiguration.md)
+    [Unpublish-CsLisConfiguration](unhttps://technet.microsoft.com/en-us/library/Gg398364(v=OCS.15))
 
 <!-- end list -->
 
@@ -145,10 +145,10 @@ Use the following cmdlets to configure E9-1-1.
     [Get-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg398911(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsLocationPolicy](grant-cslocationpolicy.md)
+    [Grant-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg413049(v=OCS.15))
 
   - <span></span>  
-    [New-CsLocationPolicy](new-cslocationpolicy.md)
+    [New-CsLocationPolicy](https://technet.microsoft.com/en-us/library/Gg398231(v=OCS.15))
 
   - <span></span>  
     [Remove-CsLocationPolicy](remove-cslocationpolicy.md)
@@ -165,7 +165,7 @@ Use the following cmdlets to configure E9-1-1.
     [Get-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398766(v=OCS.15))
 
   - <span></span>  
-    [New-CsNetworkSite](new-csnetworksite.md)
+    [New-CsNetworkSite](https://technet.microsoft.com/en-us/library/Gg398365(v=OCS.15))
 
   - <span></span>  
     [Remove-CsNetworkSite](remove-csnetworksite.md)

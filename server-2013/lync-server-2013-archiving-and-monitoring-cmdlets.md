@@ -46,7 +46,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)
+    [New-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398471(v=OCS.15))
 
   - <span></span>  
     [Remove-CsArchivingConfiguration](remove-csarchivingconfiguration.md)
@@ -62,7 +62,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsArchivingDatabasePurge](invoke-csarchivingdatabasepurge.md)
+    [Invoke-CsArchivingDatabasePurge](https://technet.microsoft.com/en-us/library/JJ204627(v=OCS.15))
 
 <!-- end list -->
 
@@ -70,10 +70,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [Get-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425731(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
+    [Grant-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398475(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingPolicy](new-csarchivingpolicy.md)
+    [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15))
 
   - <span></span>  
     [Remove-CsArchivingPolicy](remove-csarchivingpolicy.md)
@@ -92,7 +92,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [Get-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398298(v=OCS.15))
 
   - <span></span>  
-    [New-CsCdrConfiguration](new-cscdrconfiguration.md)
+    [New-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg399018(v=OCS.15))
 
   - <span></span>  
     [Remove-CsCdrConfiguration](remove-cscdrconfiguration.md)
@@ -108,10 +108,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsQoEConfiguration](get-csqoeconfiguration.md)
+    [Get-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg399004(v=OCS.15))
 
   - <span></span>  
-    [New-CsQoEConfiguration](new-csqoeconfiguration.md)
+    [New-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398325(v=OCS.15))
 
   - <span></span>  
     [Remove-CsQoEConfiguration](remove-csqoeconfiguration.md)
@@ -119,7 +119,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
   - <span></span>  
     [Set-CsQoEConfiguration](set-csqoeconfiguration.md)
 
-[Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
+[Invoke-CsCdrDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205113(v=OCS.15))
 
   - <span></span>  
     [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
@@ -127,15 +127,15 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsQoEDatabasePurge](invoke-csqoedatabasepurge.md)
+    [Invoke-CsQoEDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205247(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsReportingConfiguration](get-csreportingconfiguration.md)
+    [Get-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205356(v=OCS.15))
 
   - <span></span>  
-    [New-CsReportingConfiguration](new-csreportingconfiguration.md)
+    [New-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204787(v=OCS.15))
 
   - <span></span>  
     [Remove-CsReportingConfiguration](remove-csreportingconfiguration.md)
@@ -146,7 +146,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTestUserCredential](get-cstestusercredential.md)
+    [Get-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204759(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTestUserCredential](remove-cstestusercredential.md)
@@ -157,10 +157,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWatcherNodeConfiguration](get-cswatchernodeconfiguration.md)
+    [Get-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204739(v=OCS.15))
 
   - <span></span>  
-    [New-CsWatcherNodeConfiguration](new-cswatchernodeconfiguration.md)
+    [New-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ205254(v=OCS.15))
 
   - <span></span>  
     [Remove-CsWatcherNodeConfiguration](remove-cswatchernodeconfiguration.md)
@@ -174,7 +174,7 @@ The following is a list of cmdlets that relate directly to managing archiving an
 <!-- end list -->
 
   - <span></span>  
-    [New-CsExtendedTest](new-csextendedtest.md)
+    [New-CsExtendedTest](https://technet.microsoft.com/en-us/library/JJ205275(v=OCS.15))
 
 </div>
 

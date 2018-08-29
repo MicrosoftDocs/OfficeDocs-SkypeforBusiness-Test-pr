@@ -37,15 +37,15 @@ The following is a list of cmdlets that relate directly to managing Web Servers 
 **Web Servers and Services**
 
   - <span></span>  
-    [New-CsSimpleUrl](new-cssimpleurl.md)
+    [New-CsSimpleUrl](https://technet.microsoft.com/en-us/library/Gg398180(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsSimpleUrlConfiguration](get-cssimpleurlconfiguration.md)
+    [Get-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg398392(v=OCS.15))
 
   - <span></span>  
-    [New-CsSimpleUrlConfiguration](new-cssimpleurlconfiguration.md)
+    [New-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg425813(v=OCS.15))
 
   - <span></span>  
     [Remove-CsSimpleUrlConfiguration](remove-cssimpleurlconfiguration.md)
@@ -56,12 +56,12 @@ The following is a list of cmdlets that relate directly to managing Web Servers 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSimpleUrlEntry](new-cssimpleurlentry.md)
+    [New-CsSimpleUrlEntry](https://technet.microsoft.com/en-us/library/Gg425902(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsWebOrigin](new-csweborigin.md)
+    [New-CsWebOrigin](https://technet.microsoft.com/en-us/library/JJ950236(v=OCS.15))
 
 <!-- end list -->
 
@@ -71,10 +71,10 @@ The following is a list of cmdlets that relate directly to managing Web Servers 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWebServiceConfiguration](get-cswebserviceconfiguration.md)
+    [Get-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg425751(v=OCS.15))
 
   - <span></span>  
-    [New-CsWebServiceConfiguration](new-cswebserviceconfiguration.md)
+    [New-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398440(v=OCS.15))
 
   - <span></span>  
     [Remove-CsWebServiceConfiguration](remove-cswebserviceconfiguration.md)
@@ -85,12 +85,12 @@ The following is a list of cmdlets that relate directly to managing Web Servers 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsWebTrustedCACertificate](new-cswebtrustedcacertificate.md)
+    [New-CsWebTrustedCACertificate](https://technet.microsoft.com/en-us/library/Gg412746(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsKerberosAccount](new-cskerberosaccount.md)
+    [New-CsKerberosAccount](https://technet.microsoft.com/en-us/library/Gg398485(v=OCS.15))
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@ The following is a list of cmdlets that relate directly to managing Web Servers 
     [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
-    [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)
+    [New-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398074(v=OCS.15))
 
   - <span></span>  
     [Remove-CsKerberosAccountAssignment](remove-cskerberosaccountassignment.md)

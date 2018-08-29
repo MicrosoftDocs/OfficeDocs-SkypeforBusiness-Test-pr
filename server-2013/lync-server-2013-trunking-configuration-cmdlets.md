@@ -42,7 +42,7 @@ Use the following cmdlets for trunk configuration.
 
   - [Get-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204962(v=OCS.15))
 
-  - [New-CsOutboundCallingNumberTranslationRule](new-csoutboundcallingnumbertranslationrule.md)
+  - [New-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205097(v=OCS.15))
 
   - [Remove-CsOutboundCallingNumberTranslationRule](remove-csoutboundcallingnumbertranslationrule.md)
 
@@ -54,7 +54,7 @@ Use the following cmdlets for trunk configuration.
     [Get-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398104(v=OCS.15))
 
   - <span></span>  
-    [New-CsOutboundTranslationRule](new-csoutboundtranslationrule.md)
+    [New-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg412803(v=OCS.15))
 
   - <span></span>  
     [Remove-CsOutboundTranslationRule](remove-csoutboundtranslationrule.md)
@@ -64,15 +64,15 @@ Use the following cmdlets for trunk configuration.
 
 <!-- end list -->
 
-  - [Get-CsTrunk](get-cstrunk.md)
+  - [Get-CsTrunk](https://technet.microsoft.com/en-us/library/JJ205244(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrunkConfiguration](get-cstrunkconfiguration.md)
+    [Get-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398224(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrunkConfiguration](new-cstrunkconfiguration.md)
+    [New-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg413021(v=OCS.15))
 
   - <span></span>  
     [Remove-CsTrunkConfiguration](remove-cstrunkconfiguration.md)
@@ -86,7 +86,7 @@ Use the following cmdlets for trunk configuration.
 <!-- end list -->
 
   - <span></span>  
-    [New-CsVoiceRegex](new-csvoiceregex.md)
+    [New-CsVoiceRegex](https://technet.microsoft.com/en-us/library/Gg412751(v=OCS.15))
 
 </div>
 

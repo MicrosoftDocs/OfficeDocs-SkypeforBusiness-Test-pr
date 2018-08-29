@@ -32,7 +32,7 @@ Conferencing and online meetings are important elements in Microsoft Lync Server
 
 ## Web Conferencing Cmdlets
 
-The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csclientpolicy.md) cmdlets provide additional ways to configure and manage Lync Server 2013.
+The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=OCS.15)) and [Set-CsClientPolicy](set-csclientpolicy.md) cmdlets provide additional ways to configure and manage Lync Server 2013.
 
 **Web Conferencing**
 
@@ -56,7 +56,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
     [Get-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398965(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferencingConfiguration](new-csconferencingconfiguration.md)
+    [New-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412967(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConferencingConfiguration](remove-csconferencingconfiguration.md)
@@ -70,10 +70,10 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
     [Get-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg398293(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsConferencingPolicy](grant-csconferencingpolicy.md)
+    [Grant-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg425937(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferencingPolicy](new-csconferencingpolicy.md)
+    [New-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg413019(v=OCS.15))
 
   - <span></span>  
     [Remove-CsConferencingPolicy](remove-csconferencingpolicy.md)
@@ -87,7 +87,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
     [Get-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg425875(v=OCS.15))
 
   - <span></span>  
-    [New-CsMeetingConfiguration](new-csmeetingconfiguration.md)
+    [New-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg398065(v=OCS.15))
 
   - <span></span>  
     [Remove-CsMeetingConfiguration](remove-csmeetingconfiguration.md)
@@ -103,7 +103,7 @@ The [New-CsClientPolicy](new-csclientpolicy.md) and [Set-CsClientPolicy](set-csc
 
   - [Get-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ205277(v=OCS.15))
 
-  - [Move-CsMeetingRoom](move-csmeetingroom.md)
+  - [Move-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204889(v=OCS.15))
 
   - [Set-CsMeetingRoom](set-csmeetingroom.md)
 

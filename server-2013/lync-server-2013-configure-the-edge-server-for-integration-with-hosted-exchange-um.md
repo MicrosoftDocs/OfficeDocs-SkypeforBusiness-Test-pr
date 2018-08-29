@@ -38,7 +38,7 @@ For details, see the Lync Server Management Shell documentation for the followin
 
   - [Set-CsAccessEdgeConfiguration](set-csaccessedgeconfiguration.md)
 
-  - [New-CsHostingProvider](new-cshostingprovider.md)
+  - [New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))
 
 <div>
 
@@ -126,7 +126,7 @@ For details, see the Lync Server Management Shell documentation for the followin
 [Verify connectivity between internal servers and Edge Servers in Lync Server 2013](lync-server-2013-verify-connectivity-between-internal-servers-and-edge-servers.md)  
 
 
-[New-CsHostingProvider](new-cshostingprovider.md)  
+[New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))  
   
 
 </div>

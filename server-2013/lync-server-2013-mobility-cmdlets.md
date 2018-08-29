@@ -38,7 +38,7 @@ The cmdlets that configure mobility features allow you to run commands from the 
     [Get-CsAutodiscoverConfiguration](https://technet.microsoft.com/en-us/library/Hh690014(v=OCS.15))
 
   - <span></span>  
-    [New-CsAutodiscoverConfiguration](new-csautodiscoverconfiguration.md)
+    [New-CsAutodiscoverConfiguration](https://technet.microsoft.com/en-us/library/Hh690022(v=OCS.15))
 
   - <span></span>  
     [Remove-CsAutodiscoverConfiguration](remove-csautodiscoverconfiguration.md)
@@ -47,7 +47,7 @@ The cmdlets that configure mobility features allow you to run commands from the 
     [Set-CsAutodiscoverConfiguration](set-csautodiscoverconfiguration.md)
 
   - <span></span>  
-    [New-CsWebLink](new-csweblink.md)
+    [New-CsWebLink](https://technet.microsoft.com/en-us/library/Hh690053(v=OCS.15))
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@ The cmdlets that configure mobility features allow you to run commands from the 
     [Get-CsMcxConfiguration](https://technet.microsoft.com/en-us/library/Hh690031(v=OCS.15))
 
   - <span></span>  
-    [New-CsMcxConfiguration](new-csmcxconfiguration.md)
+    [New-CsMcxConfiguration](https://technet.microsoft.com/en-us/library/Hh690035(v=OCS.15))
 
   - <span></span>  
     [Remove-CsMcxConfiguration](remove-csmcxconfiguration.md)
@@ -69,10 +69,10 @@ The cmdlets that configure mobility features allow you to run commands from the 
     [Get-CsMobilityPolicy](https://technet.microsoft.com/en-us/library/Hh690017(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsMobilityPolicy](grant-csmobilitypolicy.md)
+    [Grant-CsMobilityPolicy](https://technet.microsoft.com/en-us/library/Hh690038(v=OCS.15))
 
   - <span></span>  
-    [New-CsMobilityPolicy](new-csmobilitypolicy.md)
+    [New-CsMobilityPolicy](https://technet.microsoft.com/en-us/library/Hh689987(v=OCS.15))
 
   - <span></span>  
     [Remove-CsMobilityPolicy](remove-csmobilitypolicy.md)
@@ -83,10 +83,10 @@ The cmdlets that configure mobility features allow you to run commands from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsPushNotificationConfiguration](get-cspushnotificationconfiguration.md)
+    [Get-CsPushNotificationConfiguration](https://technet.microsoft.com/en-us/library/Hh690049(v=OCS.15))
 
   - <span></span>  
-    [New-CsPushNotificationConfiguration](new-cspushnotificationconfiguration.md)
+    [New-CsPushNotificationConfiguration](https://technet.microsoft.com/en-us/library/Hh690027(v=OCS.15))
 
   - <span></span>  
     [Remove-CsPushNotificationConfiguration](remove-cspushnotificationconfiguration.md)

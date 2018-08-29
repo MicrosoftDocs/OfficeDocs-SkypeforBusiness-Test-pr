@@ -42,10 +42,10 @@ Use the following cmdlets to manage Lync Server 2013 applications.
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsServerApplication](get-csserverapplication.md)
+    [Get-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg425948(v=OCS.15))
 
   - <span></span>  
-    [New-CsServerApplication](new-csserverapplication.md)
+    [New-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg398096(v=OCS.15))
 
   - <span></span>  
     [Remove-CsServerApplication](remove-csserverapplication.md)

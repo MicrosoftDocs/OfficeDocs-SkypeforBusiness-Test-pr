@@ -37,7 +37,7 @@ Use the following cmdlets for SLA.
 **Configuring SLA**
 
   - <span></span>  
-    [Get-CsSlaConfiguration](get-csslaconfiguration.md)
+    [Get-CsSlaConfiguration](https://technet.microsoft.com/en-us/library/Mt703200(v=OCS.15))
 
   - <span></span>  
     [Set-CsSlaConfiguration](set-csslaconfiguration.md)

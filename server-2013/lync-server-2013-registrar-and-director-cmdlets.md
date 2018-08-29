@@ -52,10 +52,10 @@ The following is a list of cmdlets that relate directly to managing Registrars a
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRegistrarConfiguration](get-csregistrarconfiguration.md)
+    [Get-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398483(v=OCS.15))
 
   - <span></span>  
-    [New-CsRegistrarConfiguration](new-csregistrarconfiguration.md)
+    [New-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg425893(v=OCS.15))
 
   - <span></span>  
     [Remove-CsRegistrarConfiguration](remove-csregistrarconfiguration.md)

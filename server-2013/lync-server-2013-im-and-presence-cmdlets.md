@@ -35,13 +35,13 @@ Instant Messaging (IM) and presence cmdlets allow you to manage those client fea
 The configure IM and presence, use the following cmdlets:
 
   - <span></span>  
-    [Get-CsPresencePolicy](get-cspresencepolicy.md)
+    [Get-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg398463(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsPresencePolicy](grant-cspresencepolicy.md)
+    [Grant-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg398571(v=OCS.15))
 
   - <span></span>  
-    [New-CsPresencePolicy](new-cspresencepolicy.md)
+    [New-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg412747(v=OCS.15))
 
   - <span></span>  
     [Remove-CsPresencePolicy](remove-cspresencepolicy.md)
@@ -51,9 +51,9 @@ The configure IM and presence, use the following cmdlets:
 
 <!-- end list -->
 
-  - [Get-CsPresenceProvider](get-cspresenceprovider.md)
+  - [Get-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ204705(v=OCS.15))
 
-  - [New-CsPresenceProvider](new-cspresenceprovider.md)
+  - [New-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ204895(v=OCS.15))
 
   - [Remove-CsPresenceProvider](remove-cspresenceprovider.md)
 
@@ -62,10 +62,10 @@ The configure IM and presence, use the following cmdlets:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsPrivacyConfiguration](get-csprivacyconfiguration.md)
+    [Get-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg413002(v=OCS.15))
 
   - <span></span>  
-    [New-CsPrivacyConfiguration](new-csprivacyconfiguration.md)
+    [New-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg398807(v=OCS.15))
 
   - <span></span>  
     [Remove-CsPrivacyConfiguration](remove-csprivacyconfiguration.md)
@@ -81,10 +81,10 @@ The configure IM and presence, use the following cmdlets:
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsUserServicesConfiguration](get-csuserservicesconfiguration.md)
+    [Get-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg398133(v=OCS.15))
 
   - <span></span>  
-    [New-CsUserServicesConfiguration](new-csuserservicesconfiguration.md)
+    [New-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg412926(v=OCS.15))
 
   - <span></span>  
     [Remove-CsUserServicesConfiguration](remove-csuserservicesconfiguration.md)
@@ -98,7 +98,7 @@ The configure IM and presence, use the following cmdlets:
     [Get-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398527(v=OCS.15))
 
   - <span></span>  
-    [New-CsFileTransferFilterConfiguration](new-csfiletransferfilterconfiguration.md)
+    [New-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg425897(v=OCS.15))
 
   - <span></span>  
     [Remove-CsFileTransferFilterConfiguration](remove-csfiletransferfilterconfiguration.md)
@@ -112,7 +112,7 @@ The configure IM and presence, use the following cmdlets:
     [Get-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398980(v=OCS.15))
 
   - <span></span>  
-    [New-CsImFilterConfiguration](new-csimfilterconfiguration.md)
+    [New-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398244(v=OCS.15))
 
   - <span></span>  
     [Remove-CsImFilterConfiguration](remove-csimfilterconfiguration.md)

@@ -230,7 +230,7 @@ If you choose to remove a site-level configuration, the site will use the global
 [Managing the Centralized Logging Service configuration settings in Lync Server 2013](lync-server-2013-managing-the-centralized-logging-service-configuration-settings.md)  
 [Set-CsClsConfiguration](set-csclsconfiguration.md)  
 [Get-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619179(v=OCS.15))  
-[New-CsClsConfiguration](new-csclsconfiguration.md)  
+[New-CsClsConfiguration](https://technet.microsoft.com/en-us/library/JJ619177(v=OCS.15))  
 [Remove-CsClsConfiguration](remove-csclsconfiguration.md)  
   
 

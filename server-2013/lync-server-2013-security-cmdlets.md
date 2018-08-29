@@ -40,7 +40,7 @@ Many management tasks that apply to security settings can be performed from the 
     [Get-CsCertificate](https://technet.microsoft.com/en-us/library/Gg398227(v=OCS.15))
 
   - <span></span>  
-    [Import-CsCertificate](import-cscertificate.md)
+    [Import-CsCertificate](https://technet.microsoft.com/en-us/library/Gg398688(v=OCS.15))
 
   - <span></span>  
     [Remove-CsCertificate](remove-cscertificate.md)
@@ -67,13 +67,13 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Lock-CsClientPin](lock-csclientpin.md)
+    [Lock-CsClientPin](https://technet.microsoft.com/en-us/library/Gg398650(v=OCS.15))
 
   - <span></span>  
     [Set-CsClientPin](set-csclientpin.md)
 
   - <span></span>  
-    [Unlock-CsClientPin](unlock-csclientpin.md)
+    [Unlock-CsClientPin](unhttps://technet.microsoft.com/en-us/library/Gg398650(v=OCS.15))
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsKerberosAccount](new-cskerberosaccount.md)
+    [New-CsKerberosAccount](https://technet.microsoft.com/en-us/library/Gg398485(v=OCS.15))
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ Many management tasks that apply to security settings can be performed from the 
     [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
-    [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)
+    [New-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398074(v=OCS.15))
 
   - <span></span>  
     [Remove-CsKerberosAccountAssignment](remove-cskerberosaccountassignment.md)
@@ -110,13 +110,13 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsPinPolicy](get-cspinpolicy.md)
+    [Get-CsPinPolicy](https://technet.microsoft.com/en-us/library/Gg398262(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsPinPolicy](grant-cspinpolicy.md)
+    [Grant-CsPinPolicy](https://technet.microsoft.com/en-us/library/Gg398871(v=OCS.15))
 
   - <span></span>  
-    [New-CsPinPolicy](new-cspinpolicy.md)
+    [New-CsPinPolicy](https://technet.microsoft.com/en-us/library/Gg398935(v=OCS.15))
 
   - <span></span>  
     [Remove-CsPinPolicy](remove-cspinpolicy.md)
@@ -127,10 +127,10 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsProxyConfiguration](get-csproxyconfiguration.md)
+    [Get-CsProxyConfiguration](https://technet.microsoft.com/en-us/library/Gg399011(v=OCS.15))
 
   - <span></span>  
-    [New-CsProxyConfiguration](new-csproxyconfiguration.md)
+    [New-CsProxyConfiguration](https://technet.microsoft.com/en-us/library/Gg398335(v=OCS.15))
 
   - <span></span>  
     [Remove-CsProxyConfiguration](remove-csproxyconfiguration.md)
@@ -141,10 +141,10 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsSipDomain](get-cssipdomain.md)
+    [Get-CsSipDomain](https://technet.microsoft.com/en-us/library/Gg398701(v=OCS.15))
 
   - <span></span>  
-    [New-CsSipDomain](new-cssipdomain.md)
+    [New-CsSipDomain](https://technet.microsoft.com/en-us/library/Gg425857(v=OCS.15))
 
   - <span></span>  
     [Remove-CsSipDomain](remove-cssipdomain.md)
@@ -158,10 +158,10 @@ Many management tasks that apply to security settings can be performed from the 
     [Get-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399050(v=OCS.15))
 
   - <span></span>  
-    [New-CsAdminRole](new-csadminrole.md)
+    [New-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg398271(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAdminRole](remove-csadminrole.md)
+    [Remove-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg413036(v=OCS.15))
 
   - <span></span>  
     [Set-CsAdminRole](set-csadminrole.md)
@@ -177,7 +177,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Grant-CsOUPermission](grant-csoupermission.md)
+    [Grant-CsOUPermission](https://technet.microsoft.com/en-us/library/Gg425739(v=OCS.15))
 
   - <span></span>  
     [Revoke-CsOUPermission](revoke-csoupermission.md)
@@ -188,7 +188,7 @@ Many management tasks that apply to security settings can be performed from the 
 <!-- end list -->
 
   - <span></span>  
-    [Grant-CsSetupPermission](grant-cssetuppermission.md)
+    [Grant-CsSetupPermission](https://technet.microsoft.com/en-us/library/Gg398569(v=OCS.15))
 
   - <span></span>  
     [Revoke-CsSetupPermission](revoke-cssetuppermission.md)
@@ -206,7 +206,7 @@ Many management tasks that apply to security settings can be performed from the 
 
   - [Get-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205238(v=OCS.15))
 
-  - [New-CsOAuthServer](new-csoauthserver.md)
+  - [New-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205206(v=OCS.15))
 
   - [Remove-CsOAuthServer](remove-csoauthserver.md)
 
@@ -216,7 +216,7 @@ Many management tasks that apply to security settings can be performed from the 
 
   - [Get-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ205128(v=OCS.15))
 
-  - [New-CsPartnerApplication](new-cspartnerapplication.md)
+  - [New-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204628(v=OCS.15))
 
   - [Remove-CsPartnerApplication](remove-cspartnerapplication.md)
 

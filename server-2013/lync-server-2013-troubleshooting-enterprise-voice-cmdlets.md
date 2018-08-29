@@ -37,7 +37,7 @@ The following cmdlets can be used to test and troubleshoot Enterprise Voice conn
 **Troubleshooting Enterprise Voice Cmdlets**
 
   - <span></span>  
-    [Get-CsVoiceConfiguration](get-csvoiceconfiguration.md)
+    [Get-CsVoiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398815(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceConfiguration](remove-csvoiceconfiguration.md)
@@ -48,10 +48,10 @@ The following cmdlets can be used to test and troubleshoot Enterprise Voice conn
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceTestConfiguration](get-csvoicetestconfiguration.md)
+    [Get-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg412957(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceTestConfiguration](new-csvoicetestconfiguration.md)
+    [New-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg398961(v=OCS.15))
 
   - <span></span>  
     [Remove-CsVoiceTestConfiguration](remove-csvoicetestconfiguration.md)

@@ -37,12 +37,12 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
 **Topology**
 
   - <span></span>  
-    [Get-CsPool](get-cspool.md)
+    [Get-CsPool](https://technet.microsoft.com/en-us/library/Gg398992(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsSite](get-cssite.md)
+    [Get-CsSite](https://technet.microsoft.com/en-us/library/Gg398185(v=OCS.15))
 
   - <span></span>  
     [Set-CsSite](set-cssite.md)
@@ -53,10 +53,10 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
     [Enable-CsTopology](https://technet.microsoft.com/en-us/library/Gg398398(v=OCS.15))
 
   - <span></span>  
-    [Get-CsTopology](get-cstopology.md)
+    [Get-CsTopology](https://technet.microsoft.com/en-us/library/Gg412824(v=OCS.15))
 
   - <span></span>  
-    [Publish-CsTopology](publish-cstopology.md)
+    [Publish-CsTopology](https://technet.microsoft.com/en-us/library/Gg398953(v=OCS.15))
 
   - <span></span>  
     [Test-CsTopology](test-cstopology.md)
@@ -67,12 +67,12 @@ The following is a list of cmdlets that relate directly managing your Lync Serve
     [Export-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398627(v=OCS.15))
 
   - <span></span>  
-    [Import-CsConfiguration](import-csconfiguration.md)
+    [Import-CsConfiguration](https://technet.microsoft.com/en-us/library/Gg398800(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsServerVersion](get-csserverversion.md)
+    [Get-CsServerVersion](https://technet.microsoft.com/en-us/library/Gg398470(v=OCS.15))
 
 <!-- end list -->
 
