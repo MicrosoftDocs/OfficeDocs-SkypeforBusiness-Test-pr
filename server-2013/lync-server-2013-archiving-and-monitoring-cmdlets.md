@@ -43,138 +43,138 @@ The following is a list of cmdlets that relate directly to managing archiving an
 **Archiving and Monitoring**
 
   - <span></span>  
-    [Get-CsArchivingConfiguration](get-csarchivingconfiguration.md)
+    [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)
+    [New-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398471(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsArchivingConfiguration](remove-csarchivingconfiguration.md)
+    [Remove-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398951(v=OCS.15))
 
   - <span></span>  
-    [Set-CsArchivingConfiguration](set-csarchivingconfiguration.md)
+    [Set-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg413030(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsArchivingDatabasePurge](invoke-csarchivingdatabasepurge.md)
+    [Invoke-CsArchivingDatabasePurge](https://technet.microsoft.com/en-us/library/JJ204627(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsArchivingPolicy](get-csarchivingpolicy.md)
+    [Get-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425731(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
+    [Grant-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398475(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingPolicy](new-csarchivingpolicy.md)
+    [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsArchivingPolicy](remove-csarchivingpolicy.md)
+    [Remove-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425924(v=OCS.15))
 
   - <span></span>  
-    [Set-CsArchivingPolicy](set-csarchivingpolicy.md)
+    [Set-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398294(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsArchivingServer](set-csarchivingserver.md)
+    [Set-CsArchivingServer](https://technet.microsoft.com/en-us/library/Gg398923(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCdrConfiguration](get-cscdrconfiguration.md)
+    [Get-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398298(v=OCS.15))
 
   - <span></span>  
-    [New-CsCdrConfiguration](new-cscdrconfiguration.md)
+    [New-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg399018(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsCdrConfiguration](remove-cscdrconfiguration.md)
+    [Remove-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398451(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCdrConfiguration](set-cscdrconfiguration.md)
+    [Set-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398774(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsMonitoringServer](set-csmonitoringserver.md)
+    [Set-CsMonitoringServer](https://technet.microsoft.com/en-us/library/Gg425776(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsQoEConfiguration](get-csqoeconfiguration.md)
+    [Get-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg399004(v=OCS.15))
 
   - <span></span>  
-    [New-CsQoEConfiguration](new-csqoeconfiguration.md)
+    [New-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398325(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsQoEConfiguration](remove-csqoeconfiguration.md)
+    [Remove-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg425879(v=OCS.15))
 
   - <span></span>  
-    [Set-CsQoEConfiguration](set-csqoeconfiguration.md)
+    [Set-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398245(v=OCS.15))
 
-[Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
+[Invoke-CsCdrDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205113(v=OCS.15))
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsQoEDatabasePurge](invoke-csqoedatabasepurge.md)
+    [Invoke-CsQoEDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205247(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsReportingConfiguration](get-csreportingconfiguration.md)
+    [Get-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205356(v=OCS.15))
 
   - <span></span>  
-    [New-CsReportingConfiguration](new-csreportingconfiguration.md)
+    [New-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204787(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsReportingConfiguration](remove-csreportingconfiguration.md)
+    [Remove-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204711(v=OCS.15))
 
   - <span></span>  
-    [Set-CsReportingConfiguration](set-csreportingconfiguration.md)
+    [Set-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205075(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTestUserCredential](get-cstestusercredential.md)
+    [Get-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204759(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTestUserCredential](remove-cstestusercredential.md)
+    [Remove-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204870(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTestUserCredential](set-cstestusercredential.md)
+    [Set-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ205341(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWatcherNodeConfiguration](get-cswatchernodeconfiguration.md)
+    [Get-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204739(v=OCS.15))
 
   - <span></span>  
-    [New-CsWatcherNodeConfiguration](new-cswatchernodeconfiguration.md)
+    [New-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ205254(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsWatcherNodeConfiguration](remove-cswatchernodeconfiguration.md)
+    [Remove-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204926(v=OCS.15))
 
   - <span></span>  
-    [Set-CsWatcherNodeConfiguration](set-cswatchernodeconfiguration.md)
+    [Set-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204620(v=OCS.15))
 
   - <span></span>  
-    [Test-CsWatcherNodeConfiguration](test-cswatchernodeconfiguration.md)
+    [Test-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204652(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsExtendedTest](new-csextendedtest.md)
+    [New-CsExtendedTest](https://technet.microsoft.com/en-us/library/JJ205275(v=OCS.15))
 
 </div>
 

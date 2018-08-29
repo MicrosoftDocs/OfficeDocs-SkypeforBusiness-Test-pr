@@ -35,21 +35,21 @@ The Lync Server Management Shell is an implementation of the Windows PowerShell 
 Use these cmdlets to set certain custom properties of the Lync Server Management Shell.
 
   - <span></span>  
-    [Get-CsUICulture](get-csuiculture.md)
+    [Get-CsUICulture](https://technet.microsoft.com/en-us/library/Gg412900(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUICulture](set-csuiculture.md)
+    [Set-CsUICulture](https://technet.microsoft.com/en-us/library/Gg398354(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsManagementConnection](get-csmanagementconnection.md)
+    [Get-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg412849(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsManagementConnection](remove-csmanagementconnection.md)
+    [Remove-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg425803(v=OCS.15))
 
   - <span></span>  
-    [Set-CsManagementConnection](set-csmanagementconnection.md)
+    [Set-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg413045(v=OCS.15))
 
 </div>
 

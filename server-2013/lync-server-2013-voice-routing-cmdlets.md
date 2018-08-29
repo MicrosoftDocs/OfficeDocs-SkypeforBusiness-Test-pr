@@ -37,53 +37,53 @@ Use the following cmdlets to configure voice routes.
 **Voice Routing**
 
   - <span></span>  
-    [Get-CsRoutingConfiguration](get-csroutingconfiguration.md)
+    [Get-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425851(v=OCS.15))
 
   - <span></span>  
-    [New-CsRoutingConfiguration](new-csroutingconfiguration.md)
+    [New-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg399056(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRoutingConfiguration](remove-csroutingconfiguration.md)
+    [Remove-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398643(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRoutingConfiguration](set-csroutingconfiguration.md)
+    [Set-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg412811(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceRoute](get-csvoiceroute.md)
+    [Get-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425926(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceRoute](new-csvoiceroute.md)
+    [New-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398197(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoiceRoute](remove-csvoiceroute.md)
+    [Remove-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398468(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoiceRoute](set-csvoiceroute.md)
+    [Set-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg412893(v=OCS.15))
 
   - <span></span>  
-    [Test-CsVoiceRoute](test-csvoiceroute.md)
+    [Test-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425873(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsVoiceRoutingPolicy](get-csvoiceroutingpolicy.md)
+  - [Get-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ204940(v=OCS.15))
 
-  - [Grant-CsVoiceRoutingPolicy](grant-csvoiceroutingpolicy.md)
+  - [Grant-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ205141(v=OCS.15))
 
-  - [New-CsVoiceRoutingPolicy](new-csvoiceroutingpolicy.md)
+  - [New-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ205135(v=OCS.15))
 
-  - [Remove-CsVoiceRoutingPolicy](remove-csvoiceroutingpolicy.md)
+  - [Remove-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ204799(v=OCS.15))
 
-  - [Set-CsVoiceRoutingPolicy](set-csvoiceroutingpolicy.md)
+  - [Set-CsVoiceRoutingPolicy](https://technet.microsoft.com/en-us/library/JJ205313(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsPstnUsage](get-cspstnusage.md)
+    [Get-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg412734(v=OCS.15))
 
   - <span></span>  
-    [Set-CsPstnUsage](set-cspstnusage.md)
+    [Set-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg399069(v=OCS.15))
 
 </div>
 

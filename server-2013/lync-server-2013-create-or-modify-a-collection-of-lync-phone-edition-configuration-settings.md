@@ -97,7 +97,7 @@ You can create Lync Phone Edition configuration settings can (at the site scope 
 
 </div>
 
-For details, see [New-CsUCPhoneConfiguration](new-csucphoneconfiguration.md).
+For details, see [New-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398445(v=OCS.15)).
 
 </div>
 

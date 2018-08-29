@@ -36,29 +36,29 @@ The following is a list of cmdlets that relate directly to configuring and manag
 
 **Interoperability Cmdlets**
 
-  - [Get-CsOAuthConfiguration](get-csoauthconfiguration.md)
+  - [Get-CsOAuthConfiguration](https://technet.microsoft.com/en-us/library/JJ205155(v=OCS.15))
 
-  - [Set-CsOAuthConfiguration](set-csoauthconfiguration.md)
-
-<!-- end list -->
-
-  - [Get-CsOAuthServer](get-csoauthserver.md)
-
-  - [New-CsOAuthServer](new-csoauthserver.md)
-
-  - [Remove-CsOAuthServer](remove-csoauthserver.md)
-
-  - [Set-CsOAuthServer](set-csoauthserver.md)
+  - [Set-CsOAuthConfiguration](https://technet.microsoft.com/en-us/library/JJ204841(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsPartnerApplication](get-cspartnerapplication.md)
+  - [Get-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205238(v=OCS.15))
 
-  - [New-CsPartnerApplication](new-cspartnerapplication.md)
+  - [New-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205206(v=OCS.15))
 
-  - [Remove-CsPartnerApplication](remove-cspartnerapplication.md)
+  - [Remove-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205408(v=OCS.15))
 
-  - [Set-CsPartnerApplication](set-cspartnerapplication.md)
+  - [Set-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ204896(v=OCS.15))
+
+<!-- end list -->
+
+  - [Get-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ205128(v=OCS.15))
+
+  - [New-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204628(v=OCS.15))
+
+  - [Remove-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204820(v=OCS.15))
+
+  - [Set-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204755(v=OCS.15))
 
 </div>
 

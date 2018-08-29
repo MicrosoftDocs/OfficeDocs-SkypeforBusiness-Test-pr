@@ -37,18 +37,18 @@ Use the following cmdlets to configure media bypass.
 **Media Bypass**
 
   - <span></span>  
-    [New-CsNetworkMediaBypassConfiguration](new-csnetworkmediabypassconfiguration.md)
+    [New-CsNetworkMediaBypassConfiguration](https://technet.microsoft.com/en-us/library/Gg425718(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsNetworkConfiguration](get-csnetworkconfiguration.md)
+    [Get-CsNetworkConfiguration](https://technet.microsoft.com/en-us/library/Gg398140(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsNetworkConfiguration](remove-csnetworkconfiguration.md)
+    [Remove-CsNetworkConfiguration](https://technet.microsoft.com/en-us/library/Gg398938(v=OCS.15))
 
   - <span></span>  
-    [Set-CsNetworkConfiguration](set-csnetworkconfiguration.md)
+    [Set-CsNetworkConfiguration](https://technet.microsoft.com/en-us/library/Gg398927(v=OCS.15))
 
 </div>
 

@@ -37,124 +37,124 @@ The following cmdlets can be used to manage Response Group application.
 **Response Group Application**
 
   - <span></span>  
-    [Get-CsRgsAgentGroup](get-csrgsagentgroup.md)
+    [Get-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg425793(v=OCS.15))
 
   - <span></span>  
-    [New-CsRgsAgentGroup](new-csrgsagentgroup.md)
+    [New-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg413065(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsAgentGroup](remove-csrgsagentgroup.md)
+    [Remove-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg398969(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsAgentGroup](set-csrgsagentgroup.md)
+    [Set-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg425955(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsRgsAnswer](new-csrgsanswer.md)
+    [New-CsRgsAnswer](https://technet.microsoft.com/en-us/library/Gg412812(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Import-CsRgsAudioFile](import-csrgsaudiofile.md)
+    [Import-CsRgsAudioFile](https://technet.microsoft.com/en-us/library/Gg412830(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsRgsCallAction](new-csrgscallaction.md)
+    [New-CsRgsCallAction](https://technet.microsoft.com/en-us/library/Gg398136(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsRgsConfiguration](export-csrgsconfiguration.md)
+    [Export-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/JJ205011(v=OCS.15))
 
   - <span></span>  
-    [Get-CsRgsConfiguration](get-csrgsconfiguration.md)
+    [Get-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg412762(v=OCS.15))
 
   - <span></span>  
-    [Import-CsRgsConfiguration](import-csrgsconfiguration.md)
+    [Import-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/JJ205245(v=OCS.15))
 
   - <span></span>  
-    [Move-CsRgsConfiguration](move-csrgsconfiguration.md)
+    [Move-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg398782(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsConfiguration](set-csrgsconfiguration.md)
+    [Set-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg425728(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsRgsHoliday](new-csrgsholiday.md)
+    [New-CsRgsHoliday](https://technet.microsoft.com/en-us/library/Gg398075(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRgsHolidaySet](get-csrgsholidayset.md)
+    [Get-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg412983(v=OCS.15))
 
   - <span></span>  
-    [New-CsRgsHolidaySet](new-csrgsholidayset.md)
+    [New-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398403(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsHolidaySet](remove-csrgsholidayset.md)
+    [Remove-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398521(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsHolidaySet](set-csrgsholidayset.md)
+    [Set-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398736(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRgsHoursOfBusiness](get-csrgshoursofbusiness.md)
+    [Get-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398284(v=OCS.15))
 
   - <span></span>  
-    [New-CsRgsHoursOfBusiness](new-csrgshoursofbusiness.md)
+    [New-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398291(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsHoursOfBusiness](remove-csrgshoursofbusiness.md)
+    [Remove-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398568(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsHoursOfBusiness](set-csrgshoursofbusiness.md)
+    [Set-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg412929(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsRgsPrompt](new-csrgsprompt.md)
+    [New-CsRgsPrompt](https://technet.microsoft.com/en-us/library/Gg398486(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsRgsQuestion](new-csrgsquestion.md)
+    [New-CsRgsQuestion](https://technet.microsoft.com/en-us/library/Gg398186(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRgsQueue](get-csrgsqueue.md)
+    [Get-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg412759(v=OCS.15))
 
   - <span></span>  
-    [New-CsRgsQueue](new-csrgsqueue.md)
+    [New-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398989(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsQueue](remove-csrgsqueue.md)
+    [Remove-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398576(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsQueue](set-csrgsqueue.md)
+    [Set-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg412947(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsRgsTimeRange](new-csrgstimerange.md)
+    [New-CsRgsTimeRange](https://technet.microsoft.com/en-us/library/Gg399040(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRgsWorkflow](get-csrgsworkflow.md)
+    [Get-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg425766(v=OCS.15))
 
   - <span></span>  
-    [New-CsRgsWorkflow](new-csrgsworkflow.md)
+    [New-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398246(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsWorkflow](remove-csrgsworkflow.md)
+    [Remove-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398765(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsWorkflow](set-csrgsworkflow.md)
+    [Set-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg425845(v=OCS.15))
 
 </div>
 

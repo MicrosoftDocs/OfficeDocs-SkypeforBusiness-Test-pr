@@ -37,63 +37,63 @@ The following is a list of cmdlets that relate directly to managing databases an
 **Databases and Management Server**
 
   - <span></span>  
-    [Get-CsConfigurationStoreLocation](get-csconfigurationstorelocation.md)
+    [Get-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg412814(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConfigurationStoreLocation](remove-csconfigurationstorelocation.md)
+    [Remove-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg398214(v=OCS.15))
 
   - <span></span>  
-    [Set-CsConfigurationStoreLocation](set-csconfigurationstorelocation.md)
+    [Set-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg398258(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Install-CsDatabase](install-csdatabase.md)
+    [Install-CsDatabase](https://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
   - <span></span>  
-    [Test-CsDatabase](test-csdatabase.md)
+    [Test-CsDatabase](https://technet.microsoft.com/en-us/library/JJ204839(v=OCS.15))
 
   - <span></span>  
-    [Uninstall-CsDatabase](uninstall-csdatabase.md)
+    [Uninstall-CsDatabase](unhttps://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsDatabaseFailover](invoke-csdatabasefailover.md)
+  - [Invoke-CsDatabaseFailover](https://technet.microsoft.com/en-us/library/JJ204744(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsDatabaseMirrorState](get-csdatabasemirrorstate.md)
+  - [Get-CsDatabaseMirrorState](https://technet.microsoft.com/en-us/library/JJ204845(v=OCS.15))
 
 <!-- end list -->
 
-  - [Install-CsMirrorDatabase](install-csmirrordatabase.md)
+  - [Install-CsMirrorDatabase](https://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
-  - [Uninstall-CsMirrorDatabase](uninstall-csmirrordatabase.md)
-
-<!-- end list -->
-
-  - <span></span>  
-    [Get-CsUserDatabaseState](get-csuserdatabasestate.md)
-
-  - <span></span>  
-    [Set-CsUserDatabaseState](set-csuserdatabasestate.md)
+  - [Uninstall-CsMirrorDatabase](unhttps://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Update-CsUserDatabase](update-csuserdatabase.md)
+    [Get-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg398831(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg412973(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Move-CsManagementServer](move-csmanagementserver.md)
-
-  - <span></span>  
-    [Set-CsManagementServer](set-csmanagementserver.md)
+    [Update-CsUserDatabase](https://technet.microsoft.com/en-us/library/Gg398682(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsManagementServerFailover](invoke-csmanagementserverfailover.md)
+  - <span></span>  
+    [Move-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg412921(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg398465(v=OCS.15))
+
+<!-- end list -->
+
+  - [Invoke-CsManagementServerFailover](https://technet.microsoft.com/en-us/library/JJ204647(v=OCS.15))
 
 </div>
 

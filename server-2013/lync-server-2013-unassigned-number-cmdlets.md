@@ -37,35 +37,35 @@ The following cmdlets can be used to manage unassigned numbers.
 **Unassigned Number**
 
   - <span></span>  
-    [Get-CsUnassignedNumber](get-csunassignednumber.md)
+    [Get-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg412792(v=OCS.15))
 
   - <span></span>  
-    [New-CsUnassignedNumber](new-csunassignednumber.md)
+    [New-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398651(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUnassignedNumber](remove-csunassignednumber.md)
+    [Remove-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398209(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUnassignedNumber](set-csunassignednumber.md)
+    [Set-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg399033(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAnnouncement](get-csannouncement.md)
+    [Get-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398937(v=OCS.15))
 
   - <span></span>  
-    [New-CsAnnouncement](new-csannouncement.md)
+    [New-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398522(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAnnouncement](remove-csannouncement.md)
+    [Remove-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg412766(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAnnouncement](set-csannouncement.md)
+    [Set-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg425752(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Import-CsAnnouncementFile](import-csannouncementfile.md)
+    [Import-CsAnnouncementFile](https://technet.microsoft.com/en-us/library/Gg398472(v=OCS.15))
 
 </div>
 

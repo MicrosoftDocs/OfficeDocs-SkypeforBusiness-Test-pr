@@ -35,122 +35,122 @@ Federation and external access provide two important capabilities: federation en
 Most management tasks that apply to federation and external access can be performed from the Lync Server Control Panel. These same tasks can be performed using cmdlets from the Lync Server Management Shell or from within a script; using a script enables you to automate certain tasks. The following is a list of cmdlets that relate directly to managing federation and external access:
 
   - <span></span>  
-    [Get-CsAllowedDomain](get-csalloweddomain.md)
+    [Get-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398164(v=OCS.15))
 
   - <span></span>  
-    [New-CsAllowedDomain](new-csalloweddomain.md)
+    [New-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398628(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAllowedDomain](remove-csalloweddomain.md)
+    [Remove-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398913(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAllowedDomain](set-csalloweddomain.md)
+    [Set-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398931(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsBlockedDomain](get-csblockeddomain.md)
+    [Get-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398424(v=OCS.15))
 
   - <span></span>  
-    [New-CsBlockedDomain](new-csblockeddomain.md)
+    [New-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398822(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsBlockedDomain](remove-csblockeddomain.md)
+    [Remove-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg425832(v=OCS.15))
 
   - <span></span>  
-    [Set-CsBlockedDomain](set-csblockeddomain.md)
+    [Set-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398090(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsExternalAccessPolicy](get-csexternalaccesspolicy.md)
+    [Get-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425805(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsExternalAccessPolicy](grant-csexternalaccesspolicy.md)
+    [Grant-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg425942(v=OCS.15))
 
   - <span></span>  
-    [New-CsExternalAccessPolicy](new-csexternalaccesspolicy.md)
+    [New-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg398441(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsExternalAccessPolicy](remove-csexternalaccesspolicy.md)
+    [Remove-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg399057(v=OCS.15))
 
   - <span></span>  
-    [Set-CsExternalAccessPolicy](set-csexternalaccesspolicy.md)
+    [Set-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg398916(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsFIPSConfiguration](get-csfipsconfiguration.md)
+  - [Get-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ204904(v=OCS.15))
 
-  - [New-CsFIPSConfiguration](new-csfipsconfiguration.md)
+  - [New-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205114(v=OCS.15))
 
-  - [Remove-CsFIPSConfiguration](remove-csfipsconfiguration.md)
+  - [Remove-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205201(v=OCS.15))
 
-  - [Set-CsFIPSConfiguration](set-csfipsconfiguration.md)
-
-<!-- end list -->
-
-  - <span></span>  
-    [Disable-CsHostingProvider](disable-cshostingprovider.md)
-
-  - <span></span>  
-    [Enable-CsHostingProvider](enable-cshostingprovider.md)
-
-  - <span></span>  
-    [Get-CsHostingProvider](get-cshostingprovider.md)
-
-  - <span></span>  
-    [New-CsHostingProvider](new-cshostingprovider.md)
-
-  - <span></span>  
-    [Remove-CsHostingProvider](remove-cshostingprovider.md)
-
-  - <span></span>  
-    [Set-CsHostingProvider](set-cshostingprovider.md)
+  - [Set-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205084(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsPublicProvider](disable-cspublicprovider.md)
+    [Disable-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398481(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsPublicProvider](enable-cspublicprovider.md)
+    [Enable-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398166(v=OCS.15))
 
   - <span></span>  
-    [Get-CsPublicProvider](get-cspublicprovider.md)
+    [Get-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg413078(v=OCS.15))
 
   - <span></span>  
-    [New-CsPublicProvider](new-cspublicprovider.md)
+    [New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsPublicProvider](remove-cspublicprovider.md)
+    [Remove-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg425809(v=OCS.15))
 
   - <span></span>  
-    [Set-CsPublicProvider](set-cspublicprovider.md)
+    [Set-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398532(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsFederatedPartner](test-csfederatedpartner.md)
+    [Disable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398984(v=OCS.15))
+
+  - <span></span>  
+    [Enable-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398780(v=OCS.15))
+
+  - <span></span>  
+    [Get-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg412945(v=OCS.15))
+
+  - <span></span>  
+    [New-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398161(v=OCS.15))
+
+  - <span></span>  
+    [Remove-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg412906(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg413087(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsXmppAllowedPartner](get-csxmppallowedpartner.md)
-
-  - [New-CsXmppAllowedPartner](new-csxmppallowedpartner.md)
-
-  - [Remove-CsXmppAllowedPartner](remove-csxmppallowedpartner.md)
-
-  - [Set-CsXmppAllowedPartner](set-csxmppallowedpartner.md)
+  - <span></span>  
+    [Test-CsFederatedPartner](https://technet.microsoft.com/en-us/library/Gg398281(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsXmppGatewayConfiguration](get-csxmppgatewayconfiguration.md)
+  - [Get-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204981(v=OCS.15))
 
-  - [Set-CsXmppGatewayConfiguration](set-csxmppgatewayconfiguration.md)
+  - [New-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204631(v=OCS.15))
+
+  - [Remove-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ205055(v=OCS.15))
+
+  - [Set-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204686(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsXmppIM](test-csxmppim.md)
+  - [Get-CsXmppGatewayConfiguration](https://technet.microsoft.com/en-us/library/JJ204869(v=OCS.15))
+
+  - [Set-CsXmppGatewayConfiguration](https://technet.microsoft.com/en-us/library/JJ204769(v=OCS.15))
+
+<!-- end list -->
+
+  - [Test-CsXmppIM](https://technet.microsoft.com/en-us/library/JJ205423(v=OCS.15))
 
 </div>
 

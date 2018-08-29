@@ -35,113 +35,113 @@ Microsoft Lync Server 2013 provides a number of cmdlets that enable you to manag
 The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service, a Lync Server component that enables administrators to distribute firmware updates to telephones and other devices running Lync Phone Edition.
 
   - <span></span>  
-    [Get-CsAnalogDevice](get-csanalogdevice.md)
+    [Get-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg398748(v=OCS.15))
 
   - <span></span>  
-    [Move-CsAnalogDevice](move-csanalogdevice.md)
+    [Move-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg398816(v=OCS.15))
 
   - <span></span>  
-    [New-CsAnalogDevice](new-csanalogdevice.md)
+    [New-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg412937(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAnalogDevice](remove-csanalogdevice.md)
+    [Remove-CsAnalogDevice](rehttps://technet.microsoft.com/en-us/library/Gg398816(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAnalogDevice](set-csanalogdevice.md)
+    [Set-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg412843(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCommonAreaPhone](get-cscommonareaphone.md)
+    [Get-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg412934(v=OCS.15))
 
   - <span></span>  
-    [Move-CsCommonAreaPhone](move-cscommonareaphone.md)
+    [Move-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg412837(v=OCS.15))
 
   - <span></span>  
-    [New-CsCommonAreaPhone](new-cscommonareaphone.md)
+    [New-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg398430(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsCommonAreaPhone](remove-cscommonareaphone.md)
+    [Remove-CsCommonAreaPhone](rehttps://technet.microsoft.com/en-us/library/Gg412837(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCommonAreaPhone](set-cscommonareaphone.md)
+    [Set-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg398579(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsUCPhoneConfiguration](get-csucphoneconfiguration.md)
+    [Get-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398070(v=OCS.15))
 
   - <span></span>  
-    [New-CsUCPhoneConfiguration](new-csucphoneconfiguration.md)
+    [New-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398445(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUCPhoneConfiguration](remove-csucphoneconfiguration.md)
+    [Remove-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398249(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUCPhoneConfiguration](set-csucphoneconfiguration.md)
+    [Set-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg413042(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Import-CsDeviceUpdate](import-csdeviceupdate.md)
+    [Import-CsDeviceUpdate](https://technet.microsoft.com/en-us/library/Gg398861(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDeviceUpdateConfiguration](get-csdeviceupdateconfiguration.md)
+    [Get-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg399030(v=OCS.15))
 
   - <span></span>  
-    [New-CsDeviceUpdateConfiguration](new-csdeviceupdateconfiguration.md)
+    [New-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg425761(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDeviceUpdateConfiguration](remove-csdeviceupdateconfiguration.md)
+    [Remove-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg425933(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDeviceUpdateConfiguration](set-csdeviceupdateconfiguration.md)
+    [Set-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg398320(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Clear-CsDeviceUpdateFile](clear-csdeviceupdatefile.md)
+    [Clear-CsDeviceUpdateFile](https://technet.microsoft.com/en-us/library/Gg425835(v=OCS.15))
 
   - <span></span>  
-    [Clear-CsDeviceUpdateLog](clear-csdeviceupdatelog.md)
+    [Clear-CsDeviceUpdateLog](https://technet.microsoft.com/en-us/library/Gg412738(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Approve-CsDeviceUpdateRule](approve-csdeviceupdaterule.md)
+    [Approve-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398949(v=OCS.15))
 
   - <span></span>  
-    [Get-CsDeviceUpdateRule](get-csdeviceupdaterule.md)
+    [Get-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398215(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDeviceUpdateRule](remove-csdeviceupdaterule.md)
+    [Remove-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg425930(v=OCS.15))
 
   - <span></span>  
-    [Reset-CsDeviceUpdateRule](reset-csdeviceupdaterule.md)
+    [Reset-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398181(v=OCS.15))
 
   - <span></span>  
-    [Restore-CsDeviceUpdateRule](restore-csdeviceupdaterule.md)
+    [Restore-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398305(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPhoneBootstrap](test-csphonebootstrap.md)
+    [Test-CsPhoneBootstrap](https://technet.microsoft.com/en-us/library/Gg412852(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTestDevice](get-cstestdevice.md)
+    [Get-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg398304(v=OCS.15))
 
   - <span></span>  
-    [New-CsTestDevice](new-cstestdevice.md)
+    [New-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg425899(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTestDevice](remove-cstestdevice.md)
+    [Remove-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg398790(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTestDevice](set-cstestdevice.md)
+    [Set-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg398156(v=OCS.15))
 
 </div>
 

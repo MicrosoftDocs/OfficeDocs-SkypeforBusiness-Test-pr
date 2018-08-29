@@ -101,7 +101,7 @@ The preceding definitions are somewhat simplified. Cmdlets are essentially mini-
 
     notepad.exe
 
-When it comes to managing Skype for Business Online, however, most administrators will rely on Windows PowerShell cmdlets to carry out administrative tasks. At time, there are very few other types of commands or applications that can be used to manage Skype for Business Online. Sometimes the Skype for Business Online cmdlets can be used without any additional arguments (, as noted, arguments are known as parameters in Windows PowerShell). For example, the following command calls the [Get-CsOnlineUser](get-csonlineuser.md) cmdlet without any additional parameters. By itself, the command returns information about all of your Skype for Business Online users:
+When it comes to managing Skype for Business Online, however, most administrators will rely on Windows PowerShell cmdlets to carry out administrative tasks. At time, there are very few other types of commands or applications that can be used to manage Skype for Business Online. Sometimes the Skype for Business Online cmdlets can be used without any additional arguments (, as noted, arguments are known as parameters in Windows PowerShell). For example, the following command calls the [Get-CsOnlineUser](https://technet.microsoft.com/en-us/library/JJ994026(v=OCS.15)) cmdlet without any additional parameters. By itself, the command returns information about all of your Skype for Business Online users:
 
     Get-CsOnlineUser
 
@@ -132,7 +132,7 @@ That command, incidentally, returns information about a specific user: the user 
 ## See Also
 
 
-[An introduction to Windows PowerShell and Skype for Business Online](an-introduction-to-windows-powershell-and-skype-for-business-online.md)  
+[An introduction to Windows PowerShell and Skype for Business Online](https://technet.microsoft.com/en-us/library/Dn362785(v=OCS.15))  
   
 
 </div>

@@ -37,68 +37,68 @@ If you do not want to allow dial-in conferencing you can disable this capability
 **Dial-In Conferencing**
 
   - <span></span>  
-    [Get-CsConferenceDirectory](get-csconferencedirectory.md)
+    [Get-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg425771(v=OCS.15))
 
   - <span></span>  
-    [Move-CsConferenceDirectory](move-csconferencedirectory.md)
+    [Move-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
   - <span></span>  
-    [New-CsConferenceDirectory](new-csconferencedirectory.md)
+    [New-CsConferenceDirectory](https://technet.microsoft.com/en-us/library/Gg413080(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConferenceDirectory](remove-csconferencedirectory.md)
+    [Remove-CsConferenceDirectory](rehttps://technet.microsoft.com/en-us/library/Gg412968(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsDialInConferencing](test-csdialinconferencing.md)
+    [Test-CsDialInConferencing](https://technet.microsoft.com/en-us/library/Gg399013(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingAccessNumber](get-csdialinconferencingaccessnumber.md)
+    [Get-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg413015(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingAccessNumber](new-csdialinconferencingaccessnumber.md)
+    [New-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg398818(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDialInConferencingAccessNumber](remove-csdialinconferencingaccessnumber.md)
+    [Remove-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg412782(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDialInConferencingAccessNumber](set-csdialinconferencingaccessnumber.md)
+    [Set-CsDialInConferencingAccessNumber](https://technet.microsoft.com/en-us/library/Gg425770(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingConfiguration](get-csdialinconferencingconfiguration.md)
+    [Get-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398575(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingConfiguration](new-csdialinconferencingconfiguration.md)
+    [New-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412816(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDialInConferencingConfiguration](remove-csdialinconferencingconfiguration.md)
+    [Remove-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg398174(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDialInConferencingConfiguration](set-csdialinconferencingconfiguration.md)
+    [Set-CsDialInConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg425825(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingDtmfConfiguration](get-csdialinconferencingdtmfconfiguration.md)
+    [Get-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg398578(v=OCS.15))
 
   - <span></span>  
-    [New-CsDialInConferencingDtmfConfiguration](new-csdialinconferencingdtmfconfiguration.md)
+    [New-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg425792(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDialInConferencingDtmfConfiguration](remove-csdialinconferencingdtmfconfiguration.md)
+    [Remove-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg425894(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDialInConferencingDtmfConfiguration](set-csdialinconferencingdtmfconfiguration.md)
+    [Set-CsDialInConferencingDtmfConfiguration](https://technet.microsoft.com/en-us/library/Gg398860(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDialInConferencingLanguageList](get-csdialinconferencinglanguagelist.md)
+    [Get-CsDialInConferencingLanguageList](https://technet.microsoft.com/en-us/library/Gg425869(v=OCS.15))
 
 </div>
 

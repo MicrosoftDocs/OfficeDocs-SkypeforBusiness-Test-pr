@@ -36,57 +36,57 @@ Use the following cmdlets for trunk configuration.
 
 **Trunking Configuration**
 
-  - [Test-CsInterTrunkRouting](test-csintertrunkrouting.md)
+  - [Test-CsInterTrunkRouting](https://technet.microsoft.com/en-us/library/JJ204741(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsOutboundCallingNumberTranslationRule](get-csoutboundcallingnumbertranslationrule.md)
+  - [Get-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204962(v=OCS.15))
 
-  - [New-CsOutboundCallingNumberTranslationRule](new-csoutboundcallingnumbertranslationrule.md)
+  - [New-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205097(v=OCS.15))
 
-  - [Remove-CsOutboundCallingNumberTranslationRule](remove-csoutboundcallingnumbertranslationrule.md)
+  - [Remove-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204836(v=OCS.15))
 
-  - [Set-CsOutboundCallingNumberTranslationRule](set-csoutboundcallingnumbertranslationrule.md)
-
-<!-- end list -->
-
-  - <span></span>  
-    [Get-CsOutboundTranslationRule](get-csoutboundtranslationrule.md)
-
-  - <span></span>  
-    [New-CsOutboundTranslationRule](new-csoutboundtranslationrule.md)
-
-  - <span></span>  
-    [Remove-CsOutboundTranslationRule](remove-csoutboundtranslationrule.md)
-
-  - <span></span>  
-    [Set-CsOutboundTranslationRule](set-csoutboundtranslationrule.md)
-
-<!-- end list -->
-
-  - [Get-CsTrunk](get-cstrunk.md)
+  - [Set-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205400(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrunkConfiguration](get-cstrunkconfiguration.md)
+    [Get-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398104(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrunkConfiguration](new-cstrunkconfiguration.md)
+    [New-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg412803(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrunkConfiguration](remove-cstrunkconfiguration.md)
+    [Remove-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398556(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrunkConfiguration](set-cstrunkconfiguration.md)
+    [Set-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg413073(v=OCS.15))
 
-  - <span></span>  
-    [Test-CsTrunkConfiguration](test-cstrunkconfiguration.md)
+<!-- end list -->
+
+  - [Get-CsTrunk](https://technet.microsoft.com/en-us/library/JJ205244(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsVoiceRegex](new-csvoiceregex.md)
+    [Get-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398224(v=OCS.15))
+
+  - <span></span>  
+    [New-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg413021(v=OCS.15))
+
+  - <span></span>  
+    [Remove-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg425943(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398238(v=OCS.15))
+
+  - <span></span>  
+    [Test-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398137(v=OCS.15))
+
+<!-- end list -->
+
+  - <span></span>  
+    [New-CsVoiceRegex](https://technet.microsoft.com/en-us/library/Gg412751(v=OCS.15))
 
 </div>
 

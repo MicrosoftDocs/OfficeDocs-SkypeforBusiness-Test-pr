@@ -41,7 +41,7 @@ For example:
 ## See Also
 
 
-[Remove-CsAddressBookConfiguration](remove-csaddressbookconfiguration.md)  
+[Remove-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398934(v=OCS.15))  
   
 
 </div>

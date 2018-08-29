@@ -53,34 +53,34 @@ The following is a list of cmdlets that relate directly to managing Edge Servers
 **Edge Server**
 
   - <span></span>  
-    [Get-CsAccessEdgeConfiguration](get-csaccessedgeconfiguration.md)
+    [Get-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398574(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAccessEdgeConfiguration](set-csaccessedgeconfiguration.md)
+    [Set-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413017(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAVEdgeConfiguration](get-csavedgeconfiguration.md)
+    [Get-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413008(v=OCS.15))
 
   - <span></span>  
-    [New-CsAVEdgeConfiguration](new-csavedgeconfiguration.md)
+    [New-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg412884(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAVEdgeConfiguration](remove-csavedgeconfiguration.md)
+    [Remove-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398786(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAVEdgeConfiguration](set-csavedgeconfiguration.md)
+    [Set-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg412869(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsAVEdgeConnectivity](test-csavedgeconnectivity.md)
+    [Test-CsAVEdgeConnectivity](https://technet.microsoft.com/en-us/library/JJ205138(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsEdgeServer](set-csedgeserver.md)
+    [Set-CsEdgeServer](https://technet.microsoft.com/en-us/library/Gg398859(v=OCS.15))
 
 </div>
 

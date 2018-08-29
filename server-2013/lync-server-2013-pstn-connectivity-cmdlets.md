@@ -37,180 +37,180 @@ Use the following cmdlets to configure various aspects of PSTN connectivity.
 **[PSTN gateways cmdlets in Lync Server 2013](lync-server-2013-pstn-gateways-cmdlets.md)**
 
   - <span></span>  
-    [Set-CsPstnGateway](set-cspstngateway.md)
+    [Set-CsPstnGateway](https://technet.microsoft.com/en-us/library/Gg398408(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPstnOutboundCall](test-cspstnoutboundcall.md)
+    [Test-CsPstnOutboundCall](https://technet.microsoft.com/en-us/library/Gg398207(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPstnPeerToPeerCall](test-cspstnpeertopeercall.md)
+    [Test-CsPstnPeerToPeerCall](https://technet.microsoft.com/en-us/library/Gg398662(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsMediationServer](set-csmediationserver.md)
+    [Set-CsMediationServer](https://technet.microsoft.com/en-us/library/Gg398213(v=OCS.15))
 
 **[Static routing cmdlets in Lync Server 2013](lync-server-2013-static-routing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsSipResponseCodeTranslationRule](get-cssipresponsecodetranslationrule.md)
+    [Get-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg398130(v=OCS.15))
 
   - <span></span>  
-    [New-CsSipResponseCodeTranslationRule](new-cssipresponsecodetranslationrule.md)
+    [New-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg413041(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsSipResponseCodeTranslationRule](remove-cssipresponsecodetranslationrule.md)
+    [Remove-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg412932(v=OCS.15))
 
   - <span></span>  
-    [Set-CsSipResponseCodeTranslationRule](set-cssipresponsecodetranslationrule.md)
+    [Set-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg425895(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsStaticRoute](new-csstaticroute.md)
+    [New-CsStaticRoute](https://technet.microsoft.com/en-us/library/Gg398265(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsStaticRoutingConfiguration](get-csstaticroutingconfiguration.md)
+    [Get-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398754(v=OCS.15))
 
   - <span></span>  
-    [New-CsStaticRoutingConfiguration](new-csstaticroutingconfiguration.md)
+    [New-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425811(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsStaticRoutingConfiguration](remove-csstaticroutingconfiguration.md)
+    [Remove-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398668(v=OCS.15))
 
   - <span></span>  
-    [Set-CsStaticRoutingConfiguration](set-csstaticroutingconfiguration.md)
+    [Set-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398724(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyCustom](new-cssipproxycustom.md)
+    [New-CsSipProxyCustom](https://technet.microsoft.com/en-us/library/Gg425904(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyRealm](new-cssipproxyrealm.md)
+    [New-CsSipProxyRealm](https://technet.microsoft.com/en-us/library/Gg413084(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyTCP](new-cssipproxytcp.md)
+    [New-CsSipProxyTCP](https://technet.microsoft.com/en-us/library/Gg425745(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyTLS](new-cssipproxytls.md)
+    [New-CsSipProxyTLS](https://technet.microsoft.com/en-us/library/Gg398629(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyTransport](new-cssipproxytransport.md)
+    [New-CsSipProxyTransport](https://technet.microsoft.com/en-us/library/Gg398489(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyUseDefault](new-cssipproxyusedefault.md)
+    [New-CsSipProxyUseDefault](https://technet.microsoft.com/en-us/library/Gg398274(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSipProxyUseDefaultCert](new-cssipproxyusedefaultcert.md)
+    [New-CsSipProxyUseDefaultCert](https://technet.microsoft.com/en-us/library/Gg425858(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsIssuedCertId](new-csissuedcertid.md)
+    [New-CsIssuedCertId](https://technet.microsoft.com/en-us/library/Gg425814(v=OCS.15))
 
 **[Trunking configuration cmdlets in Lync Server 2013](lync-server-2013-trunking-configuration-cmdlets.md)**
 
-  - [Test-CsInterTrunkRouting](test-csintertrunkrouting.md)
+  - [Test-CsInterTrunkRouting](https://technet.microsoft.com/en-us/library/JJ204741(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsOutboundCallingNumberTranslationRule](get-csoutboundcallingnumbertranslationrule.md)
+  - [Get-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204962(v=OCS.15))
 
-  - [New-CsOutboundCallingNumberTranslationRule](new-csoutboundcallingnumbertranslationrule.md)
+  - [New-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205097(v=OCS.15))
 
-  - [Remove-CsOutboundCallingNumberTranslationRule](remove-csoutboundcallingnumbertranslationrule.md)
+  - [Remove-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204836(v=OCS.15))
 
-  - [Set-CsOutboundCallingNumberTranslationRule](set-csoutboundcallingnumbertranslationrule.md)
-
-<!-- end list -->
-
-  - <span></span>  
-    [Get-CsOutboundTranslationRule](get-csoutboundtranslationrule.md)
-
-  - <span></span>  
-    [New-CsOutboundTranslationRule](new-csoutboundtranslationrule.md)
-
-  - <span></span>  
-    [Remove-CsOutboundTranslationRule](remove-csoutboundtranslationrule.md)
-
-  - <span></span>  
-    [Set-CsOutboundTranslationRule](set-csoutboundtranslationrule.md)
-
-<!-- end list -->
-
-  - [Get-CsTrunk](get-cstrunk.md)
+  - [Set-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205400(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTrunkConfiguration](get-cstrunkconfiguration.md)
+    [Get-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398104(v=OCS.15))
 
   - <span></span>  
-    [New-CsTrunkConfiguration](new-cstrunkconfiguration.md)
+    [New-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg412803(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrunkConfiguration](remove-cstrunkconfiguration.md)
+    [Remove-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398556(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrunkConfiguration](set-cstrunkconfiguration.md)
+    [Set-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg413073(v=OCS.15))
 
-  - <span></span>  
-    [Test-CsTrunkConfiguration](test-cstrunkconfiguration.md)
+<!-- end list -->
+
+  - [Get-CsTrunk](https://technet.microsoft.com/en-us/library/JJ205244(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsVoiceRegex](new-csvoiceregex.md)
+    [Get-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398224(v=OCS.15))
+
+  - <span></span>  
+    [New-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg413021(v=OCS.15))
+
+  - <span></span>  
+    [Remove-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg425943(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398238(v=OCS.15))
+
+  - <span></span>  
+    [Test-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398137(v=OCS.15))
+
+<!-- end list -->
+
+  - <span></span>  
+    [New-CsVoiceRegex](https://technet.microsoft.com/en-us/library/Gg412751(v=OCS.15))
 
 **[Voice routing cmdlets in Lync Server 2013](lync-server-2013-voice-routing-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsRoutingConfiguration](get-csroutingconfiguration.md)
+    [Get-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425851(v=OCS.15))
 
   - <span></span>  
-    [New-CsRoutingConfiguration](new-csroutingconfiguration.md)
+    [New-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg399056(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRoutingConfiguration](remove-csroutingconfiguration.md)
+    [Remove-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398643(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRoutingConfiguration](set-csroutingconfiguration.md)
+    [Set-CsRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg412811(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceRoute](get-csvoiceroute.md)
+    [Get-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425926(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceRoute](new-csvoiceroute.md)
+    [New-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398197(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoiceRoute](remove-csvoiceroute.md)
+    [Remove-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg398468(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoiceRoute](set-csvoiceroute.md)
+    [Set-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg412893(v=OCS.15))
 
   - <span></span>  
-    [Test-CsVoiceRoute](test-csvoiceroute.md)
+    [Test-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425873(v=OCS.15))
 
 </div>
 

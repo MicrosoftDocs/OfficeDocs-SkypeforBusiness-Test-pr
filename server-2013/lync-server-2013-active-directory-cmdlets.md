@@ -37,32 +37,32 @@ The following is a list of cmdlets that relate directly to managing Lync Server 
 **Active Directory**
 
   - <span></span>  
-    [Disable-CsAdDomain](disable-csaddomain.md)
+    [Disable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398785(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsAdDomain](enable-csaddomain.md)
+    [Enable-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg412764(v=OCS.15))
 
   - <span></span>  
-    [Get-CsAdDomain](get-csaddomain.md)
+    [Get-CsAdDomain](https://technet.microsoft.com/en-us/library/Gg398453(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Disable-CsAdForest](disable-csadforest.md)
+    [Disable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg398122(v=OCS.15))
 
   - <span></span>  
-    [Enable-CsAdForest](enable-csadforest.md)
+    [Enable-CsAdForest](https://technet.microsoft.com/en-us/library/Gg425713(v=OCS.15))
 
   - <span></span>  
-    [Get-CsAdForest](get-csadforest.md)
+    [Get-CsAdForest](https://technet.microsoft.com/en-us/library/Gg412995(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAdServerSchema](get-csadserverschema.md)
+    [Get-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg413070(v=OCS.15))
 
   - <span></span>  
-    [Install-CsAdServerSchema](install-csadserverschema.md)
+    [Install-CsAdServerSchema](https://technet.microsoft.com/en-us/library/Gg398681(v=OCS.15))
 
 </div>
 

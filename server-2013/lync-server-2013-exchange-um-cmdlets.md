@@ -37,66 +37,66 @@ The following cmdlets can be used to manage Exchange UM
 **Exchange UM**
 
   - <span></span>  
-    [Get-CsExUmContact](get-csexumcontact.md)
+    [Get-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412725(v=OCS.15))
 
   - <span></span>  
-    [Move-CsExUmContact](move-csexumcontact.md)
+    [Move-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - <span></span>  
-    [New-CsExUmContact](new-csexumcontact.md)
+    [New-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg398139(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsExUmContact](remove-csexumcontact.md)
+    [Remove-CsExUmContact](rehttps://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - <span></span>  
-    [Set-CsExUmContact](set-csexumcontact.md)
+    [Set-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412944(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExStorageConnectivity](test-csexstorageconnectivity.md)
+  - [Test-CsExStorageConnectivity](https://technet.microsoft.com/en-us/library/JJ204740(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExStorageNotification](test-csexstoragenotification.md)
+  - [Test-CsExStorageNotification](https://technet.microsoft.com/en-us/library/JJ205331(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExUMConnectivity](test-csexumconnectivity.md)
+  - [Test-CsExUMConnectivity](https://technet.microsoft.com/en-us/library/JJ204784(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExUMVoiceMail](test-csexumvoicemail.md)
-
-<!-- end list -->
-
-  - <span></span>  
-    [Get-CsHostedVoicemailPolicy](get-cshostedvoicemailpolicy.md)
-
-  - <span></span>  
-    [Grant-CsHostedVoicemailPolicy](grant-cshostedvoicemailpolicy.md)
-
-  - <span></span>  
-    [New-CsHostedVoicemailPolicy](new-cshostedvoicemailpolicy.md)
-
-  - <span></span>  
-    [Remove-CsHostedVoicemailPolicy](remove-cshostedvoicemailpolicy.md)
-
-  - <span></span>  
-    [Set-CsHostedVoicemailPolicy](set-cshostedvoicemailpolicy.md)
+  - [Test-CsExUMVoiceMail](https://technet.microsoft.com/en-us/library/JJ205058(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoicemailReroutingConfiguration](get-csvoicemailreroutingconfiguration.md)
+    [Get-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398348(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoicemailReroutingConfiguration](new-csvoicemailreroutingconfiguration.md)
+    [Grant-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg412829(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoicemailReroutingConfiguration](remove-csvoicemailreroutingconfiguration.md)
+    [New-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398653(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoicemailReroutingConfiguration](set-csvoicemailreroutingconfiguration.md)
+    [Remove-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398211(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg412722(v=OCS.15))
+
+<!-- end list -->
+
+  - <span></span>  
+    [Get-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425732(v=OCS.15))
+
+  - <span></span>  
+    [New-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425849(v=OCS.15))
+
+  - <span></span>  
+    [Remove-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398573(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg412948(v=OCS.15))
 
 </div>
 

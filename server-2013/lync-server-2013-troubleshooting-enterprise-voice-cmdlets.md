@@ -37,55 +37,55 @@ The following cmdlets can be used to test and troubleshoot Enterprise Voice conn
 **Troubleshooting Enterprise Voice Cmdlets**
 
   - <span></span>  
-    [Get-CsVoiceConfiguration](get-csvoiceconfiguration.md)
+    [Get-CsVoiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398815(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoiceConfiguration](remove-csvoiceconfiguration.md)
+    [Remove-CsVoiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398804(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoiceConfiguration](set-csvoiceconfiguration.md)
+    [Set-CsVoiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398967(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsVoiceTestConfiguration](get-csvoicetestconfiguration.md)
+    [Get-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg412957(v=OCS.15))
 
   - <span></span>  
-    [New-CsVoiceTestConfiguration](new-csvoicetestconfiguration.md)
+    [New-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg398961(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoiceTestConfiguration](remove-csvoicetestconfiguration.md)
+    [Remove-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg412813(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoiceTestConfiguration](set-csvoicetestconfiguration.md)
+    [Set-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg398614(v=OCS.15))
 
   - <span></span>  
-    [Test-CsVoiceTestConfiguration](test-csvoicetestconfiguration.md)
+    [Test-CsVoiceTestConfiguration](https://technet.microsoft.com/en-us/library/Gg398260(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsDialPlan](test-csdialplan.md)
+    [Test-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg399024(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsVoiceNormalizationRule](test-csvoicenormalizationrule.md)
+    [Test-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg399003(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsVoicePolicy](test-csvoicepolicy.md)
+    [Test-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398310(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsVoiceRoute](test-csvoiceroute.md)
+    [Test-CsVoiceRoute](https://technet.microsoft.com/en-us/library/Gg425873(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsVoiceUser](test-csvoiceuser.md)
+    [Test-CsVoiceUser](https://technet.microsoft.com/en-us/library/Gg413013(v=OCS.15))
 
 </div>
 

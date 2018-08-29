@@ -37,461 +37,461 @@ Many (but not all) of the management tasks that apply to servers and service rol
 **[Address Book Server cmdlets in Lync Server 2013](lync-server-2013-address-book-server-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAddressBookConfiguration](get-csaddressbookconfiguration.md)
+    [Get-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398132(v=OCS.15))
 
   - <span></span>  
-    [New-CsAddressBookConfiguration](new-csaddressbookconfiguration.md)
+    [New-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398395(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAddressBookConfiguration](remove-csaddressbookconfiguration.md)
+    [Remove-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398934(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAddressBookConfiguration](set-csaddressbookconfiguration.md)
+    [Set-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg412784(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Update-CsAddressBook](update-csaddressbook.md)
+    [Update-CsAddressBook](https://technet.microsoft.com/en-us/library/Gg398194(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Debug-CsAddressBookReplication](debug-csaddressbookreplication.md)
+    [Debug-CsAddressBookReplication](https://technet.microsoft.com/en-us/library/JJ205232(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsAddressBookService](test-csaddressbookservice.md)
+    [Test-CsAddressBookService](https://technet.microsoft.com/en-us/library/Gg398661(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsAddressBookWebQuery](test-csaddressbookwebquery.md)
+    [Test-CsAddressBookWebQuery](https://technet.microsoft.com/en-us/library/Gg398773(v=OCS.15))
 
 **[Archiving and Monitoring cmdlets in Lync Server 2013](lync-server-2013-archiving-and-monitoring-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsArchivingConfiguration](get-csarchivingconfiguration.md)
+    [Get-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg399012(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingConfiguration](new-csarchivingconfiguration.md)
+    [New-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398471(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsArchivingConfiguration](remove-csarchivingconfiguration.md)
+    [Remove-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398951(v=OCS.15))
 
   - <span></span>  
-    [Set-CsArchivingConfiguration](set-csarchivingconfiguration.md)
+    [Set-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg413030(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsArchivingDatabasePurge](invoke-csarchivingdatabasepurge.md)
+    [Invoke-CsArchivingDatabasePurge](https://technet.microsoft.com/en-us/library/JJ204627(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsArchivingPolicy](get-csarchivingpolicy.md)
+    [Get-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425731(v=OCS.15))
 
   - <span></span>  
-    [Grant-CsArchivingPolicy](grant-csarchivingpolicy.md)
+    [Grant-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398475(v=OCS.15))
 
   - <span></span>  
-    [New-CsArchivingPolicy](new-csarchivingpolicy.md)
+    [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsArchivingPolicy](remove-csarchivingpolicy.md)
+    [Remove-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425924(v=OCS.15))
 
   - <span></span>  
-    [Set-CsArchivingPolicy](set-csarchivingpolicy.md)
+    [Set-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398294(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsArchivingServer](set-csarchivingserver.md)
+    [Set-CsArchivingServer](https://technet.microsoft.com/en-us/library/Gg398923(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsCdrConfiguration](get-cscdrconfiguration.md)
+    [Get-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398298(v=OCS.15))
 
   - <span></span>  
-    [New-CsCdrConfiguration](new-cscdrconfiguration.md)
+    [New-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg399018(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsCdrConfiguration](remove-cscdrconfiguration.md)
+    [Remove-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398451(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCdrConfiguration](set-cscdrconfiguration.md)
+    [Set-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398774(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsMonitoringServer](set-csmonitoringserver.md)
+    [Set-CsMonitoringServer](https://technet.microsoft.com/en-us/library/Gg425776(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsQoEConfiguration](get-csqoeconfiguration.md)
+    [Get-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg399004(v=OCS.15))
 
   - <span></span>  
-    [New-CsQoEConfiguration](new-csqoeconfiguration.md)
+    [New-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398325(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsQoEConfiguration](remove-csqoeconfiguration.md)
+    [Remove-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg425879(v=OCS.15))
 
   - <span></span>  
-    [Set-CsQoEConfiguration](set-csqoeconfiguration.md)
+    [Set-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398245(v=OCS.15))
 
-[Invoke-CsCdrDatabasePurge](invoke-cscdrdatabasepurge.md)
+[Invoke-CsCdrDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205113(v=OCS.15))
 
   - <span></span>  
-    [Export-CsArchivingData](export-csarchivingdata.md)
+    [Export-CsArchivingData](https://technet.microsoft.com/en-us/library/Gg398452(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Invoke-CsQoEDatabasePurge](invoke-csqoedatabasepurge.md)
+    [Invoke-CsQoEDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205247(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsReportingConfiguration](get-csreportingconfiguration.md)
+    [Get-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205356(v=OCS.15))
 
   - <span></span>  
-    [New-CsReportingConfiguration](new-csreportingconfiguration.md)
+    [New-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204787(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsReportingConfiguration](remove-csreportingconfiguration.md)
+    [Remove-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204711(v=OCS.15))
 
   - <span></span>  
-    [Set-CsReportingConfiguration](set-csreportingconfiguration.md)
+    [Set-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205075(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsTestUserCredential](get-cstestusercredential.md)
+    [Get-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204759(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTestUserCredential](remove-cstestusercredential.md)
+    [Remove-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204870(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTestUserCredential](set-cstestusercredential.md)
+    [Set-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ205341(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWatcherNodeConfiguration](get-cswatchernodeconfiguration.md)
+    [Get-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204739(v=OCS.15))
 
   - <span></span>  
-    [New-CsWatcherNodeConfiguration](new-cswatchernodeconfiguration.md)
+    [New-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ205254(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsWatcherNodeConfiguration](remove-cswatchernodeconfiguration.md)
+    [Remove-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204926(v=OCS.15))
 
   - <span></span>  
-    [Set-CsWatcherNodeConfiguration](set-cswatchernodeconfiguration.md)
+    [Set-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204620(v=OCS.15))
 
   - <span></span>  
-    [Test-CsWatcherNodeConfiguration](test-cswatchernodeconfiguration.md)
+    [Test-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204652(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsExtendedTest](new-csextendedtest.md)
+    [New-CsExtendedTest](https://technet.microsoft.com/en-us/library/JJ205275(v=OCS.15))
 
 **[Database and Management Server cmdlets in Lync Server 2013](lync-server-2013-database-and-management-server-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsConfigurationStoreLocation](get-csconfigurationstorelocation.md)
+    [Get-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg412814(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConfigurationStoreLocation](remove-csconfigurationstorelocation.md)
+    [Remove-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg398214(v=OCS.15))
 
   - <span></span>  
-    [Set-CsConfigurationStoreLocation](set-csconfigurationstorelocation.md)
+    [Set-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg398258(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Install-CsDatabase](install-csdatabase.md)
+    [Install-CsDatabase](https://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
   - <span></span>  
-    [Test-CsDatabase](test-csdatabase.md)
+    [Test-CsDatabase](https://technet.microsoft.com/en-us/library/JJ204839(v=OCS.15))
 
   - <span></span>  
-    [Uninstall-CsDatabase](uninstall-csdatabase.md)
+    [Uninstall-CsDatabase](unhttps://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsDatabaseFailover](invoke-csdatabasefailover.md)
+  - [Invoke-CsDatabaseFailover](https://technet.microsoft.com/en-us/library/JJ204744(v=OCS.15))
 
 <!-- end list -->
 
-  - [Get-CsDatabaseMirrorState](get-csdatabasemirrorstate.md)
+  - [Get-CsDatabaseMirrorState](https://technet.microsoft.com/en-us/library/JJ204845(v=OCS.15))
 
 <!-- end list -->
 
-  - [Install-CsMirrorDatabase](install-csmirrordatabase.md)
+  - [Install-CsMirrorDatabase](https://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
-  - [Uninstall-CsMirrorDatabase](uninstall-csmirrordatabase.md)
-
-<!-- end list -->
-
-  - <span></span>  
-    [Get-CsUserDatabaseState](get-csuserdatabasestate.md)
-
-  - <span></span>  
-    [Set-CsUserDatabaseState](set-csuserdatabasestate.md)
+  - [Uninstall-CsMirrorDatabase](unhttps://technet.microsoft.com/en-us/library/JJ204986(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Update-CsUserDatabase](update-csuserdatabase.md)
+    [Get-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg398831(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg412973(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Move-CsManagementServer](move-csmanagementserver.md)
-
-  - <span></span>  
-    [Set-CsManagementServer](set-csmanagementserver.md)
+    [Update-CsUserDatabase](https://technet.microsoft.com/en-us/library/Gg398682(v=OCS.15))
 
 <!-- end list -->
 
-  - [Invoke-CsManagementServerFailover](invoke-csmanagementserverfailover.md)
+  - <span></span>  
+    [Move-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg412921(v=OCS.15))
+
+  - <span></span>  
+    [Set-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg398465(v=OCS.15))
+
+<!-- end list -->
+
+  - [Invoke-CsManagementServerFailover](https://technet.microsoft.com/en-us/library/JJ204647(v=OCS.15))
 
 **[Edge Server cmdlets in Lync Server 2013](lync-server-2013-edge-server-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAccessEdgeConfiguration](get-csaccessedgeconfiguration.md)
+    [Get-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398574(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAccessEdgeConfiguration](set-csaccessedgeconfiguration.md)
+    [Set-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413017(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsAVEdgeConfiguration](get-csavedgeconfiguration.md)
+    [Get-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413008(v=OCS.15))
 
   - <span></span>  
-    [New-CsAVEdgeConfiguration](new-csavedgeconfiguration.md)
+    [New-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg412884(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAVEdgeConfiguration](remove-csavedgeconfiguration.md)
+    [Remove-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg398786(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAVEdgeConfiguration](set-csavedgeconfiguration.md)
+    [Set-CsAVEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg412869(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsAVEdgeConnectivity](test-csavedgeconnectivity.md)
+    [Test-CsAVEdgeConnectivity](https://technet.microsoft.com/en-us/library/JJ205138(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsEdgeServer](set-csedgeserver.md)
+    [Set-CsEdgeServer](https://technet.microsoft.com/en-us/library/Gg398859(v=OCS.15))
 
 **[Other server role cmdlets in Lync Server 2013](lync-server-2013-other-server-role-cmdlets.md)**
 
   - <span></span>  
-    [Set-CsConferenceServer](set-csconferenceserver.md)
+    [Set-CsConferenceServer](https://technet.microsoft.com/en-us/library/Gg398738(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsUserServer](set-csuserserver.md)
+    [Set-CsUserServer](https://technet.microsoft.com/en-us/library/Gg413026(v=OCS.15))
 
 **[Registrar and Director cmdlets in Lync Server 2013](lync-server-2013-registrar-and-director-cmdlets.md)**
 
   - <span></span>  
-    [Set-CsDirector](set-csdirector.md)
+    [Set-CsDirector](https://technet.microsoft.com/en-us/library/Gg398565(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Reset-CsPoolRegistrarState](reset-cspoolregistrarstate.md)
+    [Reset-CsPoolRegistrarState](https://technet.microsoft.com/en-us/library/JJ619172(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsRegistrar](set-csregistrar.md)
+    [Set-CsRegistrar](https://technet.microsoft.com/en-us/library/Gg398993(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsRegistrarConfiguration](get-csregistrarconfiguration.md)
+    [Get-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398483(v=OCS.15))
 
   - <span></span>  
-    [New-CsRegistrarConfiguration](new-csregistrarconfiguration.md)
+    [New-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg425893(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRegistrarConfiguration](remove-csregistrarconfiguration.md)
+    [Remove-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398482(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRegistrarConfiguration](set-csregistrarconfiguration.md)
+    [Set-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398764(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsRegistration](test-csregistration.md)
+    [Test-CsRegistration](https://technet.microsoft.com/en-us/library/Gg412737(v=OCS.15))
 
 **[Services cmdlets in Lync Server 2013](lync-server-2013-services-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsService](get-csservice.md)
+    [Get-CsService](https://technet.microsoft.com/en-us/library/Gg413038(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWindowsService](get-cswindowsservice.md)
+    [Get-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398803(v=OCS.15))
 
   - <span></span>  
-    [Start-CsWindowsService](start-cswindowsservice.md)
+    [Start-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398561(v=OCS.15))
 
   - <span></span>  
-    [Stop-CsWindowsService](stop-cswindowsservice.md)
+    [Stop-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398426(v=OCS.15))
 
 **[Troubleshooting server roles and services cmdlets in Lync Server 2013](lync-server-2013-troubleshooting-server-roles-and-services-cmdlets.md)**
 
   - <span></span>  
-    [Get-CsAudioTestServiceApplication](get-csaudiotestserviceapplication.md)
+    [Get-CsAudioTestServiceApplication](https://technet.microsoft.com/en-us/library/Gg412984(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAudioTestServiceApplication](set-csaudiotestserviceapplication.md)
+    [Set-CsAudioTestServiceApplication](https://technet.microsoft.com/en-us/library/Gg398907(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsHealthMonitoringConfiguration](get-cshealthmonitoringconfiguration.md)
+    [Get-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398667(v=OCS.15))
 
   - <span></span>  
-    [New-CsHealthMonitoringConfiguration](new-cshealthmonitoringconfiguration.md)
+    [New-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398718(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsHealthMonitoringConfiguration](remove-cshealthmonitoringconfiguration.md)
+    [Remove-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg425794(v=OCS.15))
 
   - <span></span>  
-    [Set-CsHealthMonitoringConfiguration](set-cshealthmonitoringconfiguration.md)
+    [Set-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg425847(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDiagnosticConfiguration](get-csdiagnosticconfiguration.md)
+    [Get-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg413034(v=OCS.15))
 
   - <span></span>  
-    [New-CsDiagnosticConfiguration](new-csdiagnosticconfiguration.md)
+    [New-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg398733(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDiagnosticConfiguration](remove-csdiagnosticconfiguration.md)
+    [Remove-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg412853(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDiagnosticConfiguration](set-csdiagnosticconfiguration.md)
+    [Set-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg425734(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsDiagnosticsFilter](new-csdiagnosticsfilter.md)
+    [New-CsDiagnosticsFilter](https://technet.microsoft.com/en-us/library/Gg413009(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsDiagnosticHeaderConfiguration](get-csdiagnosticheaderconfiguration.md)
+    [Get-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg412774(v=OCS.15))
 
   - <span></span>  
-    [New-CsDiagnosticHeaderConfiguration](new-csdiagnosticheaderconfiguration.md)
+    [New-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398350(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDiagnosticHeaderConfiguration](remove-csdiagnosticheaderconfiguration.md)
+    [Remove-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398941(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDiagnosticHeaderConfiguration](set-csdiagnosticheaderconfiguration.md)
+    [Set-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg399045(v=OCS.15))
 
 **[Web server and services cmdlets in Lync Server 2013](lync-server-2013-web-server-and-services-cmdlets.md)**
 
   - <span></span>  
-    [New-CsSimpleUrl](new-cssimpleurl.md)
+    [New-CsSimpleUrl](https://technet.microsoft.com/en-us/library/Gg398180(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsSimpleUrlConfiguration](get-cssimpleurlconfiguration.md)
+    [Get-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg398392(v=OCS.15))
 
   - <span></span>  
-    [New-CsSimpleUrlConfiguration](new-cssimpleurlconfiguration.md)
+    [New-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg425813(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsSimpleUrlConfiguration](remove-cssimpleurlconfiguration.md)
+    [Remove-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg398515(v=OCS.15))
 
   - <span></span>  
-    [Set-CsSimpleUrlConfiguration](set-cssimpleurlconfiguration.md)
+    [Set-CsSimpleUrlConfiguration](https://technet.microsoft.com/en-us/library/Gg412991(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsSimpleUrlEntry](new-cssimpleurlentry.md)
+    [New-CsSimpleUrlEntry](https://technet.microsoft.com/en-us/library/Gg425902(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsWebServer](set-cswebserver.md)
+    [Set-CsWebServer](https://technet.microsoft.com/en-us/library/Gg398759(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsWebServiceConfiguration](get-cswebserviceconfiguration.md)
+    [Get-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg425751(v=OCS.15))
 
   - <span></span>  
-    [New-CsWebServiceConfiguration](new-cswebserviceconfiguration.md)
+    [New-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398440(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsWebServiceConfiguration](remove-cswebserviceconfiguration.md)
+    [Remove-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398266(v=OCS.15))
 
   - <span></span>  
-    [Set-CsWebServiceConfiguration](set-cswebserviceconfiguration.md)
+    [Set-CsWebServiceConfiguration](https://technet.microsoft.com/en-us/library/Gg398396(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsWebTrustedCACertificate](new-cswebtrustedcacertificate.md)
+    [New-CsWebTrustedCACertificate](https://technet.microsoft.com/en-us/library/Gg412746(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [New-CsKerberosAccount](new-cskerberosaccount.md)
+    [New-CsKerberosAccount](https://technet.microsoft.com/en-us/library/Gg398485(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Get-CsKerberosAccountAssignment](get-cskerberosaccountassignment.md)
+    [Get-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398526(v=OCS.15))
 
   - <span></span>  
-    [New-CsKerberosAccountAssignment](new-cskerberosaccountassignment.md)
+    [New-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398074(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsKerberosAccountAssignment](remove-cskerberosaccountassignment.md)
+    [Remove-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg413052(v=OCS.15))
 
   - <span></span>  
-    [Set-CsKerberosAccountAssignment](set-cskerberosaccountassignment.md)
+    [Set-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg398232(v=OCS.15))
 
   - <span></span>  
-    [Test-CsKerberosAccountAssignment](test-cskerberosaccountassignment.md)
+    [Test-CsKerberosAccountAssignment](https://technet.microsoft.com/en-us/library/Gg425938(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsKerberosAccountPassword](set-cskerberosaccountpassword.md)
+    [Set-CsKerberosAccountPassword](https://technet.microsoft.com/en-us/library/Gg398659(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsWebApp](test-cswebapp.md)
+  - [Test-CsWebApp](https://technet.microsoft.com/en-us/library/Hh689989(v=OCS.15))
 
-  - [Test-CsWebAppAnonymous](test-cswebappanonymous.md)
+  - [Test-CsWebAppAnonymous](https://technet.microsoft.com/en-us/library/Hh690041(v=OCS.15))
 
 </div>
 
