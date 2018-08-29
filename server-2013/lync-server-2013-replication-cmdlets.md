@@ -55,7 +55,7 @@ The following is a list of cmdlets that relate directly to managing replication:
     [Enable-CsReplica](https://technet.microsoft.com/en-us/library/Gg425965(v=OCS.15))
 
   - <span></span>  
-    [Test-CsReplica](test-csreplica.md)
+    [Test-CsReplica](https://technet.microsoft.com/en-us/library/JJ205289(v=OCS.15))
 
 <!-- end list -->
 
@@ -66,10 +66,10 @@ The following is a list of cmdlets that relate directly to managing replication:
     [New-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg399059(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUserReplicatorConfiguration](remove-csuserreplicatorconfiguration.md)
+    [Remove-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg425738(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUserReplicatorConfiguration](set-csuserreplicatorconfiguration.md)
+    [Set-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg398540(v=OCS.15))
 
 </div>
 

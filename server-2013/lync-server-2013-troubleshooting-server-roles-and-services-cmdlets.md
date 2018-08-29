@@ -50,7 +50,7 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [Get-CsAudioTestServiceApplication](https://technet.microsoft.com/en-us/library/Gg412984(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAudioTestServiceApplication](set-csaudiotestserviceapplication.md)
+    [Set-CsAudioTestServiceApplication](https://technet.microsoft.com/en-us/library/Gg398907(v=OCS.15))
 
 <!-- end list -->
 
@@ -61,10 +61,10 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [New-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg398718(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsHealthMonitoringConfiguration](remove-cshealthmonitoringconfiguration.md)
+    [Remove-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg425794(v=OCS.15))
 
   - <span></span>  
-    [Set-CsHealthMonitoringConfiguration](set-cshealthmonitoringconfiguration.md)
+    [Set-CsHealthMonitoringConfiguration](https://technet.microsoft.com/en-us/library/Gg425847(v=OCS.15))
 
 <!-- end list -->
 
@@ -75,10 +75,10 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [New-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg398733(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDiagnosticConfiguration](remove-csdiagnosticconfiguration.md)
+    [Remove-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg412853(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDiagnosticConfiguration](set-csdiagnosticconfiguration.md)
+    [Set-CsDiagnosticConfiguration](https://technet.microsoft.com/en-us/library/Gg425734(v=OCS.15))
 
 <!-- end list -->
 
@@ -94,10 +94,10 @@ The following is a list of cmdlets that relate directly to troubleshooting serve
     [New-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398350(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDiagnosticHeaderConfiguration](remove-csdiagnosticheaderconfiguration.md)
+    [Remove-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg398941(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDiagnosticHeaderConfiguration](set-csdiagnosticheaderconfiguration.md)
+    [Set-CsDiagnosticHeaderConfiguration](https://technet.microsoft.com/en-us/library/Gg399045(v=OCS.15))
 
 </div>
 

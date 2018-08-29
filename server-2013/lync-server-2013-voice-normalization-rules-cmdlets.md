@@ -43,13 +43,13 @@ The following cmdlets can be used to manage voice normalization rules.
     [New-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398240(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoiceNormalizationRule](remove-csvoicenormalizationrule.md)
+    [Remove-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398501(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoiceNormalizationRule](set-csvoicenormalizationrule.md)
+    [Set-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg398491(v=OCS.15))
 
   - <span></span>  
-    [Test-CsVoiceNormalizationRule](test-csvoicenormalizationrule.md)
+    [Test-CsVoiceNormalizationRule](https://technet.microsoft.com/en-us/library/Gg399003(v=OCS.15))
 
 <!-- end list -->
 

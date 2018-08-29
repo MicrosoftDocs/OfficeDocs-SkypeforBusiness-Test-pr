@@ -44,7 +44,7 @@ Most management tasks that apply to federation and external access can be perfor
     [Remove-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398913(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAllowedDomain](set-csalloweddomain.md)
+    [Set-CsAllowedDomain](https://technet.microsoft.com/en-us/library/Gg398931(v=OCS.15))
 
 <!-- end list -->
 
@@ -55,10 +55,10 @@ Most management tasks that apply to federation and external access can be perfor
     [New-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398822(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsBlockedDomain](remove-csblockeddomain.md)
+    [Remove-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg425832(v=OCS.15))
 
   - <span></span>  
-    [Set-CsBlockedDomain](set-csblockeddomain.md)
+    [Set-CsBlockedDomain](https://technet.microsoft.com/en-us/library/Gg398090(v=OCS.15))
 
 <!-- end list -->
 
@@ -72,10 +72,10 @@ Most management tasks that apply to federation and external access can be perfor
     [New-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg398441(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsExternalAccessPolicy](remove-csexternalaccesspolicy.md)
+    [Remove-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg399057(v=OCS.15))
 
   - <span></span>  
-    [Set-CsExternalAccessPolicy](set-csexternalaccesspolicy.md)
+    [Set-CsExternalAccessPolicy](https://technet.microsoft.com/en-us/library/Gg398916(v=OCS.15))
 
 <!-- end list -->
 
@@ -83,9 +83,9 @@ Most management tasks that apply to federation and external access can be perfor
 
   - [New-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205114(v=OCS.15))
 
-  - [Remove-CsFIPSConfiguration](remove-csfipsconfiguration.md)
+  - [Remove-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205201(v=OCS.15))
 
-  - [Set-CsFIPSConfiguration](set-csfipsconfiguration.md)
+  - [Set-CsFIPSConfiguration](https://technet.microsoft.com/en-us/library/JJ205084(v=OCS.15))
 
 <!-- end list -->
 
@@ -102,10 +102,10 @@ Most management tasks that apply to federation and external access can be perfor
     [New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsHostingProvider](remove-cshostingprovider.md)
+    [Remove-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg425809(v=OCS.15))
 
   - <span></span>  
-    [Set-CsHostingProvider](set-cshostingprovider.md)
+    [Set-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398532(v=OCS.15))
 
 <!-- end list -->
 
@@ -122,15 +122,15 @@ Most management tasks that apply to federation and external access can be perfor
     [New-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg398161(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsPublicProvider](remove-cspublicprovider.md)
+    [Remove-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg412906(v=OCS.15))
 
   - <span></span>  
-    [Set-CsPublicProvider](set-cspublicprovider.md)
+    [Set-CsPublicProvider](https://technet.microsoft.com/en-us/library/Gg413087(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsFederatedPartner](test-csfederatedpartner.md)
+    [Test-CsFederatedPartner](https://technet.microsoft.com/en-us/library/Gg398281(v=OCS.15))
 
 <!-- end list -->
 
@@ -138,19 +138,19 @@ Most management tasks that apply to federation and external access can be perfor
 
   - [New-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204631(v=OCS.15))
 
-  - [Remove-CsXmppAllowedPartner](remove-csxmppallowedpartner.md)
+  - [Remove-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ205055(v=OCS.15))
 
-  - [Set-CsXmppAllowedPartner](set-csxmppallowedpartner.md)
+  - [Set-CsXmppAllowedPartner](https://technet.microsoft.com/en-us/library/JJ204686(v=OCS.15))
 
 <!-- end list -->
 
   - [Get-CsXmppGatewayConfiguration](https://technet.microsoft.com/en-us/library/JJ204869(v=OCS.15))
 
-  - [Set-CsXmppGatewayConfiguration](set-csxmppgatewayconfiguration.md)
+  - [Set-CsXmppGatewayConfiguration](https://technet.microsoft.com/en-us/library/JJ204769(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsXmppIM](test-csxmppim.md)
+  - [Test-CsXmppIM](https://technet.microsoft.com/en-us/library/JJ205423(v=OCS.15))
 
 </div>
 

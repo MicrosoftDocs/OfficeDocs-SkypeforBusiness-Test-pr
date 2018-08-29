@@ -43,15 +43,15 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsCallParkOrbit](https://technet.microsoft.com/en-us/library/Gg398936(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsCallParkOrbit](remove-cscallparkorbit.md)
+    [Remove-CsCallParkOrbit](https://technet.microsoft.com/en-us/library/Gg412901(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCallParkOrbit](set-cscallparkorbit.md)
+    [Set-CsCallParkOrbit](https://technet.microsoft.com/en-us/library/Gg398796(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsCallParkServiceMusicOnHoldFile](set-cscallparkservicemusiconholdfile.md)
+    [Set-CsCallParkServiceMusicOnHoldFile](https://technet.microsoft.com/en-us/library/Gg412836(v=OCS.15))
 
 <!-- end list -->
 
@@ -62,10 +62,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsCpsConfiguration](https://technet.microsoft.com/en-us/library/Gg412919(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsCpsConfiguration](remove-cscpsconfiguration.md)
+    [Remove-CsCpsConfiguration](https://technet.microsoft.com/en-us/library/Gg398358(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCpsConfiguration](set-cscpsconfiguration.md)
+    [Set-CsCpsConfiguration](https://technet.microsoft.com/en-us/library/Gg412721(v=OCS.15))
 
 **[Exchange UM cmdlets in Lync Server 2013](lync-server-2013-exchange-um-cmdlets.md)**
 
@@ -82,23 +82,23 @@ The following is a list of cmdlets that deal with voice applications:
     [Remove-CsExUmContact](rehttps://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - <span></span>  
-    [Set-CsExUmContact](set-csexumcontact.md)
+    [Set-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412944(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExStorageConnectivity](test-csexstorageconnectivity.md)
+  - [Test-CsExStorageConnectivity](https://technet.microsoft.com/en-us/library/JJ204740(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExStorageNotification](test-csexstoragenotification.md)
+  - [Test-CsExStorageNotification](https://technet.microsoft.com/en-us/library/JJ205331(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExUMConnectivity](test-csexumconnectivity.md)
+  - [Test-CsExUMConnectivity](https://technet.microsoft.com/en-us/library/JJ204784(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExUMVoiceMail](test-csexumvoicemail.md)
+  - [Test-CsExUMVoiceMail](https://technet.microsoft.com/en-us/library/JJ205058(v=OCS.15))
 
 <!-- end list -->
 
@@ -112,10 +112,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398653(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsHostedVoicemailPolicy](remove-cshostedvoicemailpolicy.md)
+    [Remove-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398211(v=OCS.15))
 
   - <span></span>  
-    [Set-CsHostedVoicemailPolicy](set-cshostedvoicemailpolicy.md)
+    [Set-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg412722(v=OCS.15))
 
 **[Response Group application cmdlets in Lync Server 2013](lync-server-2013-response-group-application-cmdlets.md)**
 
@@ -126,10 +126,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg413065(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsAgentGroup](remove-csrgsagentgroup.md)
+    [Remove-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg398969(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsAgentGroup](set-csrgsagentgroup.md)
+    [Set-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg425955(v=OCS.15))
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@ The following is a list of cmdlets that deal with voice applications:
     [Move-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg398782(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsConfiguration](set-csrgsconfiguration.md)
+    [Set-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg425728(v=OCS.15))
 
 <!-- end list -->
 
@@ -177,10 +177,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398403(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsHolidaySet](remove-csrgsholidayset.md)
+    [Remove-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398521(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsHolidaySet](set-csrgsholidayset.md)
+    [Set-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398736(v=OCS.15))
 
 <!-- end list -->
 
@@ -191,10 +191,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398291(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsHoursOfBusiness](remove-csrgshoursofbusiness.md)
+    [Remove-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398568(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsHoursOfBusiness](set-csrgshoursofbusiness.md)
+    [Set-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg412929(v=OCS.15))
 
 <!-- end list -->
 
@@ -215,10 +215,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398989(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsQueue](remove-csrgsqueue.md)
+    [Remove-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398576(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsQueue](set-csrgsqueue.md)
+    [Set-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg412947(v=OCS.15))
 
 <!-- end list -->
 
@@ -234,10 +234,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398246(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsWorkflow](remove-csrgsworkflow.md)
+    [Remove-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398765(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsWorkflow](set-csrgsworkflow.md)
+    [Set-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg425845(v=OCS.15))
 
 **[Unassigned number cmdlets in Lync Server 2013](lync-server-2013-unassigned-number-cmdlets.md)**
 
@@ -248,10 +248,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398651(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUnassignedNumber](remove-csunassignednumber.md)
+    [Remove-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398209(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUnassignedNumber](set-csunassignednumber.md)
+    [Set-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg399033(v=OCS.15))
 
 <!-- end list -->
 
@@ -262,10 +262,10 @@ The following is a list of cmdlets that deal with voice applications:
     [New-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398522(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAnnouncement](remove-csannouncement.md)
+    [Remove-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg412766(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAnnouncement](set-csannouncement.md)
+    [Set-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg425752(v=OCS.15))
 
 <!-- end list -->
 

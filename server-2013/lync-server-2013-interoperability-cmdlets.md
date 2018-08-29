@@ -38,7 +38,7 @@ The following is a list of cmdlets that relate directly to configuring and manag
 
   - [Get-CsOAuthConfiguration](https://technet.microsoft.com/en-us/library/JJ205155(v=OCS.15))
 
-  - [Set-CsOAuthConfiguration](set-csoauthconfiguration.md)
+  - [Set-CsOAuthConfiguration](https://technet.microsoft.com/en-us/library/JJ204841(v=OCS.15))
 
 <!-- end list -->
 
@@ -46,9 +46,9 @@ The following is a list of cmdlets that relate directly to configuring and manag
 
   - [New-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205206(v=OCS.15))
 
-  - [Remove-CsOAuthServer](remove-csoauthserver.md)
+  - [Remove-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ205408(v=OCS.15))
 
-  - [Set-CsOAuthServer](set-csoauthserver.md)
+  - [Set-CsOAuthServer](https://technet.microsoft.com/en-us/library/JJ204896(v=OCS.15))
 
 <!-- end list -->
 
@@ -56,9 +56,9 @@ The following is a list of cmdlets that relate directly to configuring and manag
 
   - [New-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204628(v=OCS.15))
 
-  - [Remove-CsPartnerApplication](remove-cspartnerapplication.md)
+  - [Remove-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204820(v=OCS.15))
 
-  - [Set-CsPartnerApplication](set-cspartnerapplication.md)
+  - [Set-CsPartnerApplication](https://technet.microsoft.com/en-us/library/JJ204755(v=OCS.15))
 
 </div>
 

@@ -43,10 +43,10 @@ The following cmdlets can be used to manage Response Group application.
     [New-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg413065(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsAgentGroup](remove-csrgsagentgroup.md)
+    [Remove-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg398969(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsAgentGroup](set-csrgsagentgroup.md)
+    [Set-CsRgsAgentGroup](https://technet.microsoft.com/en-us/library/Gg425955(v=OCS.15))
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@ The following cmdlets can be used to manage Response Group application.
     [Move-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg398782(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsConfiguration](set-csrgsconfiguration.md)
+    [Set-CsRgsConfiguration](https://technet.microsoft.com/en-us/library/Gg425728(v=OCS.15))
 
 <!-- end list -->
 
@@ -94,10 +94,10 @@ The following cmdlets can be used to manage Response Group application.
     [New-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398403(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsHolidaySet](remove-csrgsholidayset.md)
+    [Remove-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398521(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsHolidaySet](set-csrgsholidayset.md)
+    [Set-CsRgsHolidaySet](https://technet.microsoft.com/en-us/library/Gg398736(v=OCS.15))
 
 <!-- end list -->
 
@@ -108,10 +108,10 @@ The following cmdlets can be used to manage Response Group application.
     [New-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398291(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsHoursOfBusiness](remove-csrgshoursofbusiness.md)
+    [Remove-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg398568(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsHoursOfBusiness](set-csrgshoursofbusiness.md)
+    [Set-CsRgsHoursOfBusiness](https://technet.microsoft.com/en-us/library/Gg412929(v=OCS.15))
 
 <!-- end list -->
 
@@ -132,10 +132,10 @@ The following cmdlets can be used to manage Response Group application.
     [New-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398989(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsQueue](remove-csrgsqueue.md)
+    [Remove-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg398576(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsQueue](set-csrgsqueue.md)
+    [Set-CsRgsQueue](https://technet.microsoft.com/en-us/library/Gg412947(v=OCS.15))
 
 <!-- end list -->
 
@@ -151,10 +151,10 @@ The following cmdlets can be used to manage Response Group application.
     [New-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398246(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRgsWorkflow](remove-csrgsworkflow.md)
+    [Remove-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg398765(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRgsWorkflow](set-csrgsworkflow.md)
+    [Set-CsRgsWorkflow](https://technet.microsoft.com/en-us/library/Gg425845(v=OCS.15))
 
 </div>
 

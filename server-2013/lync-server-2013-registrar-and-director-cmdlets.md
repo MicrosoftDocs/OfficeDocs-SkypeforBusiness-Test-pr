@@ -37,17 +37,17 @@ The following is a list of cmdlets that relate directly to managing Registrars a
 **Registrars and Directors**
 
   - <span></span>  
-    [Set-CsDirector](set-csdirector.md)
+    [Set-CsDirector](https://technet.microsoft.com/en-us/library/Gg398565(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Reset-CsPoolRegistrarState](reset-cspoolregistrarstate.md)
+    [Reset-CsPoolRegistrarState](https://technet.microsoft.com/en-us/library/JJ619172(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsRegistrar](set-csregistrar.md)
+    [Set-CsRegistrar](https://technet.microsoft.com/en-us/library/Gg398993(v=OCS.15))
 
 <!-- end list -->
 
@@ -58,15 +58,15 @@ The following is a list of cmdlets that relate directly to managing Registrars a
     [New-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg425893(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsRegistrarConfiguration](remove-csregistrarconfiguration.md)
+    [Remove-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398482(v=OCS.15))
 
   - <span></span>  
-    [Set-CsRegistrarConfiguration](set-csregistrarconfiguration.md)
+    [Set-CsRegistrarConfiguration](https://technet.microsoft.com/en-us/library/Gg398764(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsRegistration](test-csregistration.md)
+    [Test-CsRegistration](https://technet.microsoft.com/en-us/library/Gg412737(v=OCS.15))
 
 </div>
 

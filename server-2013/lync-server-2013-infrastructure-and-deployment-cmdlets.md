@@ -85,7 +85,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Enable-CsReplica](https://technet.microsoft.com/en-us/library/Gg425965(v=OCS.15))
 
   - <span></span>  
-    [Test-CsReplica](test-csreplica.md)
+    [Test-CsReplica](https://technet.microsoft.com/en-us/library/JJ205289(v=OCS.15))
 
 <!-- end list -->
 
@@ -96,10 +96,10 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [New-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg399059(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUserReplicatorConfiguration](remove-csuserreplicatorconfiguration.md)
+    [Remove-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg425738(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUserReplicatorConfiguration](set-csuserreplicatorconfiguration.md)
+    [Set-CsUserReplicatorConfiguration](https://technet.microsoft.com/en-us/library/Gg398540(v=OCS.15))
 
 **[Topology cmdlets jn Lync Server 2013](lync-server-2013-topology-cmdlets.md)**
 
@@ -112,7 +112,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Get-CsSite](https://technet.microsoft.com/en-us/library/Gg398185(v=OCS.15))
 
   - <span></span>  
-    [Set-CsSite](set-cssite.md)
+    [Set-CsSite](https://technet.microsoft.com/en-us/library/Gg413023(v=OCS.15))
 
 <!-- end list -->
 
@@ -126,7 +126,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Publish-CsTopology](https://technet.microsoft.com/en-us/library/Gg398953(v=OCS.15))
 
   - <span></span>  
-    [Test-CsTopology](test-cstopology.md)
+    [Test-CsTopology](https://technet.microsoft.com/en-us/library/Gg398127(v=OCS.15))
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@ Administrators will rarely need to directly call many of the infrastructure and 
     [Get-CsComputer](https://technet.microsoft.com/en-us/library/Gg425959(v=OCS.15))
 
   - <span></span>  
-    [Test-CsComputer](test-cscomputer.md)
+    [Test-CsComputer](https://technet.microsoft.com/en-us/library/Gg398162(v=OCS.15))
 
 <!-- end list -->
 
@@ -164,9 +164,9 @@ Administrators will rarely need to directly call many of the infrastructure and 
 
   - [Get-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ205087(v=OCS.15))
 
-  - [Remove-CsBackupServiceConfiguration](remove-csbackupserviceconfiguration.md)
+  - [Remove-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ204903(v=OCS.15))
 
-  - [Set-CsBackupServiceConfiguration](set-csbackupserviceconfiguration.md)
+  - [Set-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ205006(v=OCS.15))
 
 <!-- end list -->
 
@@ -210,11 +210,11 @@ Administrators will rarely need to directly call many of the infrastructure and 
 
 <!-- end list -->
 
-  - [Sync-CsUserData](sync-csuserdata.md)
+  - [Sync-CsUserData](https://technet.microsoft.com/en-us/library/JJ205242(v=OCS.15))
 
 <!-- end list -->
 
-  - [Remove-CsUserStoreBackupData](remove-csuserstorebackupdata.md)
+  - [Remove-CsUserStoreBackupData](https://technet.microsoft.com/en-us/library/JJ205003(v=OCS.15))
 
 </div>
 

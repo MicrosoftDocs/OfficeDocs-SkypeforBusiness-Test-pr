@@ -47,7 +47,7 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [Remove-CsAnalogDevice](rehttps://technet.microsoft.com/en-us/library/Gg398816(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAnalogDevice](set-csanalogdevice.md)
+    [Set-CsAnalogDevice](https://technet.microsoft.com/en-us/library/Gg412843(v=OCS.15))
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [Remove-CsCommonAreaPhone](rehttps://technet.microsoft.com/en-us/library/Gg412837(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCommonAreaPhone](set-cscommonareaphone.md)
+    [Set-CsCommonAreaPhone](https://technet.microsoft.com/en-us/library/Gg398579(v=OCS.15))
 
 <!-- end list -->
 
@@ -75,10 +75,10 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [New-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398445(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUCPhoneConfiguration](remove-csucphoneconfiguration.md)
+    [Remove-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg398249(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUCPhoneConfiguration](set-csucphoneconfiguration.md)
+    [Set-CsUCPhoneConfiguration](https://technet.microsoft.com/en-us/library/Gg413042(v=OCS.15))
 
 <!-- end list -->
 
@@ -94,10 +94,10 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [New-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg425761(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDeviceUpdateConfiguration](remove-csdeviceupdateconfiguration.md)
+    [Remove-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg425933(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDeviceUpdateConfiguration](set-csdeviceupdateconfiguration.md)
+    [Set-CsDeviceUpdateConfiguration](https://technet.microsoft.com/en-us/library/Gg398320(v=OCS.15))
 
 <!-- end list -->
 
@@ -116,18 +116,18 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [Get-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398215(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDeviceUpdateRule](remove-csdeviceupdaterule.md)
+    [Remove-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg425930(v=OCS.15))
 
   - <span></span>  
-    [Reset-CsDeviceUpdateRule](reset-csdeviceupdaterule.md)
+    [Reset-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398181(v=OCS.15))
 
   - <span></span>  
-    [Restore-CsDeviceUpdateRule](restore-csdeviceupdaterule.md)
+    [Restore-CsDeviceUpdateRule](https://technet.microsoft.com/en-us/library/Gg398305(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPhoneBootstrap](test-csphonebootstrap.md)
+    [Test-CsPhoneBootstrap](https://technet.microsoft.com/en-us/library/Gg412852(v=OCS.15))
 
 <!-- end list -->
 
@@ -138,10 +138,10 @@ The **CsDeviceUpdate** cmdlets are used to manage the Device Update Web service,
     [New-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg425899(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTestDevice](remove-cstestdevice.md)
+    [Remove-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg398790(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTestDevice](set-cstestdevice.md)
+    [Set-CsTestDevice](https://technet.microsoft.com/en-us/library/Gg398156(v=OCS.15))
 
 </div>
 

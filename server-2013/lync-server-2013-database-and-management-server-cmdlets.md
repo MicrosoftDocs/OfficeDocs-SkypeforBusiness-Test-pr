@@ -40,10 +40,10 @@ The following is a list of cmdlets that relate directly to managing databases an
     [Get-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg412814(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConfigurationStoreLocation](remove-csconfigurationstorelocation.md)
+    [Remove-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg398214(v=OCS.15))
 
   - <span></span>  
-    [Set-CsConfigurationStoreLocation](set-csconfigurationstorelocation.md)
+    [Set-CsConfigurationStoreLocation](https://technet.microsoft.com/en-us/library/Gg398258(v=OCS.15))
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@ The following is a list of cmdlets that relate directly to managing databases an
     [Install-CsDatabase](https://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
 
   - <span></span>  
-    [Test-CsDatabase](test-csdatabase.md)
+    [Test-CsDatabase](https://technet.microsoft.com/en-us/library/JJ204839(v=OCS.15))
 
   - <span></span>  
     [Uninstall-CsDatabase](unhttps://technet.microsoft.com/en-us/library/Gg399044(v=OCS.15))
@@ -76,12 +76,12 @@ The following is a list of cmdlets that relate directly to managing databases an
     [Get-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg398831(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUserDatabaseState](set-csuserdatabasestate.md)
+    [Set-CsUserDatabaseState](https://technet.microsoft.com/en-us/library/Gg412973(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Update-CsUserDatabase](update-csuserdatabase.md)
+    [Update-CsUserDatabase](https://technet.microsoft.com/en-us/library/Gg398682(v=OCS.15))
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@ The following is a list of cmdlets that relate directly to managing databases an
     [Move-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg412921(v=OCS.15))
 
   - <span></span>  
-    [Set-CsManagementServer](set-csmanagementserver.md)
+    [Set-CsManagementServer](https://technet.microsoft.com/en-us/library/Gg398465(v=OCS.15))
 
 <!-- end list -->
 

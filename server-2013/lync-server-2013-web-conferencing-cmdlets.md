@@ -32,7 +32,7 @@ Conferencing and online meetings are important elements in Microsoft Lync Server
 
 ## Web Conferencing Cmdlets
 
-The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=OCS.15)) and [Set-CsClientPolicy](set-csclientpolicy.md) cmdlets provide additional ways to configure and manage Lync Server 2013.
+The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=OCS.15)) and [Set-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg398300(v=OCS.15)) cmdlets provide additional ways to configure and manage Lync Server 2013.
 
 **Web Conferencing**
 
@@ -40,15 +40,15 @@ The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=
     [Get-CsConferenceDisclaimer](https://technet.microsoft.com/en-us/library/Gg425714(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConferenceDisclaimer](remove-csconferencedisclaimer.md)
+    [Remove-CsConferenceDisclaimer](https://technet.microsoft.com/en-us/library/Gg398243(v=OCS.15))
 
   - <span></span>  
-    [Set-CsConferenceDisclaimer](set-csconferencedisclaimer.md)
+    [Set-CsConferenceDisclaimer](https://technet.microsoft.com/en-us/library/Gg398776(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsConferenceServer](set-csconferenceserver.md)
+    [Set-CsConferenceServer](https://technet.microsoft.com/en-us/library/Gg398738(v=OCS.15))
 
 <!-- end list -->
 
@@ -59,10 +59,10 @@ The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=
     [New-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412967(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConferencingConfiguration](remove-csconferencingconfiguration.md)
+    [Remove-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412767(v=OCS.15))
 
   - <span></span>  
-    [Set-CsConferencingConfiguration](set-csconferencingconfiguration.md)
+    [Set-CsConferencingConfiguration](https://technet.microsoft.com/en-us/library/Gg412969(v=OCS.15))
 
 <!-- end list -->
 
@@ -76,10 +76,10 @@ The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=
     [New-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg413019(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsConferencingPolicy](remove-csconferencingpolicy.md)
+    [Remove-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg398728(v=OCS.15))
 
   - <span></span>  
-    [Set-CsConferencingPolicy](set-csconferencingpolicy.md)
+    [Set-CsConferencingPolicy](https://technet.microsoft.com/en-us/library/Gg425788(v=OCS.15))
 
 <!-- end list -->
 
@@ -90,10 +90,10 @@ The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=
     [New-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg398065(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsMeetingConfiguration](remove-csmeetingconfiguration.md)
+    [Remove-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg412775(v=OCS.15))
 
   - <span></span>  
-    [Set-CsMeetingConfiguration](set-csmeetingconfiguration.md)
+    [Set-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg398648(v=OCS.15))
 
 <!-- end list -->
 
@@ -105,27 +105,27 @@ The [New-CsClientPolicy](https://technet.microsoft.com/en-us/library/Gg425949(v=
 
   - [Move-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204889(v=OCS.15))
 
-  - [Set-CsMeetingRoom](set-csmeetingroom.md)
+  - [Set-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204831(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsASConference](test-csasconference.md)
+    [Test-CsASConference](https://technet.microsoft.com/en-us/library/JJ205227(v=OCS.15))
 
   - <span></span>  
-    [Test-CsAVConference](test-csavconference.md)
+    [Test-CsAVConference](https://technet.microsoft.com/en-us/library/Gg412749(v=OCS.15))
 
   - <span></span>  
-    [Test-CsDataConference](test-csdataconference.md)
+    [Test-CsDataConference](https://technet.microsoft.com/en-us/library/JJ205219(v=OCS.15))
 
   - <span></span>  
-    [Test-CsWebApp](test-cswebapp.md)
+    [Test-CsWebApp](https://technet.microsoft.com/en-us/library/Hh689989(v=OCS.15))
 
   - <span></span>  
-    [Test-CsWebAppAnonymous](test-cswebappanonymous.md)
+    [Test-CsWebAppAnonymous](https://technet.microsoft.com/en-us/library/Hh690041(v=OCS.15))
 
   - <span></span>  
-    [Test-CsWebScheduler](test-cswebscheduler.md)
+    [Test-CsWebScheduler](https://technet.microsoft.com/en-us/library/JJ204829(v=OCS.15))
 
 </div>
 

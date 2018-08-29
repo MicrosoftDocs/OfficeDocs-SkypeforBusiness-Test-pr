@@ -59,7 +59,7 @@ The [Move-CsLegacyUser](https://technet.microsoft.com/en-us/library/Gg413025(v=O
 
   - [Import-CsUserData](https://technet.microsoft.com/en-us/library/JJ205373(v=OCS.15))
 
-  - [Update-CsUserData](update-csuserdata.md)
+  - [Update-CsUserData](https://technet.microsoft.com/en-us/library/JJ205358(v=OCS.15))
 
 <div>
 

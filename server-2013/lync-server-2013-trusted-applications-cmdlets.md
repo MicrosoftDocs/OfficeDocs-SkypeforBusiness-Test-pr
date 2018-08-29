@@ -43,10 +43,10 @@ Use the following cmdlets to manage trusted applications.
     [New-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg398259(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplication](remove-cstrustedapplication.md)
+    [Remove-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg398176(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrustedApplication](set-cstrustedapplication.md)
+    [Set-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg425840(v=OCS.15))
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@ Use the following cmdlets to manage trusted applications.
     [New-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg398405(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplicationComputer](remove-cstrustedapplicationcomputer.md)
+    [Remove-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg398838(v=OCS.15))
 
 <!-- end list -->
 
@@ -68,10 +68,10 @@ Use the following cmdlets to manage trusted applications.
     [New-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398594(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplicationEndpoint](remove-cstrustedapplicationendpoint.md)
+    [Remove-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398837(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrustedApplicationEndpoint](set-cstrustedapplicationendpoint.md)
+    [Set-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398509(v=OCS.15))
 
 <!-- end list -->
 
@@ -82,10 +82,10 @@ Use the following cmdlets to manage trusted applications.
     [New-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg425804(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplicationPool](remove-cstrustedapplicationpool.md)
+    [Remove-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg398750(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrustedApplicationPool](set-cstrustedapplicationpool.md)
+    [Set-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg398187(v=OCS.15))
 
 </div>
 

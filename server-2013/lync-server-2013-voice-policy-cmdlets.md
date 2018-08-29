@@ -46,13 +46,13 @@ The following cmdlets can be used to manage voice policies and dial plans for En
     [New-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg425860(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsDialPlan](remove-csdialplan.md)
+    [Remove-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg398791(v=OCS.15))
 
   - <span></span>  
-    [Set-CsDialPlan](set-csdialplan.md)
+    [Set-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg398644(v=OCS.15))
 
   - <span></span>  
-    [Test-CsDialPlan](test-csdialplan.md)
+    [Test-CsDialPlan](https://technet.microsoft.com/en-us/library/Gg399024(v=OCS.15))
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ The following cmdlets can be used to manage voice policies and dial plans for En
     [Get-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg412734(v=OCS.15))
 
   - <span></span>  
-    [Set-CsPstnUsage](set-cspstnusage.md)
+    [Set-CsPstnUsage](https://technet.microsoft.com/en-us/library/Gg399069(v=OCS.15))
 
 <!-- end list -->
 
@@ -74,13 +74,13 @@ The following cmdlets can be used to manage voice policies and dial plans for En
     [New-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg425856(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoicePolicy](remove-csvoicepolicy.md)
+    [Remove-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398309(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoicePolicy](set-csvoicepolicy.md)
+    [Set-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg399021(v=OCS.15))
 
   - <span></span>  
-    [Test-CsVoicePolicy](test-csvoicepolicy.md)
+    [Test-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398310(v=OCS.15))
 
 </div>
 

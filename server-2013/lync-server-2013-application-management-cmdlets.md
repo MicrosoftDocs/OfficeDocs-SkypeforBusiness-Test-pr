@@ -45,7 +45,7 @@ Use the cmdlets in these categories to manage applications.
 **[Application server and services cmdlets in Lync Server 2013](lync-server-2013-application-server-and-services-cmdlets.md)**
 
   - <span></span>  
-    [Set-CsApplicationServer](set-csapplicationserver.md)
+    [Set-CsApplicationServer](https://technet.microsoft.com/en-us/library/Gg398562(v=OCS.15))
 
 <!-- end list -->
 
@@ -56,10 +56,10 @@ Use the cmdlets in these categories to manage applications.
     [New-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg398096(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsServerApplication](remove-csserverapplication.md)
+    [Remove-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg398366(v=OCS.15))
 
   - <span></span>  
-    [Set-CsServerApplication](set-csserverapplication.md)
+    [Set-CsServerApplication](https://technet.microsoft.com/en-us/library/Gg412850(v=OCS.15))
 
 **[Trusted applications cmdlets in Lync Server 2013](lync-server-2013-trusted-applications-cmdlets.md)**
 
@@ -70,10 +70,10 @@ Use the cmdlets in these categories to manage applications.
     [New-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg398259(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplication](remove-cstrustedapplication.md)
+    [Remove-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg398176(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrustedApplication](set-cstrustedapplication.md)
+    [Set-CsTrustedApplication](https://technet.microsoft.com/en-us/library/Gg425840(v=OCS.15))
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@ Use the cmdlets in these categories to manage applications.
     [New-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg398405(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplicationComputer](remove-cstrustedapplicationcomputer.md)
+    [Remove-CsTrustedApplicationComputer](https://technet.microsoft.com/en-us/library/Gg398838(v=OCS.15))
 
 <!-- end list -->
 
@@ -95,10 +95,10 @@ Use the cmdlets in these categories to manage applications.
     [New-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398594(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplicationEndpoint](remove-cstrustedapplicationendpoint.md)
+    [Remove-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398837(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrustedApplicationEndpoint](set-cstrustedapplicationendpoint.md)
+    [Set-CsTrustedApplicationEndpoint](https://technet.microsoft.com/en-us/library/Gg398509(v=OCS.15))
 
 <!-- end list -->
 
@@ -109,10 +109,10 @@ Use the cmdlets in these categories to manage applications.
     [New-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg425804(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrustedApplicationPool](remove-cstrustedapplicationpool.md)
+    [Remove-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg398750(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrustedApplicationPool](set-cstrustedapplicationpool.md)
+    [Set-CsTrustedApplicationPool](https://technet.microsoft.com/en-us/library/Gg398187(v=OCS.15))
 
 </div>
 

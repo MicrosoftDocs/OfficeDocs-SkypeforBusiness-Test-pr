@@ -43,10 +43,10 @@ The following cmdlets can be used to manage unassigned numbers.
     [New-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398651(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUnassignedNumber](remove-csunassignednumber.md)
+    [Remove-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg398209(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUnassignedNumber](set-csunassignednumber.md)
+    [Set-CsUnassignedNumber](https://technet.microsoft.com/en-us/library/Gg399033(v=OCS.15))
 
 <!-- end list -->
 
@@ -57,10 +57,10 @@ The following cmdlets can be used to manage unassigned numbers.
     [New-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg398522(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsAnnouncement](remove-csannouncement.md)
+    [Remove-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg412766(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAnnouncement](set-csannouncement.md)
+    [Set-CsAnnouncement](https://technet.microsoft.com/en-us/library/Gg425752(v=OCS.15))
 
 <!-- end list -->
 

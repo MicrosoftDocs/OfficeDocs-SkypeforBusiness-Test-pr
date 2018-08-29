@@ -36,7 +36,7 @@ To provide your Lync Server 2013 users with voice mail capabilities on hosted Ex
 
 For details, see the Lync Server Management Shell documentation for the following cmdlets:
 
-  - [Set-CsAccessEdgeConfiguration](set-csaccessedgeconfiguration.md)
+  - [Set-CsAccessEdgeConfiguration](https://technet.microsoft.com/en-us/library/Gg413017(v=OCS.15))
 
   - [New-CsHostingProvider](https://technet.microsoft.com/en-us/library/Gg398490(v=OCS.15))
 

@@ -46,12 +46,12 @@ You cannot configure the Address Book Server settings in Lync Server Control Pan
     [Remove-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg398934(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAddressBookConfiguration](set-csaddressbookconfiguration.md)
+    [Set-CsAddressBookConfiguration](https://technet.microsoft.com/en-us/library/Gg412784(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Update-CsAddressBook](update-csaddressbook.md)
+    [Update-CsAddressBook](https://technet.microsoft.com/en-us/library/Gg398194(v=OCS.15))
 
 <!-- end list -->
 
@@ -61,12 +61,12 @@ You cannot configure the Address Book Server settings in Lync Server Control Pan
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsAddressBookService](test-csaddressbookservice.md)
+    [Test-CsAddressBookService](https://technet.microsoft.com/en-us/library/Gg398661(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsAddressBookWebQuery](test-csaddressbookwebquery.md)
+    [Test-CsAddressBookWebQuery](https://technet.microsoft.com/en-us/library/Gg398773(v=OCS.15))
 
 </div>
 

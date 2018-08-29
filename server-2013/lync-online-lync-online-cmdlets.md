@@ -54,15 +54,15 @@ The following cmdlets can be used only with Lync Online:
 
   - [New-CsEdgeDomainPattern](https://technet.microsoft.com/en-us/library/JJ994040(v=OCS.15))
 
-  - [Set-CsTenantFederationConfiguration](set-cstenantfederationconfiguration.md)
+  - [Set-CsTenantFederationConfiguration](https://technet.microsoft.com/en-us/library/JJ994080(v=OCS.15))
 
-  - [Set-CsTenantHybridConfiguration](set-cstenanthybridconfiguration.md)
+  - [Set-CsTenantHybridConfiguration](https://technet.microsoft.com/en-us/library/JJ994046(v=OCS.15))
 
-  - [Set-CsTenantPublicProvider](set-cstenantpublicprovider.md)
+  - [Set-CsTenantPublicProvider](https://technet.microsoft.com/en-us/library/JJ994047(v=OCS.15))
 
-  - [Update-CsTenantMeetingUrl](update-cstenantmeetingurl.md)
+  - [Update-CsTenantMeetingUrl](https://technet.microsoft.com/en-us/library/Dn424754(v=OCS.15))
 
-For information on how to configure your computer to use Windows PowerShell to manage with Lync Online see the help topic [Using Windows PowerShell to Manage Lync Online](skype-for-business-online-using-windows-powershell-to-manage-your-tenant.md).
+For information on how to configure your computer to use Windows PowerShell to manage with Lync Online see the help topic [Using Windows PowerShell to Manage Lync Online](https://technet.microsoft.com/en-us/library/Dn362831(v=OCS.15)).
 
 </div>
 
@@ -116,23 +116,23 @@ These cmdlets can be used either with Lync Online or with the on-premises versio
 
   - [Remove-CsExUmContact](rehttps://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
-  - [Remove-CsUserAcp](remove-csuseracp.md)
+  - [Remove-CsUserAcp](https://technet.microsoft.com/en-us/library/Gg398982(v=OCS.15))
 
-  - [Remove-CsVoicePolicy](remove-csvoicepolicy.md)
+  - [Remove-CsVoicePolicy](https://technet.microsoft.com/en-us/library/Gg398309(v=OCS.15))
 
-  - [Set-CsExUmContact](set-csexumcontact.md)
+  - [Set-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412944(v=OCS.15))
 
-  - [Set-CsMeetingConfiguration](set-csmeetingconfiguration.md)
+  - [Set-CsMeetingConfiguration](https://technet.microsoft.com/en-us/library/Gg398648(v=OCS.15))
 
-  - [Set-CsMeetingRoom](set-csmeetingroom.md)
+  - [Set-CsMeetingRoom](https://technet.microsoft.com/en-us/library/JJ204831(v=OCS.15))
 
-  - [Set-CsPrivacyConfiguration](set-csprivacyconfiguration.md)
+  - [Set-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg398484(v=OCS.15))
 
-  - [Set-CsPushNotificationConfiguration](set-cspushnotificationconfiguration.md)
+  - [Set-CsPushNotificationConfiguration](https://technet.microsoft.com/en-us/library/Hh690013(v=OCS.15))
 
-  - [Set-CsUser](set-csuser.md)
+  - [Set-CsUser](https://technet.microsoft.com/en-us/library/Gg398510(v=OCS.15))
 
-  - [Set-CsUserAcp](set-csuseracp.md)
+  - [Set-CsUserAcp](https://technet.microsoft.com/en-us/library/Gg413018(v=OCS.15))
 
 </div>
 

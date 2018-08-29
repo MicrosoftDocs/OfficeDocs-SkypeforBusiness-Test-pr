@@ -49,10 +49,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [New-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398471(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsArchivingConfiguration](remove-csarchivingconfiguration.md)
+    [Remove-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg398951(v=OCS.15))
 
   - <span></span>  
-    [Set-CsArchivingConfiguration](set-csarchivingconfiguration.md)
+    [Set-CsArchivingConfiguration](https://technet.microsoft.com/en-us/library/Gg413030(v=OCS.15))
 
 <!-- end list -->
 
@@ -76,15 +76,15 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [New-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg399032(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsArchivingPolicy](remove-csarchivingpolicy.md)
+    [Remove-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg425924(v=OCS.15))
 
   - <span></span>  
-    [Set-CsArchivingPolicy](set-csarchivingpolicy.md)
+    [Set-CsArchivingPolicy](https://technet.microsoft.com/en-us/library/Gg398294(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsArchivingServer](set-csarchivingserver.md)
+    [Set-CsArchivingServer](https://technet.microsoft.com/en-us/library/Gg398923(v=OCS.15))
 
 <!-- end list -->
 
@@ -95,15 +95,15 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [New-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg399018(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsCdrConfiguration](remove-cscdrconfiguration.md)
+    [Remove-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398451(v=OCS.15))
 
   - <span></span>  
-    [Set-CsCdrConfiguration](set-cscdrconfiguration.md)
+    [Set-CsCdrConfiguration](https://technet.microsoft.com/en-us/library/Gg398774(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsMonitoringServer](set-csmonitoringserver.md)
+    [Set-CsMonitoringServer](https://technet.microsoft.com/en-us/library/Gg425776(v=OCS.15))
 
 <!-- end list -->
 
@@ -114,10 +114,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [New-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398325(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsQoEConfiguration](remove-csqoeconfiguration.md)
+    [Remove-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg425879(v=OCS.15))
 
   - <span></span>  
-    [Set-CsQoEConfiguration](set-csqoeconfiguration.md)
+    [Set-CsQoEConfiguration](https://technet.microsoft.com/en-us/library/Gg398245(v=OCS.15))
 
 [Invoke-CsCdrDatabasePurge](https://technet.microsoft.com/en-us/library/JJ205113(v=OCS.15))
 
@@ -138,10 +138,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [New-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204787(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsReportingConfiguration](remove-csreportingconfiguration.md)
+    [Remove-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ204711(v=OCS.15))
 
   - <span></span>  
-    [Set-CsReportingConfiguration](set-csreportingconfiguration.md)
+    [Set-CsReportingConfiguration](https://technet.microsoft.com/en-us/library/JJ205075(v=OCS.15))
 
 <!-- end list -->
 
@@ -149,10 +149,10 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [Get-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204759(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTestUserCredential](remove-cstestusercredential.md)
+    [Remove-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ204870(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTestUserCredential](set-cstestusercredential.md)
+    [Set-CsTestUserCredential](https://technet.microsoft.com/en-us/library/JJ205341(v=OCS.15))
 
 <!-- end list -->
 
@@ -163,13 +163,13 @@ The following is a list of cmdlets that relate directly to managing archiving an
     [New-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ205254(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsWatcherNodeConfiguration](remove-cswatchernodeconfiguration.md)
+    [Remove-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204926(v=OCS.15))
 
   - <span></span>  
-    [Set-CsWatcherNodeConfiguration](set-cswatchernodeconfiguration.md)
+    [Set-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204620(v=OCS.15))
 
   - <span></span>  
-    [Test-CsWatcherNodeConfiguration](test-cswatchernodeconfiguration.md)
+    [Test-CsWatcherNodeConfiguration](https://technet.microsoft.com/en-us/library/JJ204652(v=OCS.15))
 
 <!-- end list -->
 

@@ -44,10 +44,10 @@ The configure IM and presence, use the following cmdlets:
     [New-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg412747(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsPresencePolicy](remove-cspresencepolicy.md)
+    [Remove-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg399070(v=OCS.15))
 
   - <span></span>  
-    [Set-CsPresencePolicy](set-cspresencepolicy.md)
+    [Set-CsPresencePolicy](https://technet.microsoft.com/en-us/library/Gg425782(v=OCS.15))
 
 <!-- end list -->
 
@@ -55,9 +55,9 @@ The configure IM and presence, use the following cmdlets:
 
   - [New-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ204895(v=OCS.15))
 
-  - [Remove-CsPresenceProvider](remove-cspresenceprovider.md)
+  - [Remove-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ205036(v=OCS.15))
 
-  - [Set-CsPresenceProvider](set-cspresenceprovider.md)
+  - [Set-CsPresenceProvider](https://technet.microsoft.com/en-us/library/JJ204833(v=OCS.15))
 
 <!-- end list -->
 
@@ -68,15 +68,15 @@ The configure IM and presence, use the following cmdlets:
     [New-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg398807(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsPrivacyConfiguration](remove-csprivacyconfiguration.md)
+    [Remove-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg425821(v=OCS.15))
 
   - <span></span>  
-    [Set-CsPrivacyConfiguration](set-csprivacyconfiguration.md)
+    [Set-CsPrivacyConfiguration](https://technet.microsoft.com/en-us/library/Gg398484(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsUserServer](set-csuserserver.md)
+    [Set-CsUserServer](https://technet.microsoft.com/en-us/library/Gg413026(v=OCS.15))
 
 <!-- end list -->
 
@@ -87,10 +87,10 @@ The configure IM and presence, use the following cmdlets:
     [New-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg412926(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsUserServicesConfiguration](remove-csuserservicesconfiguration.md)
+    [Remove-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg398722(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUserServicesConfiguration](set-csuserservicesconfiguration.md)
+    [Set-CsUserServicesConfiguration](https://technet.microsoft.com/en-us/library/Gg398340(v=OCS.15))
 
 <!-- end list -->
 
@@ -101,10 +101,10 @@ The configure IM and presence, use the following cmdlets:
     [New-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg425897(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsFileTransferFilterConfiguration](remove-csfiletransferfilterconfiguration.md)
+    [Remove-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg413064(v=OCS.15))
 
   - <span></span>  
-    [Set-CsFileTransferFilterConfiguration](set-csfiletransferfilterconfiguration.md)
+    [Set-CsFileTransferFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg425736(v=OCS.15))
 
 <!-- end list -->
 
@@ -115,35 +115,35 @@ The configure IM and presence, use the following cmdlets:
     [New-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398244(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsImFilterConfiguration](remove-csimfilterconfiguration.md)
+    [Remove-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg398171(v=OCS.15))
 
   - <span></span>  
-    [Set-CsImFilterConfiguration](set-csimfilterconfiguration.md)
+    [Set-CsImFilterConfiguration](https://technet.microsoft.com/en-us/library/Gg412960(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsGroupExpansion](test-csgroupexpansion.md)
+    [Test-CsGroupExpansion](https://technet.microsoft.com/en-us/library/Gg399009(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsGroupIM](test-csgroupim.md)
+    [Test-CsGroupIM](https://technet.microsoft.com/en-us/library/Gg398273(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsIM](test-csim.md)
+    [Test-CsIM](https://technet.microsoft.com/en-us/library/Gg425802(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsP2PAV](test-csp2pav.md)
+    [Test-CsP2PAV](https://technet.microsoft.com/en-us/library/Gg412821(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPresence](test-cspresence.md)
+    [Test-CsPresence](https://technet.microsoft.com/en-us/library/Gg398148(v=OCS.15))
 
 </div>
 

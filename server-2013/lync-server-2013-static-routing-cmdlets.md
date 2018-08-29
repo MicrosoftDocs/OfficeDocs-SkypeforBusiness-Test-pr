@@ -43,10 +43,10 @@ Unless otherwise instructed by Microsoft support personnel, static routes config
     [New-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg413041(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsSipResponseCodeTranslationRule](remove-cssipresponsecodetranslationrule.md)
+    [Remove-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg412932(v=OCS.15))
 
   - <span></span>  
-    [Set-CsSipResponseCodeTranslationRule](set-cssipresponsecodetranslationrule.md)
+    [Set-CsSipResponseCodeTranslationRule](https://technet.microsoft.com/en-us/library/Gg425895(v=OCS.15))
 
 <!-- end list -->
 
@@ -62,10 +62,10 @@ Unless otherwise instructed by Microsoft support personnel, static routes config
     [New-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425811(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsStaticRoutingConfiguration](remove-csstaticroutingconfiguration.md)
+    [Remove-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398668(v=OCS.15))
 
   - <span></span>  
-    [Set-CsStaticRoutingConfiguration](set-csstaticroutingconfiguration.md)
+    [Set-CsStaticRoutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398724(v=OCS.15))
 
 <!-- end list -->
 

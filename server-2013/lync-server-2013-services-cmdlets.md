@@ -45,10 +45,10 @@ The following is a list of cmdlets that relate directly to managing services:
     [Get-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398803(v=OCS.15))
 
   - <span></span>  
-    [Start-CsWindowsService](start-cswindowsservice.md)
+    [Start-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398561(v=OCS.15))
 
   - <span></span>  
-    [Stop-CsWindowsService](stop-cswindowsservice.md)
+    [Stop-CsWindowsService](https://technet.microsoft.com/en-us/library/Gg398426(v=OCS.15))
 
 </div>
 

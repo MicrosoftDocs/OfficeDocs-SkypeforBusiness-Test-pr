@@ -36,7 +36,7 @@ Use the following cmdlets for trunk configuration.
 
 **Trunking Configuration**
 
-  - [Test-CsInterTrunkRouting](test-csintertrunkrouting.md)
+  - [Test-CsInterTrunkRouting](https://technet.microsoft.com/en-us/library/JJ204741(v=OCS.15))
 
 <!-- end list -->
 
@@ -44,9 +44,9 @@ Use the following cmdlets for trunk configuration.
 
   - [New-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205097(v=OCS.15))
 
-  - [Remove-CsOutboundCallingNumberTranslationRule](remove-csoutboundcallingnumbertranslationrule.md)
+  - [Remove-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ204836(v=OCS.15))
 
-  - [Set-CsOutboundCallingNumberTranslationRule](set-csoutboundcallingnumbertranslationrule.md)
+  - [Set-CsOutboundCallingNumberTranslationRule](https://technet.microsoft.com/en-us/library/JJ205400(v=OCS.15))
 
 <!-- end list -->
 
@@ -57,10 +57,10 @@ Use the following cmdlets for trunk configuration.
     [New-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg412803(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsOutboundTranslationRule](remove-csoutboundtranslationrule.md)
+    [Remove-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg398556(v=OCS.15))
 
   - <span></span>  
-    [Set-CsOutboundTranslationRule](set-csoutboundtranslationrule.md)
+    [Set-CsOutboundTranslationRule](https://technet.microsoft.com/en-us/library/Gg413073(v=OCS.15))
 
 <!-- end list -->
 
@@ -75,13 +75,13 @@ Use the following cmdlets for trunk configuration.
     [New-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg413021(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsTrunkConfiguration](remove-cstrunkconfiguration.md)
+    [Remove-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg425943(v=OCS.15))
 
   - <span></span>  
-    [Set-CsTrunkConfiguration](set-cstrunkconfiguration.md)
+    [Set-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398238(v=OCS.15))
 
   - <span></span>  
-    [Test-CsTrunkConfiguration](test-cstrunkconfiguration.md)
+    [Test-CsTrunkConfiguration](https://technet.microsoft.com/en-us/library/Gg398137(v=OCS.15))
 
 <!-- end list -->
 

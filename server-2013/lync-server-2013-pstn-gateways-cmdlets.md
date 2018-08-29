@@ -32,27 +32,27 @@ PSTN gateways enable your Enterprise Voice users to make phone calls to, and rec
 
 ## PSTN Gateways Cmdlets
 
-The [Test-CsPstnOutboundCall](test-cspstnoutboundcall.md) and [Test-CsPstnPeerToPeerCall](test-cspstnpeertopeercall.md) cmdlets enable you to verify that users are able to make call over the PSTN network.
+The [Test-CsPstnOutboundCall](https://technet.microsoft.com/en-us/library/Gg398207(v=OCS.15)) and [Test-CsPstnPeerToPeerCall](https://technet.microsoft.com/en-us/library/Gg398662(v=OCS.15)) cmdlets enable you to verify that users are able to make call over the PSTN network.
 
 **PSTN Gateways**
 
   - <span></span>  
-    [Set-CsPstnGateway](set-cspstngateway.md)
+    [Set-CsPstnGateway](https://technet.microsoft.com/en-us/library/Gg398408(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPstnOutboundCall](test-cspstnoutboundcall.md)
+    [Test-CsPstnOutboundCall](https://technet.microsoft.com/en-us/library/Gg398207(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Test-CsPstnPeerToPeerCall](test-cspstnpeertopeercall.md)
+    [Test-CsPstnPeerToPeerCall](https://technet.microsoft.com/en-us/library/Gg398662(v=OCS.15))
 
 <!-- end list -->
 
   - <span></span>  
-    [Set-CsMediationServer](set-csmediationserver.md)
+    [Set-CsMediationServer](https://technet.microsoft.com/en-us/library/Gg398213(v=OCS.15))
 
 </div>
 

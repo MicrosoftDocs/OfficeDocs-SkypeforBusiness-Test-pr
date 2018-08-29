@@ -38,9 +38,9 @@ The following is a list of cmdlets that relate directly to backing up and config
 
   - [Get-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ205087(v=OCS.15))
 
-  - [Remove-CsBackupServiceConfiguration](remove-csbackupserviceconfiguration.md)
+  - [Remove-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ204903(v=OCS.15))
 
-  - [Set-CsBackupServiceConfiguration](set-csbackupserviceconfiguration.md)
+  - [Set-CsBackupServiceConfiguration](https://technet.microsoft.com/en-us/library/JJ205006(v=OCS.15))
 
 <!-- end list -->
 
@@ -84,11 +84,11 @@ The following is a list of cmdlets that relate directly to backing up and config
 
 <!-- end list -->
 
-  - [Sync-CsUserData](sync-csuserdata.md)
+  - [Sync-CsUserData](https://technet.microsoft.com/en-us/library/JJ205242(v=OCS.15))
 
 <!-- end list -->
 
-  - [Remove-CsUserStoreBackupData](remove-csuserstorebackupdata.md)
+  - [Remove-CsUserStoreBackupData](https://technet.microsoft.com/en-us/library/JJ205003(v=OCS.15))
 
 </div>
 

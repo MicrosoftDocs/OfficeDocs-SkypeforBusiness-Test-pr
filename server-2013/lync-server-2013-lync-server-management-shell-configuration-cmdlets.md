@@ -38,7 +38,7 @@ Use these cmdlets to set certain custom properties of the Lync Server Management
     [Get-CsUICulture](https://technet.microsoft.com/en-us/library/Gg412900(v=OCS.15))
 
   - <span></span>  
-    [Set-CsUICulture](set-csuiculture.md)
+    [Set-CsUICulture](https://technet.microsoft.com/en-us/library/Gg398354(v=OCS.15))
 
 <!-- end list -->
 
@@ -46,10 +46,10 @@ Use these cmdlets to set certain custom properties of the Lync Server Management
     [Get-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg412849(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsManagementConnection](remove-csmanagementconnection.md)
+    [Remove-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg425803(v=OCS.15))
 
   - <span></span>  
-    [Set-CsManagementConnection](set-csmanagementconnection.md)
+    [Set-CsManagementConnection](https://technet.microsoft.com/en-us/library/Gg413045(v=OCS.15))
 
 </div>
 

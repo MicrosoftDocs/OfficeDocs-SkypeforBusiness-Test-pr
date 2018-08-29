@@ -49,23 +49,23 @@ The following cmdlets can be used to manage Exchange UM
     [Remove-CsExUmContact](rehttps://technet.microsoft.com/en-us/library/Gg425842(v=OCS.15))
 
   - <span></span>  
-    [Set-CsExUmContact](set-csexumcontact.md)
+    [Set-CsExUmContact](https://technet.microsoft.com/en-us/library/Gg412944(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExStorageConnectivity](test-csexstorageconnectivity.md)
+  - [Test-CsExStorageConnectivity](https://technet.microsoft.com/en-us/library/JJ204740(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExStorageNotification](test-csexstoragenotification.md)
+  - [Test-CsExStorageNotification](https://technet.microsoft.com/en-us/library/JJ205331(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExUMConnectivity](test-csexumconnectivity.md)
+  - [Test-CsExUMConnectivity](https://technet.microsoft.com/en-us/library/JJ204784(v=OCS.15))
 
 <!-- end list -->
 
-  - [Test-CsExUMVoiceMail](test-csexumvoicemail.md)
+  - [Test-CsExUMVoiceMail](https://technet.microsoft.com/en-us/library/JJ205058(v=OCS.15))
 
 <!-- end list -->
 
@@ -79,10 +79,10 @@ The following cmdlets can be used to manage Exchange UM
     [New-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398653(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsHostedVoicemailPolicy](remove-cshostedvoicemailpolicy.md)
+    [Remove-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg398211(v=OCS.15))
 
   - <span></span>  
-    [Set-CsHostedVoicemailPolicy](set-cshostedvoicemailpolicy.md)
+    [Set-CsHostedVoicemailPolicy](https://technet.microsoft.com/en-us/library/Gg412722(v=OCS.15))
 
 <!-- end list -->
 
@@ -93,10 +93,10 @@ The following cmdlets can be used to manage Exchange UM
     [New-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg425849(v=OCS.15))
 
   - <span></span>  
-    [Remove-CsVoicemailReroutingConfiguration](remove-csvoicemailreroutingconfiguration.md)
+    [Remove-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg398573(v=OCS.15))
 
   - <span></span>  
-    [Set-CsVoicemailReroutingConfiguration](set-csvoicemailreroutingconfiguration.md)
+    [Set-CsVoicemailReroutingConfiguration](https://technet.microsoft.com/en-us/library/Gg412948(v=OCS.15))
 
 </div>
 

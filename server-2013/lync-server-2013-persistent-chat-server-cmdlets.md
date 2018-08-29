@@ -40,7 +40,7 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
 <!-- end list -->
 
-  - [Set-CsPersistentChatActiveServer](set-cspersistentchatactiveserver.md)
+  - [Set-CsPersistentChatActiveServer](https://technet.microsoft.com/en-us/library/JJ205065(v=OCS.15))
 
 <!-- end list -->
 
@@ -48,9 +48,9 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatAddin](https://technet.microsoft.com/en-us/library/JJ204641(v=OCS.15))
 
-  - [Remove-CsPersistentChatAddin](remove-cspersistentchataddin.md)
+  - [Remove-CsPersistentChatAddin](https://technet.microsoft.com/en-us/library/JJ205350(v=OCS.15))
 
-  - [Set-CsPersistentChatAddin](set-cspersistentchataddin.md)
+  - [Set-CsPersistentChatAddin](https://technet.microsoft.com/en-us/library/JJ204721(v=OCS.15))
 
 <!-- end list -->
 
@@ -58,9 +58,9 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatCategory](https://technet.microsoft.com/en-us/library/JJ204803(v=OCS.15))
 
-  - [Remove-CsPersistentChatCategory](remove-cspersistentchatcategory.md)
+  - [Remove-CsPersistentChatCategory](https://technet.microsoft.com/en-us/library/JJ204660(v=OCS.15))
 
-  - [Set-CsPersistentChatCategory](set-cspersistentchatcategory.md)
+  - [Set-CsPersistentChatCategory](https://technet.microsoft.com/en-us/library/JJ204952(v=OCS.15))
 
 <!-- end list -->
 
@@ -68,9 +68,9 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatComplianceConfiguration](https://technet.microsoft.com/en-us/library/JJ205163(v=OCS.15))
 
-  - [Remove-CsPersistentChatComplianceConfiguration](remove-cspersistentchatcomplianceconfiguration.md)
+  - [Remove-CsPersistentChatComplianceConfiguration](https://technet.microsoft.com/en-us/library/JJ204767(v=OCS.15))
 
-  - [Set-CsPersistentChatComplianceConfiguration](set-cspersistentchatcomplianceconfiguration.md)
+  - [Set-CsPersistentChatComplianceConfiguration](https://technet.microsoft.com/en-us/library/JJ204949(v=OCS.15))
 
 <!-- end list -->
 
@@ -78,9 +78,9 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatConfiguration](https://technet.microsoft.com/en-us/library/JJ205330(v=OCS.15))
 
-  - [Remove-CsPersistentChatConfiguration](remove-cspersistentchatconfiguration.md)
+  - [Remove-CsPersistentChatConfiguration](https://technet.microsoft.com/en-us/library/JJ204927(v=OCS.15))
 
-  - [Set-CsPersistentChatConfiguration](set-cspersistentchatconfiguration.md)
+  - [Set-CsPersistentChatConfiguration](https://technet.microsoft.com/en-us/library/JJ205122(v=OCS.15))
 
 <!-- end list -->
 
@@ -98,13 +98,13 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatEndpoint](https://technet.microsoft.com/en-us/library/JJ204811(v=OCS.15))
 
-  - [Remove-CsPersistentChatEndpoint](remove-cspersistentchatendpoint.md)
+  - [Remove-CsPersistentChatEndpoint](https://technet.microsoft.com/en-us/library/JJ204626(v=OCS.15))
 
 <!-- end list -->
 
-  - [Remove-CsPersistentChatMessage](remove-cspersistentchatmessage.md)
+  - [Remove-CsPersistentChatMessage](https://technet.microsoft.com/en-us/library/JJ204668(v=OCS.15))
 
-  - [Test-CsPersistentChatMessage](test-cspersistentchatmessage.md)
+  - [Test-CsPersistentChatMessage](https://technet.microsoft.com/en-us/library/JJ204656(v=OCS.15))
 
 <!-- end list -->
 
@@ -114,9 +114,9 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatPolicy](https://technet.microsoft.com/en-us/library/JJ205396(v=OCS.15))
 
-  - [Remove-CsPersistentChatPolicy](remove-cspersistentchatpolicy.md)
+  - [Remove-CsPersistentChatPolicy](https://technet.microsoft.com/en-us/library/JJ205301(v=OCS.15))
 
-  - [Set-CsPersistentChatPolicy](set-cspersistentchatpolicy.md)
+  - [Set-CsPersistentChatPolicy](https://technet.microsoft.com/en-us/library/JJ205192(v=OCS.15))
 
 <!-- end list -->
 
@@ -126,15 +126,15 @@ The Persistent Chat cmdlets enable you to manage and configure the Lync Server P
 
   - [New-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ205166(v=OCS.15))
 
-  - [Remove-CsPersistentChatRoom](remove-cspersistentchatroom.md)
+  - [Remove-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ204639(v=OCS.15))
 
-  - [Set-CsPersistentChatRoom](set-cspersistentchatroom.md)
+  - [Set-CsPersistentChatRoom](https://technet.microsoft.com/en-us/library/JJ204801(v=OCS.15))
 
 <!-- end list -->
 
   - [Get-CsPersistentChatState](https://technet.microsoft.com/en-us/library/JJ204915(v=OCS.15))
 
-  - [Set-CsPersistentChatState](set-cspersistentchatstate.md)
+  - [Set-CsPersistentChatState](https://technet.microsoft.com/en-us/library/JJ205109(v=OCS.15))
 
 </div>
 

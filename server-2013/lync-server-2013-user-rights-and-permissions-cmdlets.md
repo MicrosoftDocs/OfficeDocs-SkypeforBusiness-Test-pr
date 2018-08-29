@@ -46,10 +46,10 @@ The following is a list of cmdlets that relate directly to managing user permiss
     [Remove-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg413036(v=OCS.15))
 
   - <span></span>  
-    [Set-CsAdminRole](set-csadminrole.md)
+    [Set-CsAdminRole](https://technet.microsoft.com/en-us/library/Gg399066(v=OCS.15))
 
   - <span></span>  
-    [Update-CsAdminRole](update-csadminrole.md)
+    [Update-CsAdminRole](https://technet.microsoft.com/en-us/library/JJ204851(v=OCS.15))
 
 <!-- end list -->
 
@@ -62,10 +62,10 @@ The following is a list of cmdlets that relate directly to managing user permiss
     [Grant-CsOUPermission](https://technet.microsoft.com/en-us/library/Gg425739(v=OCS.15))
 
   - <span></span>  
-    [Revoke-CsOUPermission](revoke-csoupermission.md)
+    [Revoke-CsOUPermission](https://technet.microsoft.com/en-us/library/Gg398977(v=OCS.15))
 
   - <span></span>  
-    [Test-CsOUPermission](test-csoupermission.md)
+    [Test-CsOUPermission](https://technet.microsoft.com/en-us/library/Gg398787(v=OCS.15))
 
 <!-- end list -->
 
@@ -73,10 +73,10 @@ The following is a list of cmdlets that relate directly to managing user permiss
     [Grant-CsSetupPermission](https://technet.microsoft.com/en-us/library/Gg398569(v=OCS.15))
 
   - <span></span>  
-    [Revoke-CsSetupPermission](revoke-cssetuppermission.md)
+    [Revoke-CsSetupPermission](https://technet.microsoft.com/en-us/library/Gg425834(v=OCS.15))
 
   - <span></span>  
-    [Test-CsSetupPermission](test-cssetuppermission.md)
+    [Test-CsSetupPermission](https://technet.microsoft.com/en-us/library/Gg398428(v=OCS.15))
 
 </div>
 
